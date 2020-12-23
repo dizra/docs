@@ -7,7 +7,7 @@
 * [Begrippenlijst](begrippenlijst.md)
 * [Wijzigingen](wijzigingen.md)
 
-## Thema's <a id="thema"></a>
+## Thema's
 
 * [Vertrouwensinfrastructuur](thema/vertrouwensinfrastructuur.md)
 * [Regie op gezondheidsdata](thema/regie-op-gezondheidsdata.md)
@@ -17,6 +17,8 @@
 * [Duurzaam](thema/duurzaam.md)
 * [FAIR-data](thema/fair-data.md)
 * [Open standaarden](thema/open-standaarden.md)
+
+## Functies
 
 ## Rollen
 
