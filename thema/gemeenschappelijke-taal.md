@@ -10,7 +10,15 @@ description: >-
 
 Een gemeenschappelijke taal spreken betekent dat je elkaar begrijpt binnen de context van een onderwerp. Een gemeenschappelijke taal spreek je als we binnen een context een ontologie hebben en een vocabulaire. In de onderstaande beschrijving maken we gebruik van: [Ontological Foundations for Structural Conceptual Models](https://ris.utwente.nl/ws/portalfiles/portal/6042428/thesis_Guizzardi.pdf) van Giancarlo Guizzardi.
 
-### Wat is een context?
+Semantische interoperabiliteit betekent dat mensen de betekenis van gegevens op eenzelfde manier interpreteren. In de digitale wereld hebben we het onszelf moeilijk gemaakt. We praten over de manier van vastlegging en communiceren met attribuutnamen die een machine niet begrijpt. En vervolgens is er een mismatch in de manier van vastlegging waardoor we elkaar niet meer begrijpen. Om dit probleem op te lossen, moeten we de kern van het probleem aanpakken. Mensen praten namelijk niet in attributen, maar gebruiken concepten. 
+
+We begrijpen allemaal wat koffie drinken is, we hebben daar een beeld van. We kunnen in een database gegevens vastleggen hoe we koffie kunnen drinken. De wijze waarop is irrelevant, zolang we maar uitleggen wat het betekent. Zo kun je kiezen voor vaslegging van {Z, ZS, ZM, ZSM} of voor {42, 43, 44, 45}. Ook kun je de vastlegging een andere logica laten volgen, bijvoorbeeld {100=Zwart, 1=Melk, 2=Suiker}. Als mensen begrijpen we dat deze drie manieren hetzelfde zijn. De betekenis is namelijk hetzelfde. Als mensen herkennen we de concepten 'koffie zwart', 'koffie met melk', 'koffie met suiker' en 'koffie met melk en suiker'. Reden waarom we ook in de informatietechnologie moeten communiceren in concepten en niet in gegevens.
+
+Een gemeenschappelijk taal spreek je dan ook pas als we de gegevens op een semantisch consistente manier kunnen interpreteren. Hiervoor is een ontologie nodig waarin de betekenis van een concept is uitgelegd. Machineleesbaar, zodat ook de machine in concepten kan communiceren.
+
+Zie ook: https://bp4mc2.org/20181107/
+
+### Betekenis is contextueel
 
 Het afspreken van een gemeenschappelijke taal en terminologie vereist een contextueel kader. De context bepaalt namelijk de taal en de terminologie die we hanteren. Een context zien we in DIZRA als een situatie waarover afspraken worden gemaakt en wat betrekking heeft op een persoon of haar omgeving.
 
@@ -24,7 +32,7 @@ Voorbeelden van context:
 * Applicatiecontext \(e-mail, bezochte websites etc.\)
 * Systeemcontext \(netwerkverkeer, status van de printer etc.\)
 
-DIZRA hanteert als uitgangspunt dat we data modelleren voor een informatiecontext. De andere contexten zijn onderdeel van het model. Voorbeelden van een informatiecontext zijn medicatie, verpleging, zwangerschap en geboorte en beelden. De informatiecontext vormt het kader waarvoor we de ontologie ontwikkelen. Dat zorgt ervoor dat we grenzen stellen aan wat we modelleren. Maar ook dat we modelleren wat bij elkaar hoort. Maar de grens goed bepalen is complex. We zullen daarin moeten leren en moeten kunnen veranderen.
+DIZRA hanteert als uitgangspunt dat we concepten modelleren voor een informatiecontext. De andere contexten zijn onderdeel van het model. Voorbeelden van een informatiecontext zijn medicatie, verpleging, zwangerschap en geboorte en beelden. De informatiecontext vormt het kader waarvoor we de ontologie ontwikkelen. Dat zorgt ervoor dat we grenzen stellen aan wat we modelleren. Maar ook dat we modelleren wat bij elkaar hoort. Maar de grens goed bepalen is complex. We zullen daarin moeten leren en moeten kunnen veranderen.
 
 ### Wat is een ontologie en vocabulaire?
 
@@ -42,11 +50,30 @@ Ontologie is zinsontleding. We moeten eerst de zin beschrijven. Een zin is opgeb
 
 Data meervoudig kunnen gebruiken en machineleesbaar maken betekent dat we de huidige data moeten schonen. Het moet met name geschoond worden van arbitraire definities van data. De concepten moeten eenduidig geïnterpreteerd kunnen worden. De data zal onze kennis moeten beschrijven van concepten.
 
-### Ontologie en zorginformatiebouwstenen \(zibs\)
+#### Weergave op conceptueel niveau
 
-We zien zorginformatiebouwstenen als een specificatie die gemaakt is op basis van een ontologie. Een ontologie specificeert de betekenis van een concept. Het is een conceptualisatie van de werkelijkheid.
+Voor het weergeven van concepten uit een ontologie kan een conceptueel model worden gebruikt. Een conceptueel model is een abstractie van de ontologie. Dit betekent dat elementen uit de ontologie buiten beschouwing zijn gelaten om zo tot de kern te komen van wat iemand wil communiceren.
 
-![Figuur 1: Relatie tussen conceptualisatie van een ontologie en een domeinabstractie](../.gitbook/assets/ontologie.jpg)
 
-Een zorginformatiebouwsteen beschrijft een zorginhoudelijk concept in termen van de gegevenselementen waaruit dat concept bestaat, de datatypes van die gegevenselementen etc. Het is met andere woorden een abstractie van de ontologie.
 
+![Figuur 1: Voorbeeld van een conceptueel model met relatie tussen patiënt en arts.](../.gitbook/assets/patientontologie.png)
+
+ 
+
+De betekenis van een concept komt in een conceptueel model tot uitdrukking door de samenhang met andere concepten. Bijvoorbeeld het concept patiënt zoals in bovenstaand figuur: een patiënt is gedefinieerd als een natuurlijk persoon die een medische behandeling krijgt van een arts.
+
+In een taxanomie kunnen we de concepten classificeren en een hiërarchie aanbrengen. 
+
+#### Weergave op logisch niveau
+
+Een logisch model geeft de eigenschappen en datatypes weer van een concept. Net als een conceptueel model is het logishe model een abstractie van de ontologie. Het is gericht op communicatie van de eigenschappen die voor een concept kunnen of moeten worden vastgelegd. Het onderstaande voorbeeld is een visuele weetgave van een ontologie voor Linked Data. 
+
+
+
+![](../.gitbook/assets/logisch model.jpg)
+
+
+
+**Ontologie en zorginformatiebouwstenen \(zibs\)**
+
+Een zorginformatiebouwsteen beschrijft een zorginhoudelijk concept in termen van de gegevenselementen waaruit dat concept bestaat, de datatypes van die gegevenselementen etc. Het is met andere woorden een abstractie van de ontologie op logisch niveau waarin de betekenis ontbreekt.

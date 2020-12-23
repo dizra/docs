@@ -43,7 +43,7 @@ De onderstaande richtlijnen zijn van toepassing voor de techniekleverancier.
 
 ### A4.1: Het afsprakenstelsel _MOET_ voorzien in afspraken dat producten van techniekleveranciers personen in staat stellen regie te nemen op gegevens.
 
-De producten van een techniekleverancier moeten personen in staat stellen regie te nemen op zijn of haar gegevens. Het product moet daarom functionele ondersteuning geven aan het uitgeven, het houden dan wel het verifiëren van een attest. Voor het verifiëren van een attest moet het product interoperabel zijn met de diensten van een netwerkbeheerder. 
+De producten van een techniekleverancier moeten personen in staat stellen regie te nemen op zijn of haar gegevens. Het product moet daarom functionele ondersteuning geven aan het uitgeven, het houden dan wel het verifiëren van een verklaring. Voor het verifiëren van een verklaring moet het product interoperabel zijn met de diensten van een netwerkbeheerder. 
 
 ### A4.2: Het afsprakenstelsel _MOET_ voorzien in afspraken dat producten van techniekleveranciers gegevenselementen kunnen interpreteren overeenkomstig de ontologie van het domein.
 

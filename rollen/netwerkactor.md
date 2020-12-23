@@ -14,7 +14,7 @@ Wat is een netwerkactor? Ben kijkt een beetje vies als hij het woord uitspreekt.
 Een netwerkactor is iets of iemand. Het zijn alle dingen die een rol spelen in het netwerk en de data die we produceren. Het kunnen rechtspersonen zijn, natuurlijke personen, apparaten, machines en applicaties. Alles wat data produceert of het onderwerp is van data. Maar ook iedereen of alles wat bronhouder is van data of afnemer is van data zegt Amber. Een netwerkactor is niet alleen een organisatie of een mens dus.
 
 {% hint style="info" %}
-Iedere netwerkactor heeft een eigen identiteit in het netwerk. Als we data produceren willen we weten wie het geproduceerd heeft. Bijvoorbeeld om te weten met welk apparaat een bloeddruk is gemeten. Het apparaat heeft daarom een eigen identiteit nodig zodat we de kennis over het apparaat kunnen beschrijven.
+Iedere netwerkactor heeft een eigen identificatie in het netwerk. Als we data produceren willen we weten wie het geproduceerd heeft. Bijvoorbeeld om te weten met welk apparaat een bloeddruk is gemeten. Het apparaat heeft daarom een eigen identificatie nodig zodat we de kennis over het apparaat kunnen beschrijven.
 {% endhint %}
 
 ## Dienst voor publicatie van data en services
@@ -37,10 +37,10 @@ We  maken afspraken over het beschikbaar stellen van data vertelt Amber. Data FA
 De onderwerpen die we onderkennen zijn:
 
 * Afspraken over de indeling van het domein naar **informatiecontexten**. Het domein doet dit al door een verdeling te maken naar onderwerpen zoals: medicatie, verpleging, zwangerschap en geboorte en beelden.
-* Afspraken over een **ontologie** \(zie ook het thema over een g[emeenschappelijke taal](../thema/gemeenschappelijke-taal.md)\). In de ontologie specificeren we de concepten. Op basis van de ontologie kunnen we een attest specificeren.
+* Afspraken over een **ontologie** \(zie ook het thema over een g[emeenschappelijke taal](../thema/gemeenschappelijke-taal.md)\). In de ontologie specificeren we de concepten. Op basis van de ontologie kunnen we een verklaring specificeren.
 * Afspraken over de te hanteren **plateaus** voor het vindbaar, toegankelijk en interoperabel maken van data. Een plateau zegt iets over de **volwassenheid** van een organisatie met betrekking tot data. Het plateau is van invloed op de mate van [regie op gegevens](../thema/regie-op-gezondheidsdata.md) die de betrokken persoon heeft. 
 * Afspraken over de **metadata** die beschikbaar worden gesteld en de ontologie van de metadata.
-* Afspraken over het publiceren van data via een **interface** \(zoals HL7 FHIR API\), het **dataformaat** en het **transportprotocol**. Dit is afhankelijk van de volwassenheid van een organisatie. Een organisatie kan door een interface data toegankelijk maken. Een hoger niveau van regie op gegevens wordt door een organisatie gerealiseerd als zij een interface biedt voor het uitgeven en ontvangen van attesten.
+* Afspraken over het publiceren van data via een **interface** \(zoals HL7 FHIR API\), het **dataformaat** en het **transportprotocol**. Dit is afhankelijk van de volwassenheid van een organisatie. Een organisatie kan door een interface data toegankelijk maken. Een hoger niveau van regie op gegevens wordt door een organisatie gerealiseerd als zij een interface biedt voor het uitgeven en ontvangen van verklaringen.
 * Afspraken maken over het publiceren van **services** op data, bijvoorbeeld om via querytalen of via algoritmes data beschikbaar te stellen. Dit is afhankelijk van de volwassenheid van een organisatie. Als een organisatie data via een ontologie beschikbaar kan stellen, dan kunnen ze deze toegankelijk maken via een querytaal. Het beschikbaar stellen van een algoritme op de data is weer een stap verder.
 * Afspraken maken over het proces en de ontwikkeling van **geautoriseerde uitwisselingen** van data**.**
 

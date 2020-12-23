@@ -3,13 +3,12 @@
 * [Wat is DIZRA?](README.md)
 * [Van start gaan](van-start-gaan.md)
 * [Manifest](manifest.md)
-* [Herkomst principes](herkomst-principes.md)
 * [Begrippenlijst](begrippenlijst.md)
 * [Wijzigingen](wijzigingen.md)
 
 ## Thema's <a id="thema"></a>
 
-* [Vertrouwensinfrastructuur](thema/vertrouwensinfrastructuur.md)
+* [Vertrouwensmodel](thema/vertrouwensmodel.md)
 * [Regie op gezondheidsdata](thema/regie-op-gezondheidsdata.md)
 * [Gemeenschappelijke taal](thema/gemeenschappelijke-taal.md)
 * [Data bij de bron](thema/data-bij-de-bron.md)

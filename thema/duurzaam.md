@@ -34,7 +34,7 @@ We zijn van mening dat we niet kunnen standaardiseren naar één standaard. Met 
 Een digitaal object bestaat uit:
 
 * Data als een verzameling bits.
-* Een unieke vaste identiteit voor het object zodat naar het object kan worden gerefereerd.
+* Een unieke vaste identificatie voor het object zodat naar het object kan worden gerefereerd.
 * Formaten waarin de data kan worden weergegeven en de serialisaties waarmee de data kan worden omgezet naar het formaat. Data en representatie staan dus los van elkaar.
 * Metadata waarin onder andere wordt aangegeven wie de bronhouder, wat de gehanteerde ontologie is is en hoe het object toegankelijk is. Onder toegankelijkheid verstaan we ook de verschillende standaarden en protocollen die voor het koppelvlak worden gehanteerd.
 

@@ -23,7 +23,7 @@ De normen beschrijven eisen voor gegevensuitwisseling door middel van:
 
 * use cases \(zoals medicatieproces, verpleegkundige overdracht en beelduitwisseling\);
 * aspecten van use cases \(zoals toestemming en vindbaarheid van data en diensten\); 
-* of als aanvullende eisen \(zoals identiteit, authenticatie en beveiliging\).
+* of als aanvullende eisen \(zoals identificatie, authenticatie en beveiliging\).
 
 De stelselregisseur geeft opdracht tot het specificeren van een norm. 
 
@@ -52,7 +52,7 @@ Er zijn vele definities voor governance in omloop vertelt Ben. Wij beschrrijven 
 * Afspraken over de **ontwikkeling en het beheer** van de afspraken;
 * De **governance structuur** voor de afspraken met de rollen en verantwoordelijkheden;
 * De **financiering** voor de governance, de ontwikkeling en het beheer van de afspraken;
-* Afspraken voor het **vertrouwen**. Wie wordt in het netwerk vertrouwd voor het uitgeven van een attest en hoe kan dit geverifieerd worden?
+* Afspraken voor het **vertrouwen**. Wie wordt in het netwerk vertrouwd voor het uitgeven van een verklaring en hoe kan dit geverifieerd worden?
 * Afspraken over technische **interoperabiliteit**. 
 
 Er zijn inmiddels goede voorbeelden beschikbaar voor governance op afspraken.
@@ -75,7 +75,7 @@ Onderdeel van de governance op afspraken is toezicht en handhaving van de afspra
 
 ## Dienst voor vertrouwen in het netwerk
 
-De netwerkautoriteit is verantwoordelijk voor het verkrijgen en behouden van het vertrouwen in het netwerk. Vertrouwen is nodig om data te gebruiken en te hergebruiken. Het is het vertrouwen van een netwerkactor dat de uitgever van een attest te vertrouwen is. Dat een voorschrijver van medicatie daarvoor bevoegd was, dat een bloeddruk op een juiste manier is gemeten etc.
+De netwerkautoriteit is verantwoordelijk voor het verkrijgen en behouden van het vertrouwen in het netwerk. Vertrouwen is nodig om data te gebruiken en te hergebruiken. Het is het vertrouwen van een netwerkactor dat de uitgever van een verklaring te vertrouwen is. Dat een voorschrijver van medicatie daarvoor bevoegd was, dat een bloeddruk op een juiste manier is gemeten etc.
 
 {% hint style="info" %}
 **Een kwestie van vertrouwen**
@@ -84,18 +84,18 @@ Laten we het concreet maken zegt Amber. Stel dat ik naar mijn huisarts ga. De hu
 
 Door middel van een elektronsche handtekening kunnen we de herkomst van de data vaststellen vertelt Amber. We kunnen achterhalen wie de auteur en de uitgever van de data is. Maar dan weten we nog niet dat de auteur een huisarts is. Daarvoor is een verklaring uit het BIG-register nodig. De medisch specialist kan daardoor zien dat de auteur een BIG-geregistreerde arts is. Het CIBG als uitgever van het BIG-register moet echter vertrouwd worden door de medisch specialist. 
 
-Zo kun je nog wel even doorgaan zegt Ben. Digitaal kun je niemand vertrouwen, maar je moet uiteindelijk iemand vertrouwen. Klopt zegt Amber. Daarom is een vertrouwenslijst nodig van uitgevers die in het netwerk vertrouwd worden. Bijvoorbeeld het CIBG. Een attest kan vertrouwd worden als deze afkomstig is van een uitgever die geregistreerd is in de vertrouwenslijst. Dat is in het afsprakenstelsel afgesproken.
+Zo kun je nog wel even doorgaan zegt Ben. Digitaal kun je niemand vertrouwen, maar je moet uiteindelijk iemand vertrouwen. Klopt zegt Amber. Daarom is een vertrouwenslijst nodig van uitgevers die in het netwerk vertrouwd worden. Bijvoorbeeld het CIBG. Een verklaring kan vertrouwd worden als deze afkomstig is van een uitgever die geregistreerd is in de vertrouwenslijst. Dat is in het afsprakenstelsel afgesproken.
 {% endhint %}
 
 #### Vertrouwde uitgevers
 
-Om een attest te vertrouwen moet een actor de uitgever vertrouwen. De netwerkautoriteit van een netwerk maakt afspraken over de uitgevers die zij vertrouwt. Andere netwerken kunnen deze afspraken overnemen oftewel hergebruiken.
+Om een verklaring te vertrouwen moet een actor de uitgever vertrouwen. De netwerkautoriteit van een netwerk maakt afspraken over de uitgevers die zij vertrouwt. Andere netwerken kunnen deze afspraken overnemen oftewel hergebruiken.
 
 De netwerkautoriteit voert het beheer op de vertrouwenslijst van vertrouwde uitgevers. De uitgevers die geregistreerd zijn in de vertrouwenslijst worden door de netwerkactoren vertrouwd. Dat is een afspraak in het afsprakenstelsel. Met een selectief aantal vertrouwde uitgevers in de vertrouwenslijst kan een ketting van vertrouwen worden gerealiseerd in het netwerk.
 
 #### Vertrouwde netwerkbeheerders
 
-Voor het functioneren van het netwerk zijn verschillende vertrouwensdiensten nodig. Met name vertrouwensdiensten voor de identiteit van een persoon \(zowel rechts- als natuurlijk personen\) of ding. Netwerkbeheerders leveren deze diensten en netwerkactoren moeten weten welke netwerkbeheerders door het netwerk vertrouwd worden. De netwerkautoriteit moet daarom een  lijst beheren met vertrouwde netwerkbeheerders.
+Voor het functioneren van het netwerk zijn verschillende vertrouwensdiensten nodig. Met name vertrouwensdiensten voor de identificatie van een persoon \(zowel rechts- als natuurlijk personen\) of ding. Netwerkbeheerders leveren deze diensten en netwerkactoren moeten weten welke netwerkbeheerders door het netwerk vertrouwd worden. De netwerkautoriteit moet daarom een  lijst beheren met vertrouwde netwerkbeheerders.
 
 #### Vertrouwde netwerkgids
 

@@ -42,7 +42,7 @@ In maart 2019 is het [kader voor regie op gegevens](https://rog.pleio.nl/file/do
 
 1. **Bronhouders stellen gegevens ter beschikking** waarbij een persoon een kopie ontvangt van een dataset.
 2. **Bronhouders maken gegevens toegankelijk** voor een persoon. Ze werken mee aan de uitwisseling van gegevens onder regie van een persoon. Een persoon kan aangeven dat partij A een specifiek gegeven of een set van gegevens mag inzien bij partij B voor een bepaald doel en voor een bepaalde duur.
-3. **Een persoon heeft volledig zelf de regie over zijn of haar eigen gegevens**. Als persoon doe je een bewering \(ik ben 18, ik heb mijn rijbewijs\) en een bevoegde instantie attesteert deze bewering.
+3. **Een persoon heeft volledig zelf de regie over zijn of haar eigen gegevens**. Als persoon doe je een bewering \(ik ben 18, ik heb mijn rijbewijs\) en een bevoegde instantie verklaart dat deze bewering betrouwbaar is.
 
 DIZRA geeft in de richtlijnen ondersteuning aan regie op gegevens overeenkomstig de visie uit het kader.
 
@@ -53,8 +53,8 @@ Alice is gevallen op straat. Ze viel over een randje en kwam op straat lelijk te
 
 Zelf regie op gegevens hebben betekent voor Alice dat:
 
-* Dat ze een attest ontvangt dat er een foto is gemaakt. Alice kan deze foto delen.
-* Dat ze een attest ontvangt dat ze een doorverwijzing heeft. Met het attest kan ze naar de traumapoli in het ziekenhuis bij haar in de buurt. De bewering dat ze een doorverwijzing heeft is geattesteerd door een bevoegde arts.
+* Dat ze een verklaring ontvangt dat er een foto is gemaakt. Alice kan deze foto delen.
+* Dat ze een verklaring ontvangt dat ze een doorverwijzing heeft. Met de verklaring kan ze naar de traumapoli in het ziekenhuis bij haar in de buurt. De bewering dat ze een doorverwijzing heeft is ondertekend door een bevoegde arts.
 {% endhint %}
 
 ## Wat als mensen digitaal niet mee kunnen of willen doen?

@@ -41,3 +41,6 @@ Voor iedere rol zijn is nu minimaal een dienst gespecificeerd. De tekst voor de 
 
 Beeldmateriaal over het manifest toegevoegd. Het beeldmateriaal is te downloaden op de pagina met het manifest.
 
+## 1.1.3 - 2020-12
+
+Versie en wijzigingenbeheer is vanaf nu via GitHub te volgen.
