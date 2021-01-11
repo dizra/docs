@@ -1,9 +1,0 @@
----
-description: >-
-
----
-
-# Overzicht generieke functies
-
-
-

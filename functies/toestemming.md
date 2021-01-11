@@ -1,7 +1,0 @@
----
-description: >-
-
----
-
-# Toestemming van betrokkene
-

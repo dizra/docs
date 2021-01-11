@@ -18,14 +18,21 @@
 * [FAIR-data](thema/fair-data.md)
 * [Open standaarden](thema/open-standaarden.md)
 
-## Functies
+## Actoren
 
-## Rollen
+* [Stelselhouder](actors/systemholder.md)
+* [Stelselbeheerder](actors/administrator.md)
+* [Auditor](actors/auditor.md)
+* [Bronhouder](actors/resourceholder.md)
+* [Afnemer](actors/consumer.md)
+* [Cliënt](actors/client.md)
+* [Softwareleverancier](actors/supplier.md)
+* [Registerhouder](actors/registerkeeper.md)
+* [Voorzieningenleverancier](actors/serviceprovider.md)
+* [Standaardisatieorganisatie](actors/standardizationorganization.md)
 
-* [A1 Netwerkautoriteit](rollen/netwerkautoriteit.md)
-* [A2 Auditor](rollen/auditor.md)
-* [A3 Netwerkactor](rollen/netwerkactor.md)
-* [A4 Techniekleverancier](rollen/techniekleverancier.md)
-* [A5 Netwerkbeheerder](rollen/netwerkbeheerder.md)
-* [A6 Netwerkgids](rollen/netwerkgids.md)
+## Bouwblokken
 
+
+
+## Nutsvoorzieningen
