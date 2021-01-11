@@ -1,5 +1,10 @@
+---
+description: >-
+  Een bronhouder is een organisatie die eindverantwoordelijk is voor het publiceren en toegankelijk maken van gegevens en diensten aan afnemers.
+---
+
 # Bronhouder
-In het ecosysteem van het informatiestelsel zijn rechtspersonen (organisatie) bronhouders van data en services. Hierbij is het uitgangspunt dat een organisatie zelf verantwoordelijk is voor het beschikbaar stellen van gegevens aan de actoren in het ecosysteem. In onderstaand figuur zijn de functies opgenomen die een organisatie moet implementeren om mee te kunnen doen als bronhouder in het informatiestelsel.
+In het ecosysteem van het informatiestelsel zijn rechtspersonen (organisatie) bronhouders van data en services. Hierbij is het uitgangspunt dat een organisatie zelf verantwoordelijk is voor het beschikbaar stellen van gegevens aan de afnemers in het ecosysteem. In onderstaand figuur zijn de functies opgenomen die een organisatie moet implementeren om mee te kunnen doen als bronhouder in het informatiestelsel.
 
 
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Een voorzieningenleverancier is verantwoordelijk voor de implementatie en het beheer van een nutsvoorziening.
+  Een voorzieningenleverancier is organisatie die verantwoordelijk is voor de implementatie en het beheer van een nutsvoorziening.
 ---
 
 # Voorzieningenleverancier

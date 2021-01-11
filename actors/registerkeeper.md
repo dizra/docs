@@ -1,6 +1,6 @@
 ---
 description: >-
-  De registerhouder is verantwoordelijk voor het beheer van een register met basisgegevens of van een beroepsregister. Het register wordt als autoriteit gezien voor het uitgeven van identificerende kenmerken voor een (zorg)organisatie in het ecosysteem, voor een cliënt of voor een zorgverlener.
+  De registerhouder is een organisatie die verantwoordelijk is voor het beheer van een register met basisgegevens of van een beroepsregister. Het register wordt als autoriteit gezien voor het uitgeven van identificerende kenmerken voor een (zorg)organisatie in het ecosysteem, voor een cliënt of voor een zorgverlener.
 ---
 
 # Registerhouder

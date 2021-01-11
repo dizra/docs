@@ -1,6 +1,6 @@
 ---
 description: >-
-  De stelselhouder is eindverantwoordelijk voor het zorgstelsel en daarom ook eindverantwoordelijk voor het informatiestelsel dat onderdeel is van het zorgstelsel om continuïteit en kwaliteit van zorg te borgen. 
+  De stelselhouder is een organisatie die eindverantwoordelijk is voor het zorgstelsel en daarom ook eindverantwoordelijk voor het informatiestelsel dat onderdeel is van het zorgstelsel om continuïteit en kwaliteit van zorg te borgen. 
 ---
 
 # Stelselhouder

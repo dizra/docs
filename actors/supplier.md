@@ -1,6 +1,6 @@
 ---
 description: >-
-  Een softwareleverancier is een leverancier van software dat ondersteuning biedt aan de rol van cliënt, zorgverlener, registerhouder, voorzieningenleverancier, afnemer of bronhouder in het ecosysteem van het informatiestelsel van de zorg.
+  Een softwareleverancier is een organisatie die software levert voor ondersteuning aan een rol in het ecosysteem van het informatiestelsel van de zorg.
 ---
 
 # Softwareleverancier

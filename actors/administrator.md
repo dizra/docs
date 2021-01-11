@@ -1,6 +1,6 @@
 ---
 description: >-
-  De stelselbeheerder is verantwoordelijk voor het goede verloop van de processen voor ontwikkeling en het beheer van het portfolio aan standaarden voor het informatiestelsel.
+  De stelselbeheerder is een organisatie die verantwoordelijk is voor het goede verloop van de processen voor ontwikkeling en het beheer van het portfolio aan standaarden voor het informatiestelsel.
 ---
 
 # Stelselbeheerder

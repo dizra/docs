@@ -1,6 +1,6 @@
 ---
 description: >-
-  Een auditor is verantwoordelijk voor het uitvoeren van een audit op een product van een softwareleverancier.
+  Een auditor is een organisatie die verantwoordelijk is voor het uitvoeren van een audit op een product van een softwareleverancier.
 ---
 
 # Auditor

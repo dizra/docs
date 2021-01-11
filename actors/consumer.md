@@ -1,6 +1,6 @@
 ---
 description: >-
-  Een afnemer is een afnemer van diensten en data. Het zijn diensten op een (aggregatie) van data of diensten om data te vinden en te hergebruiken.
+  Een afnemer is een organisatie die afnemer is van diensten en data van een bronhouder, registerhouder of voorzieningenleverancier. Het zijn diensten op een (aggregatie) van data of diensten om data te vinden en te hergebruiken.
 ---
 
 # Afnemer

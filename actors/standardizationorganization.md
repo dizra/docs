@@ -1,6 +1,6 @@
 ---
 description: >-
-  Een Standaardisatieorganisatie is verantwoordelijk voor beschrijven van een stelselstandaard, een standaard die voor het informatiestelsel gerealiseerd is.
+  Een standaardisatieorganisatie is een organisatie die verantwoordelijk is voor beschrijven van een stelselstandaard, een standaard die voor het informatiestelsel gerealiseerd is.
 ---
 
 # Standaardisatieorganisatie
