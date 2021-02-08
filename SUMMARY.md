@@ -3,36 +3,33 @@
 * [Wat is DIZRA?](README.md)
 * [Van start gaan](van-start-gaan.md)
 * [Manifest](manifest.md)
-* [Herkomst principes](herkomst-principes.md)
 * [Begrippenlijst](begrippenlijst.md)
 * [Wijzigingen](wijzigingen.md)
 
-## Thema's
+## Motivatie principes
 
-* [Vertrouwensinfrastructuur](thema/vertrouwensinfrastructuur.md)
-* [Regie op gezondheidsdata](thema/regie-op-gezondheidsdata.md)
-* [Gemeenschappelijke taal](thema/gemeenschappelijke-taal.md)
-* [Data bij de bron](thema/data-bij-de-bron.md)
-* [Gelijk speelveld](thema/gelijk-speelveld.md)
-* [Duurzaam](thema/duurzaam.md)
-* [FAIR-data](thema/fair-data.md)
-* [Open standaarden](thema/open-standaarden.md)
+* [Regie op gezondheidsdata](motivation/regie-op-gezondheidsdata.md)
+* [Gemeenschappelijke taal](motivation/gemeenschappelijke-taal.md)
+* [Data bij de bron](motivation/data-bij-de-bron.md)
+* [Gelijk speelveld](motivation/gelijk-speelveld.md)
+* [Duurzaam](motivation/duurzaam.md)
+* [FAIR-data](motivation/fair-data.md)
+* [Machineleesbaar](motivation/machineleesbaar.md)
+* [Federatief](motivation/federatief.md)
+* [Open standaarden](motivation/open-standaarden.md)
 
-## Actoren
+## Views
 
-* [Stelselhouder](actors/systemholder.md)
-* [Stelselbeheerder](actors/administrator.md)
-* [Auditor](actors/auditor.md)
-* [Bronhouder](actors/resourceholder.md)
-* [Afnemer](actors/consumer.md)
-* [Cliënt](actors/client.md)
-* [Softwareleverancier](actors/supplier.md)
-* [Registerhouder](actors/registerkeeper.md)
-* [Voorzieningenleverancier](actors/serviceprovider.md)
-* [Standaardisatieorganisatie](actors/standardizationorganization.md)
-
-## Bouwblokken
-
-
-
-## Nutsvoorzieningen
+* [Organisatie](views/organization.md)
+    * [Autorisator](buildingblocks/organization/actors/authorizer.md)
+    * [Auditor](buildingblocks/organization/actors/auditor.md)
+    * [Distributeur](buildingblocks/organization/actors/distributor.md)
+    * [Expert](buildingblocks/organization/actors/expert.md)
+    * [Financier](buildingblocks/organization/actors/financier.md)
+    * [Gebruiker](buildingblocks/organization/actors/user.md)
+    * [Standaardisatieorganisatie](buildingblocks/organization/actors/standardizationorganization.md)
+    * [Stelselbeheerder](buildingblocks/organization/actors/administrator.md)
+    * [Stelselhouder](buildingblocks/organization/actors/holder.md)
+* [Systeem](views/system.md)
+* [Technologie](views/technology.md)
+    * [Vertrouwensleverancier](buildingblocks/system/providers/trustprovider.md)
