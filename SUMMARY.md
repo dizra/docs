@@ -3,7 +3,7 @@
 * [Wat is DIZRA?](README.md)
 * [Van start gaan](van-start-gaan.md)
 * [Manifest](manifest.md)
-* [Begrippenlijst](begrippenlijst.md)
+* [Begrippenlijst](GLOSSARY.md)
 * [Wijzigingen](wijzigingen.md)
 
 ## Motivatie principes
@@ -32,4 +32,4 @@
     * [Stelselhouder](buildingblocks/organization/actors/holder.md)
 * [Systeem](views/system.md)
 * [Technologie](views/technology.md)
-    * [Vertrouwensleverancier](buildingblocks/system/providers/trustprovider.md)
+    * [Vertrouwensleverancier](buildingblocks/technology/actors/trustprovider.md)

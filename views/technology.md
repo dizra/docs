@@ -2,9 +2,7 @@
 
 De gebruikers van het ecosysteem hebben technologische voorzieningen nodig om gebruik te kunnen maken van het ecosysteem. Deze voorzieningenleveranciers zijn allen softwareleveranciers. Ze maken software voor diverse toepassingen zoals in onderstaand figuur is weergegeven. 
 
-![Voorzieningenleveranciers](/Users/reneh/dizra/docs/.gitbook/assets/technology/systemproviders.svg)
-
-
+![Voorzieningenleveranciers](../.gitbook/assets/technology/systemproviders.svg)
 
 Er kunnen vele soorten voorzieningenleveranciers zijn. We hebben niet de intentie om daarin volledig te zijn, anders dat we een aantal willen noemen om een impressie te geven wat nodig is voor interoperabilteit.
 
