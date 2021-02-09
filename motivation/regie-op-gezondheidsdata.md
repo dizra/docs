@@ -10,7 +10,7 @@ description: >-
 
 Door het vrije verkeer van persoonlijke gegevens goed te regelen –op een manier die het vertrouwen van mensen in de samenleving vergroot en beschermt– kun je de (dienstverlening in de) digitale samenleving verbeteren. 
 
-![Regie op gegevens](../.gitbook/assets/motivation/datacontrol.svg)
+![Motivatie voor regie op gezondheidsdata](../.gitbook/assets/motivation/datacontrol.svg)
 
 ## Wat is regie op gezondheidsdata?
 
