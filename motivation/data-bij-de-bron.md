@@ -11,13 +11,13 @@ description: >-
 
 Met data bij de bron geven we invulling aan een decentrale informatiehuishouding. De minister stelt dat hij hecht aan verantwoord gebruik van data en het - waar mogelijk - voorkomen van landelijke dataverzamelingen. Bron: [Bijlage Kamerbrief over data laten werken voor gezondheid - Data laten werken voor gezondheid](https://www.rijksoverheid.nl/documenten/brieven/2018/11/15/data-laten-werken-voor-gezondheid), 15 november 2018. Daarnaast is het de basis voor meervoudig gebruik van gegevens vanuit het netwerkperspecief.
 
-![Data bij de bron](../.gitbook/assets/motivation/federateddata.svg)
+![Motivatie voor data bij de bron](../.gitbook/assets/motivation/federateddata.svg)
 
 ## Wat is data bij de bron?
 
 Data bij de bron betekent dat we data bij de bron ophalen en niet doorkopiëren. Soms is een kopie noodzakelijk vanuit wettelijke verplichtingen, maar het principe is dat we zo weinig mogelijk kopiëren en zoveel mogelijk data direct bij de bron ophalen. Data bij de bron betekent dat we dezelfde databron hebben voor meerdere ketens. Hierdoor ontstaat een netwerk van data en services. Iedere deelnemer in het netwerk kan zowel afnemer als aanbieder van data en services zijn. Data kan hergebruikt en meervoudig gebruikt worden omdat de betekenis van data formeel en machineleesbaar is beschreven. Iedere keten kan op basis van de betekenis bepalen wat zij nodig heeft in haar keten. Een zelfde databron heeft daardoor vele afnemers in vele ketens.
 
-![Data vanuit de bron](../.gitbook/assets/motivation/datasource.svg)
+![Data vanuit de bron](../.gitbook/assets/motivation/datastation.svg)
 
 Data bij de bron betekent ook dat data traceerbaar is naar de bron. Voor vertrouwen in data is het noodzakelijk dat een afnemer de herkomst van de data kan zien, bijvoorbeeld door een elektronische handtekening. Al verkrijgt de afnemer de data indirect, dan nog weet de afnemer op basis van de herkomst dat de data betrouwbaar is en hergebruikt kan worden. 
 

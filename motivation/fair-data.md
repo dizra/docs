@@ -11,7 +11,7 @@ description: >-
 
 Gezondheidsdata moet FAIR zijn stelt de minister \(bron: Kamerbrief over data laten werken voor gezondheid - [Nederlandse brief](https://www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport/documenten/brieven/2018/11/15/data-laten-werken-voor-gezondheid)\). Maar waarom? Een van de doelstellingen voor het informatiestelsel is meervoudig gebruik van data. Herbruikbaarheid van data moet leiden tot lagere kosten en de mogelijkheden openen voor het uitvoeren van onderzoek. We willen daarom dat data vindbaar, toegankelijk en uitwisselbaar is zodat data herbruikbaar is. 
 
-![FAIR data](../.gitbook/assets/motivation/fairdata.svg)
+![Motivatie voor FAIR-data](../.gitbook/assets/motivation/fairdata.svg)
 
 De FAIR-dataprincipes zijn internationaal geverifieerde en geaccepteerde principes. Ze dienen als uitgangspunt om data geschikt te maken voor hergebruik.
 

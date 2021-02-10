@@ -31,7 +31,7 @@ De stelselhouder heeft in lijn met NEN7522:2020 de volgende verantwoordelijkhede
 - De stelselhouder is verantwoordelijk voor het **kwaliteitsbeleid en het benchmarken** van de stelselstandaarden.
 - De stelselbeheerder is verantwoordelijk voor het **portfolio management**.
 
-![Verantwoordelijkheden van de stelselbeheerder](../../.gitbook/assets/organization/administrator-onto.svg)
+![Verantwoordelijkheden van de stelselbeheerder](../.gitbook/assets/organization/administrator-onto.svg)
 
 Het portfolio management bevat de volgende verantwoordelijkheden:
 
@@ -46,7 +46,7 @@ De financier is verantwoordelijk voor het financieren van de governance, de ontw
 ## Standaardisatieorganisatie
 Een standaardisatieorganisatie is verantwoordelijk voor het ontwikkelen en beheren van een standaard, een norm of een technische afspraak. In termen van NEN7522:2020 is een standaardisatieorganisatie de houder (of eigenaar) van een standaard. In specifieke gevallen kan een standaardisatieorganisatie als functioneel beheerder aangesteld zijn om een standaard in opdracht van een houder te ontwikkelen en te beheren.
 
-![De verschillende soorten standaarden in het stelsel](../../.gitbook/assets/organization/standardizationorganization-onto.svg  )
+![De verschillende soorten standaarden in het stelsel](../.gitbook/assets/organization/standorg-onto.svg  )
 
 De NEN7522:2020 is de norm voor het ontwikkelen en beheren van standaarden. De norm onderkent individuele standaarden en stelsels van standaarden en beschrijft de eisen aan de processen van ontwikkeling en beheer. De norm beschrijft geen inhoudelijke eisen voor de bouwblokken van een standaard. 
 

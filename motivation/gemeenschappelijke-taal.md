@@ -9,7 +9,7 @@ description: >-
 ## Waarom gemeenschappelijke taal?
 Een gemeenschappelijke taal is nodig voor het realiseren van interoperabiliteit. Interoperabiliteit van gegevens betekent dat we dezelfde betekenis geven aan gegevens. Dat we bijvoorbeeld genderidentiteit niet verwarren met de registratie van het geslacht in het basisregister personen, dat we herkennen dat het ook iets anders is dan het biologische geslacht. Hierdoor kunnen we gezondheidsrisico's verminderen en kunnen we het juiste gegeven in de juiste keten hergebruiken.
 
-![Gemeenschappelijke taal](../.gitbook/assets/motivation/commonlanguage.svg)
+![Motivatie voor gemeenschappelijke taal](../.gitbook/assets/motivation/commonlanguage.svg)
 
 ## Wanneer spreek je een gemeenschappelijke taal?
 

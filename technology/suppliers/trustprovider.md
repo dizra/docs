@@ -12,7 +12,7 @@ In het systeem zijn 4 lagen onderkend voor het vertrouwen. De lagen zijn van ond
 
 1. Met de eerste wordt een sterke cryptografische basis gelegd voor identificatie. Het legt een basis voor elektronische handtekeningen.
 2. Met de tweede laag is communicatie mogelijk.
-3. De derde laag borgt dat gegevens geverifieerd zijn op integriteit, herkomst en validiteit. De derde laag geeft nog geen vetrtouwen dat de gegevens juist zijn. Het is alleen dat de gegevens elektronisch zijn ondertekend door een persoon of organisatie.
+3. De derde laag borgt dat gegevens geverifieerd zijn op integriteit, herkomst en validiteit. De derde laag geeft nog geen vertrouwen dat de gegevens juist zijn. Het is alleen dat de gegevens elektronisch zijn ondertekend door een persoon of organisatie.
 4. Om het vertrouwen in de derde laag te verkrijgen is de vierde laag nodig, de laag met het raamwerk aan afspraken voor een ecosysteem. Er zijn namelijk afspraken nodig om een persoon of organisatie te vertrouwen. Zodat we weten dat de persoon of organisatie de verklaring mocht uitgeven en dat wij het kunnen vertrouwen.
 
 De lagen zijn weergegeven in het onderstaande figuur en zijn vervolgens beschreven (Bron: [Trust Over IP](https://trustoverip.org)).
@@ -23,7 +23,7 @@ De lagen zijn weergegeven in het onderstaande figuur en zijn vervolgens beschrev
 
 In de eerste laag wordt de cryptografische basis gelegd voor het vertrouwen. Software agents zijn hierdoor in staat om de herkomst en de integriteit van gegevens te verifiëren door middel van elektronische handtekeningen.
 
-Het toepassen van cryptografie vereist een public key infrastructure (PKI). Traditioneel is een PKI geïmplementeerd met certificaten van een certificaatautoriteit (CA), bijvoorbeeld PKIOverheid. Een alternatief is een decentraal PKI oftewel DPKI. In een DPKI zijn de publieke sleutels gepubliceerd in een blockchain, in een gedistrubueerd grootboek, een decentraal bestandssysteem of in ieder andere voorziening waarmee het noodzakelijke vertrouwen kan worden geborgd.
+Het toepassen van cryptografie vereist een public key infrastructure (PKI). Traditioneel is een PKI geïmplementeerd met certificaten van een certificaatautoriteit (CA), bijvoorbeeld PKIOverheid. Een alternatief is een decentraal PKI oftewel DPKI. In een DPKI zijn de publieke sleutels gepubliceerd in een blockchain, in een gedistribueerd grootboek, een decentraal bestandssysteem of in ieder andere voorziening waarmee het noodzakelijke vertrouwen kan worden geborgd.
 
 De voorziening van een (decentraal) public key infrastructure vereist afspraken tussen de leveranciers die de infrastructuur als dienst aanbieden. Het zijn afspraken over bijvoorbeeld de betrouwbaarheid, de veiligheid en het gebruik van protocollen en standaarden voor zowel de interactie onderling als naar klanten.
 
@@ -42,13 +42,13 @@ Gegevens worden uitgewisseld in elektronische documenten (zoals een recept, een 
 
 - een bronhouder verklaart dat de gegevens betrouwbaar, juist en geldig zijn;
 - een bronhouder haar verklaring kan intrekken als de gegevens niet meer geldig zijn;
-- een bronhouder geautoriseert is voor het uitgeven van het document (omdat niet iedereen een recept mag voorschrijven bijvoorbeeld);
+- een bronhouder geautoriseerd is voor het uitgeven van het document (omdat niet iedereen een recept mag voorschrijven bijvoorbeeld);
 - een document geverifieerd kan worden op volledigheid en formaat.
 
 Afspraken zijn nodig voor het invullen van de bovenstaande punten. Het zijn afspraken voor het gebruik van standaarden waarmee deze punten worden geïmplementeerd.
 
 ## Laag 4: Een ecosysteem met afspraken
 
-De afspraken in de drie onderste lagen zijn sectoroverstijgend. Het zijn afspraken die niet specifiek voor de zorg zijn, maar ook in andere sectoren gebruikt worden. Het is juist gewenst dat de zorg hergebruik maakt van deze afspraken. Het maakt de informatievoorziening in de zorg eenvoudiger en daardoor goedkoper omdat kennis over de afspraken, de prrotocollen en de standaarden breder gedeeld is dan alleen in de zorg.
+De afspraken in de drie onderste lagen zijn sectoroverstijgend. Het zijn afspraken die niet specifiek voor de zorg zijn, maar ook in andere sectoren gebruikt worden. Het is juist gewenst dat de zorg hergebruik maakt van deze afspraken. Het maakt de informatievoorziening in de zorg eenvoudiger en daardoor goedkoper omdat kennis over de afspraken, de protocollen en de standaarden breder gedeeld is dan alleen in de zorg.
 
 De afspraken voor een ecosysteem zijn afspraken voor het informatiestelsel in de zorg. Bijvoorbeeld afspraken over wie mag meedoen (bijvoorbeeld alle geregistreerde zorgaanbieders) en wie welke documenten mag uitgeven.

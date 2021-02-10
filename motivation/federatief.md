@@ -9,7 +9,7 @@ description: >-
 
 Het Informatiestelsel Zorg heeft geen formele eigenaar. Het is van iedereen. We noemen dat een federatief stelsel. Binnen een federatief stelsel moeten we samen afspraken maken over de standaarden en de voorzieningen die we gebruiken. 
 
-![Federatief](../.gitbook/assets/motivation/federated.svg)
+![Motivatie voor een federatief stelsel](../.gitbook/assets/motivation/federated.svg)
 
 We maken afspraken om het volgende te realiseren:
 

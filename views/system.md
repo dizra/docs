@@ -4,14 +4,16 @@ description: >-
 ---
 
 # Het informatiestelsel als ecosysteem
+
 De standaarden beschrijven de generieke en specifieke functies van het ecosysteem. Het zijn functies die geïmplementeerd zijn in een informatiesysteem, een uitwisselingssysteem, in platformsoftware en/of in integratiesoftware. De functies worden gebruikt door de deelnemers aan het ecosysteem. Het is ecosysteem waarin gegevens worden uitgewisseld. 
 
 In onderstaande paragraaf zijn de deelnemers van het ecosysteem beschreven. Vervolgens beschrijven we de voorzieningenleveranciers..  
 
 ## De deelnemers aan het ecosysteem
+
 In onderstaand figuur zijn de deelnemers weergegeven zoals we die onderkennen in het operationele gebruik van het informatiestelsel. 
 
-![Contextdiagram](../.gitbook/assets/system/contextdiagram.svg)
+![Contextdiagram van het informatiestelsel als ecosysteem](../.gitbook/assets/system/contextdiagram.svg)
 
 De gebruikers van het ecosysteem zijn:
 
