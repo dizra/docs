@@ -13,8 +13,10 @@ Dit doen we door het beschrijven van:
 
 1. Een **manifest** met uitgangspunten. Het manifest beschrijft de uitgangspunten voor het maken van architectuurkeuzes. Met dezelfde uitgangspunten verkrijgen we meer samenhang.
 2. Een **begrippenlijst** om de terminologie te verklaren en te definiëren**.** Met de begrippen werken we aan een gemeenschappelijk taalgebruik zodat we elkaar beter begrijpen.
-3. De uitgangspunten zijn uitgewerkt in **thema's.** In een thema is de motivatie en de rationale van een uitgangspunt beschreven**.**
-4. Meer samenhang ontstaat door het raamwerk met **rollen.** De rollen geven structuur aan de afspraken en stimuleert hergebruik van afspraken. Voor iedere rol wordt beschreven wat haar verantwoordelijkheden zijn. Aan de hand van deze verantwoordelijkheden zijn de **richtlijnen** opgesteld. De richtlijnen zijn de implicaties van de gehanteerde uitgangspunten..
+3. De **motivatie** voor de uitgangspunten. 
+4. Een beschrijving van de **besturing** van het informatiestelsel. Het stelsel is een stelsel van standaarden. In de besturing staat het voortbrengingsproces en de governance beschreven.
+5. De context van het informatiestelsel als **ecosysteem** met deelnemers. Het laat zien wie de deelnemers zijn en hoe interoperabiliteit ontstaat tussen deelnemers.
+6. De **technologie** achter het ecosysteem waarbij we inzicht geven in de systeemactoren en de leveranciers van het inforrmatiestelsel.
 
 DIZRA is in opdracht van het Informatieberaad Zorg ontwikkeld. Het informatiestelsel is nodig om de zorg nog beter, betaalbaarder en toegankelijker te maken. Als IT-Architecten in de zorg dragen we bij door het stelsel uitgangspunten, structuur en samenhang te geven. DIZRA is het gezamenlijke resultaat van alle gesprekken en de ingebrachte kennis, kunde en ervaring van IT-Architecten in de zorg. DIZRA is vakinhoudelijk en vereist daarom kennis van informatievoorziening en informatietechnologie. 
 
@@ -29,12 +31,6 @@ Het Informatieberaad Zorg heeft de volgende besluiten genomen:
 {% endhint %}
 
 Van start gaan gaan is de beste manier om de referentiearchitectuur te leren kennen. Je kunt het hoofdstuk van start gaan gebruiken als leeswijzer voor het beginnen met DIZRA.
-
-## Normenkader downloaden
-
-Het normenkader kan gedownload worden als Excel-bestand. Klik hieronder om het bestand te downloaden.
-
-{% file src=".gitbook/assets/normenkader-v2020-03.xlsx" caption="Normenkader" %}
 
 ## Reactie geven
 

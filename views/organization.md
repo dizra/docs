@@ -15,6 +15,8 @@ De rollen zijn gebaseerd op de rollen beschreven in NEN7522:2020 en toegepast vo
 
 ![Voorbeeld van een organigram](../.gitbook/assets/organization/organigram.svg)
 
+We onderkennen de volgende rollen:
+
 1. **stelselhouder**: eindverantwoordelijk voor het ontwikkelen en beheren van het informatiestelsel van standaarden. De houder stelt de scope en het doel van het informatiestelsel vast evenals de principes en de uitgangspunten die worden gehanteerd bij ontwikkeling en beheer;
 2. **stelselfinancier**: verantwoordelijk voor de financiering van de ontwikkeling en het beheer van het informatiestelsel;
 3. **stelselautorisator**: keurt een stelselstandaard (waaronder normen en technische afspraken) goed door deze als bouwsteen van het informatiestelsel tet erkennen;

@@ -46,4 +46,3 @@ Een bronhouder mag zich rentmeester noemen als zij voldoet aan de volgende regel
 {% endhint %}
 
 Zoals de minister in zijn [brief](https://www.rijksoverheid.nl/documenten/kamerstukken/2018/11/15/kamerbrief-over-data-laten-werken-voor-gezondheid) heeft aangegeven is voor het gebruik van data [vertrouwen](vertrouwensinfrastructuur.md) nodig en [regie op gegevens](regie-op-gezondheidsdata.md) door de persoon. Het vertrouwen dat door het proces rentmeesterschap en de rol van rentmeester wordt bewaakt.
-

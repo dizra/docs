@@ -39,7 +39,7 @@ DIZRA hanteert als uitgangspunt dat we concepten modelleren voor een informatiec
 
 ### Wat is een ontologie en vocabulaire?
 
-Om informatie uit data te halen is een interpretatie nodig. De interpretatie geeft betekenis aan data. Ontologie geeft betekenis aan data, aan de concepten die we in de werkelijkheid zien. Een ontologie is een beschrijving van het domein in de taal van het domein. Een vocabulaire is de verzameling woorden die we gebruiken in de ontologie. 
+Om informatie uit data te halen is een interpretatie nodig. De interpretatie geeft betekenis aan data. Ontologie geeft betekenis aan data, aan de concepten die we in de werkelijkheid zien. Een ontologie is een beschrijving van het domein in de taal van het domein. We willen de ontologie beschrijven in een standaard die machineleesbaar is, bijvoorbeeld in Web Ontology Language. Een vocabulaire is de verzameling woorden die we gebruiken in de ontologie. 
 
 {% hint style="info" %}
 **Ontologie in de praktijk**
@@ -65,10 +65,71 @@ In een taxanomie kunnen we de concepten classificeren en een hiërarchie aanbren
 
 #### Weergave op logisch niveau
 
-Een logisch model geeft de eigenschappen en datatypes weer van een concept. Net als een conceptueel model is het logishe model een abstractie van de ontologie. Het is gericht op communicatie van de eigenschappen die voor een concept kunnen of moeten worden vastgelegd. Het onderstaande voorbeeld is een visuele weetgave van een ontologie voor Linked Data. 
+Een logisch model geeft de eigenschappen en datatypes weer van een concept. Net als een conceptueel model is het logische model een abstractie van de ontologie. Het is gericht op communicatie van de eigenschappen die voor een concept kunnen of moeten worden vastgelegd. Het onderstaande voorbeeld is een visuele weetgave van een ontologie voor Linked Data. 
 
 ![Voorbeeld van een logisch model](../.gitbook/assets/motivation/logischmodel.svg)
 
 **Ontologie en zorginformatiebouwstenen \(zibs\)**
 
-Een zorginformatiebouwsteen beschrijft een zorginhoudelijk concept in termen van de gegevenselementen waaruit dat concept bestaat, de datatypes van die gegevenselementen etc. Het is met andere woorden een abstractie van de ontologie op logisch niveau waarin de betekenis ontbreekt.
+Een zorginformatiebouwsteen beschrijft een zorginhoudelijk concept in termen van de gegevenselementen waaruit dat concept bestaat, de datatypes van die gegevenselementen etc. Het is met andere woorden een abstractie van de ontologie op logisch niveau.
+
+#### Weergave op fysiek niveau
+
+Een fysiek model toont de gegevens zoals deze in een bericht, een bestand of in een database zijn opgenomen. Voor berichten en bestanden worden open inernationale standaarden gebruikt, bijvoorbeeld XML of JSON.  Om de verbinding met ontologie te houden moet een formaat gehanteerd worden die dat ondersteund, bijvoorbeeld Turtle (zie onderstaand voorbeeld uit FHIR voor een observatie).
+
+```turtle
+@prefix fhir: <http://hl7.org/fhir/> .
+@prefix loinc: <http://loinc.org/rdf#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# - resource -------------------------------------------------------------------
+
+<http://hl7.org/fhir/Observation/bmi> a fhir:Observation;
+  fhir:nodeRole fhir:treeRoot;
+  fhir:Resource.id [ fhir:value "bmi"];
+  fhir:Resource.meta [
+     fhir:Meta.profile [
+       fhir:value "http://hl7.org/fhir/StructureDefinition/vitalsigns";
+       fhir:index 0;
+       fhir:link <http://hl7.org/fhir/StructureDefinition/vitalsigns>
+     ]
+  ];
+  fhir:Observation.status [ fhir:value "final"];
+  fhir:Observation.category [
+     fhir:index 0;
+     fhir:CodeableConcept.coding [
+       fhir:index 0;
+       fhir:Coding.system [ fhir:value "http://terminology.hl7.org/CodeSystem/observation-category" ];
+       fhir:Coding.code [ fhir:value "vital-signs" ];
+       fhir:Coding.display [ fhir:value "Vital Signs" ]
+     ];
+     fhir:CodeableConcept.text [ fhir:value "Vital Signs" ]
+  ];
+  fhir:Observation.code [
+     fhir:CodeableConcept.coding [
+       fhir:index 0;
+       a loinc:39156-5;
+       fhir:Coding.system [ fhir:value "http://loinc.org" ];
+       fhir:Coding.code [ fhir:value "39156-5" ];
+       fhir:Coding.display [ fhir:value "Body mass index (BMI) [Ratio]" ]
+     ];
+     fhir:CodeableConcept.text [ fhir:value "BMI" ]
+  ];
+  fhir:Observation.subject [
+     fhir:link <http://hl7.org/fhir/Patient/example>;
+     fhir:Reference.reference [ fhir:value "Patient/example" ]
+  ];
+  fhir:Observation.effectiveDateTime [ fhir:value "1999-07-02"^^xsd:date];
+  fhir:Observation.valueQuantity [
+     fhir:Quantity.value [ fhir:value "16.2"^^xsd:decimal ];
+     fhir:Quantity.unit [ fhir:value "kg/m2" ];
+     fhir:Quantity.system [ fhir:value "http://unitsofmeasure.org" ];
+     fhir:Quantity.code [ fhir:value "kg/m2" ]
+  ] .
+
+<http://hl7.org/fhir/Patient/example> a fhir:Patient .
+
+```
+

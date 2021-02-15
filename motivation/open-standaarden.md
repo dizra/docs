@@ -28,6 +28,8 @@ We willen open standaarden hanteren omdat we een gelijk speelveld willen tussen 
 
 Wanneer we als IT-Architecten spreken over open standaarden, dan spreken we over de standaarden die gebruikt worden voor het realiseren van semantische en technische interoperabiliteit. Het gebruik van internationale standaarden is hierbij het uitgangspunt. 
 
+![Motivatie voor open internationale standaarden](../.gitbook/assets/motivation/standards.svg)
+
 * **Internationale standaarden zijn nodig omdat zorg niet gebonden is aan Nederland**. Zeker niet als iemand dicht bij de grens woont. Maar ook toeristen en patiënten met complexe aandoeningen. Zij kunnen in andere landen worden behandeld dan het thuisland. Het uitwisselen van gegevens moet dan ook internationaal worden gedaan. Niet voor niets worden ook in Europees verband standaarden gedefinieerd. 
-* **Internationale standaarden zijn nodig omdat we gebruik willen maken van de internationale innovatiekracht** op het gebied van informatietechnologie. Het moet voor internationale leveranciers technisch eenvoudig zijn om de Nederlandse markt te betreden. We willen de innvovatiekracht, het vermogen tot innoveren optimaliseren. Dat betekent dat we geen beperkingen willen leggen op innovatie door de standaarden die we gebruiken.
+* **Internationale standaarden zijn nodig omdat we gebruik willen maken van de internationale innovatiekracht** op het gebied van informatietechnologie. Het moet voor internationale leveranciers technisch eenvoudig zijn om de Nederlandse markt te betreden. We willen de innovatiekracht, het vermogen tot innoveren optimaliseren. Dat betekent dat we geen beperkingen willen leggen op innovatie door de standaarden die we gebruiken.
 
