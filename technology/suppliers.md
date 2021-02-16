@@ -1,5 +1,11 @@
+---
+description: >-
+  Deze pagina beschrijft de verschillende soorten softwareleveranciers die de technologie van het ecosysteem leveren.
+---
+
 # De softwareleveranciers van het ecosysteem
-## Inkoop van software door deelnemers
+
+## Inkoop en/of exploitatie van software door deelnemers
 
 De deelnemers van het ecosysteem hebben technologische voorzieningen nodig om gebruik te kunnen maken van het ecosysteem. Deze voorzieningen worden geleverd door softwareleveranciers. Ze maken software voor diverse toepassingen zoals in onderstaand figuur is weergegeven. 
 
@@ -18,8 +24,10 @@ We noemen de volgende softwareleveranciers als impressie:
 5. Een **leverancier van een informatiesysteem** verwerkt de gegevens uit het ecosysteem en presenteert deze aan de eindgebruikers overeenkomstig de ontologie. Eindgebruikers zoals zorgverleners gebruiken de gegevens via het informatiesysteem en moeten de gegevens correct kunnen interpreteren.
 6. Een **app leverancier** is een leverancier van een mobiele app of internetportaal gerricht op cliënten en/of zorgverleners. Het zijn toepassingen waarmee een cliënt de rol van gegevensregisseur bijvoorbeeld kan uitvoeren.
 
-## Samenwerkingsverbanden van deelnemers
+## Inkoop en/of exploitatie door samenwerkingsverbanden van deelnemers
 
-Zorgorganisaties kunnen zich organiseren in samenwerkingsverbanden voor de inkoop van software. Een samenwerkingsverband kan meer middelen beschikbaar maken.Hierdoor kunnen bijvoorbeeld meer experts op het gebied van informatietechnologie worden aangetrokken. 
+Zorgorganisaties kunnen zich organiseren in samenwerkingsverbanden voor de inkoop en exploitatie van software. Een samenwerkingsverband kan meer middelen beschikbaar maken. Hierdoor kunnen bijvoorbeeld meer experts worden aangetrokken. 
 
-Een samenwerkingsverband (maar ook iedere zorgorganisatie) kan er ook voor kiezen om zelf de software te ontwikkelen en te implementeren.
+## Zelf software ontwikkelen
+
+Een organisatie of een samenwerkingsverband kan er ook voor kiezen om zelf de software te ontwikkelen en te implementeren.

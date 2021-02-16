@@ -50,9 +50,3 @@ RFC 3161
 
 
 Trust Fabric
-
-1. Een **leverancier van een uitwisselingssysteem** levert software voor gegevensuitwisseling op basis van een uitwisselprofiel die beschreven is in een van de stelselstandaarden.
-2. Een **platformleverancier** levert een platform voor een aantal generieke functies van het ecosysteem. 
-3. Zowel een **systems integrator** als een **data integrator** zijn integratiespecialisten. De focus voor een systems integrator ligt echter op het integreren van het applicatielandschap door een gegevensstroom van procesgebeurtenissen te realiseren waardoor de informatiesystemen integraal als één systeem kunnen functioneren. De gegevensstroom kan gebruikt worden voor data integratie en gegevensuitwisseling (bijvoorbeeld notificaties).
-4. Een **data integrator** verzamelt de gegevens uit de informatiesystemen om het als geheel te presenteren en/of toegankelijk te maken voor bijvoorbeeld gegevensanalyse of gegevensuitwisseling. 
-5. Een **leverancier van een informatiesysteem** verwerkt de gegevens uit het ecosysteem en presenteert deze aan de eindgebruikers overeenkomstig de ontologie. Eindgebruikers zoals zorgverleners gebruiken de gegevens via het informatiesysteem en moeten de gegevens correct kunnen interpreteren.

@@ -1,11 +1,10 @@
 # Table of contents
 
-* [Wat is DIZRA?](README.md)
-* [Van start gaan](van-start-gaan.md)
+* [Start](README.md)
 * [Manifest](manifest.md)
 * [Begrippenlijst](GLOSSARY.md)
 
-## Views
+## Perspectieven
 
 * [Motivatie](views/motivation.md)
     * [Regie op gezondheidsdata](motivation/regie-op-gezondheidsdata.md)
