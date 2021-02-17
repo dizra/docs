@@ -25,7 +25,7 @@ De deelnemers in het informatiestelsel zijn:
 
 ### Wanneer is een persoon of organisatie deelnemer van het ecosysteem?
 
-Cliënten zijn deelnemer omdat ze cliënt zijn van een zorgorganisatie. Voor registerhouders, zorgorganisaties en secundaire deelnemers geldt dat ze erkent moeten zijn. Een zorgorganisatie is bijvoorbeeld erkent omdat zij geregistreerd is in het landelijk register van zorgaanbieders (LRZa). Het bewijs van registratie maakt dat een zorgorganisatie deelnemer is. De registerhouder van het LRZa is een bekende en erkende organisatie. Zo zal iedere deelnemer erkend moeten zijn als deelnemer: omdat zij bekend is, omdat zij een geregistreerde organisatie is in een bekend register of omdat zij door samenwerkingsafspraken erkend is.
+Cliënten zijn deelnemer omdat ze cliënt zijn van een zorgorganisatie. Voor registerhouders, zorgorganisaties en secundaire deelnemers geldt dat ze erkent moeten zijn. Een zorgorganisatie is bijvoorbeeld erkent omdat zij geregistreerd is in het landelijk register van zorgaanbieders (LRZa). Het bewijs van registratie maakt dat een zorgorganisatie deelnemer is. De registerhouder van het LRZa is een bekende en erkende organisatie (een gegevensautoriteit). Zo zal iedere deelnemer erkend moeten zijn als deelnemer: omdat zij bekend is, omdat zij een geregistreerde organisatie is in een bekend register of omdat zij door samenwerkingsafspraken erkend is.
 
 ### Gemeenschappelijke taal vanuit een netwerkperspectief
 
