@@ -44,9 +44,8 @@ Voor elke laag zijn de verschillende soorten afspraken hieronder beschreven.
 - Vanuit **wet- en regelgeving** zijn eisen gesteld, beschreven in wetten en in algemene maatregelen van bestuur.
 - Samenwerkingsafspraken worden beschreven in convenanten. We plaatsen deze op het niveau van **organisatiebeleid**, maar een convenant is vaak ook een afspraak op proces- en informatieniveau. Die afspraken zien we als stelselstandaard.
 - Kwaliteitsstandaarden zijn afspraken op het niveau van **organisatiebeleid**, **(zorg)proces** en **informatie**. In de informatieparagraaf zijn de processen en informatieobjecten gespecificeerd. Deze proces- en informatieanalyse is de basis voor de afspraken in de stelselstandaarden.
-- Stelselstandaarden beschrijven de functionele en niet-functionele eisen op het niveau van **informatie** en **applicatie**.
-- Op de lagen **applicatie** en **infrastructuur** zien we softwareproducten met daarin verschillende componenten. Technische afspraken beschrijven het technische ontwerp en de technische specificaties voor de componenten.
-- Indien de wetgever besluit tot regulering van publieke voorzieningen in het informatiestelsel, dan zijn dat afspraken op de laag van de **infrastructuur**.
+- Een uitwisselprofiel voor gegevensuitwisseling tussen deelnemers beschrijft de functionele en niet-functionele eisen op het niveau van **informatie** en **applicatie**.
+- Op de lagen **applicatie** en **infrastructuur** beschrijft een technische afspraak de werking van het ecosysteem met de interactie tussen systeemactoren.
 
 De opgave is om stelselstandaarden vanuit het netwerkperspectief in samenhang te ontwikkelen en niet alleen per keten. In onderstaand figuur is dit ter illustratie weergegeven.
 

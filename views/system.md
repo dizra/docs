@@ -44,7 +44,7 @@ Een verpleeghuis en een ziekenhuis willen gegevens uitwisselen over een cliënt:
 
 Voor interoperabiliteit is het noodzakelijk dat het verpleeghuis en het ziekenhuis elkaar begrijpen, dat vocabulaire en betekenis verbonden zijn. Hiervoor hebben beiden de volgende opties:
 
-1. Beide deelnemers kunnen partners zijn in het domein en dezelfde taal spreken.
+1. Beide deelnemers kunnen partners zijn in een contextueel kader en dezelfde taal spreken in dat kader.
 2. De beide deelnemers kunnen kiezen voor een gemeenschappelijke kerntaal. Dit is van toepassing voor een contextueel kader. Verpleegkundigen uit beide domeinen spreken bijvoorbeeld voor een deel dezelfde taal. Zij kunnen gezamenlijk de kerntaal voor verpleegzorg afspreken die in beide domeinen gebruikt wordt.
 3. Een deelnemer kan zich conformeren aan de taal van een andere deelnemer.
 4. Een deelnemer kan kiezen om de taal van een andere deelnemer te vertalen naar haar eigen taal. Op basis van de betekenis van een concept kan zij de woorden vertalen naar haar eigen vocabulaire.
