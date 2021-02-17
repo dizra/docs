@@ -1,9 +1,11 @@
 ---
 description: >-
-  In deze pagina en in de onderliggende hoofdstukken is de motivatie voor het informatiestelsel en haar principes beschreven.
+  Deze pagina en de onderliggende pagina's beschrijven de motivatie voor het informatiestelsel.
 ---
 
 # De motivatie voor het informatiestelsel
+
+## Een duurzaam informatiestelsel in de zorg
 
 "*Om zorg beter, betaalbaarder en toegankelijker te maken werkt het Informatieberaad aan een duurzaam informatiestelsel voor de zorg, waarin zorggegevens veilig en betrouwbaar uitgewisseld worden. Hiervoor worden afspraken, standaarden en voorzieningen gemaakt samen met de deelnemers van het Informatieberaad*." Dit staat te lezen op https://www.informatieberaadzorg.nl. We hebben het in onderstaand figuur weergegeven. 
 

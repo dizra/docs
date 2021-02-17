@@ -11,9 +11,9 @@ We maken hergebruik van bestaande termen en definities. Dit zijn de termen en de
 - begrippenlijst Afsprakenstelsel Elektronische Toegangsdiensten (zie https://afsprakenstelsel.etoegang.nl/display/as/Begrippenlijst);
 - de door Nictiz verzamelde begrippen (zie: https://www.nictiz.nl/standaardisatie/overzichten/begrippen/)
 
-## Verklaring
+## Bronhouder
 
-Een verklaring is een elektronisch document waarin de ondertekenaar verklaart dat de data in het document betrouwbaar, juist en valide is.
+Een aanbieder van data en services.
 
 ## Deelnemer
 
@@ -26,3 +26,7 @@ Duurzaam Informatiestelsel in de Zorg Referentie Architectuur
 ## Ecosysteem
 
 Een ecosysteem is normaal gesproken een geheel van planten en dieren \(bron: Van Dale\). Voor het informatiestelsel wordt het ecosysteem gezien als het systeem dat met het geheel van afspraken is gerealiseerd.
+
+## Verklaring
+
+Een verklaring is een elektronisch document waarin de ondertekenaar verklaart dat de data in het document betrouwbaar, juist en valide is.

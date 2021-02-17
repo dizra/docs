@@ -24,10 +24,10 @@ We noemen de volgende softwareleveranciers als impressie:
 5. Een **leverancier van een informatiesysteem** verwerkt de gegevens uit het ecosysteem en presenteert deze aan de eindgebruikers overeenkomstig de ontologie. Eindgebruikers zoals zorgverleners gebruiken de gegevens via het informatiesysteem en moeten de gegevens correct kunnen interpreteren.
 6. Een **app leverancier** is een leverancier van een mobiele app of internetportaal gerricht op cliënten en/of zorgverleners. Het zijn toepassingen waarmee een cliënt de rol van gegevensregisseur bijvoorbeeld kan uitvoeren.
 
-## Inkoop en/of exploitatie door samenwerkingsverbanden van deelnemers
+## Inkoop en/of exploitatie door een samenwerkingsverband van deelnemers
 
-Zorgorganisaties kunnen zich organiseren in samenwerkingsverbanden voor de inkoop en exploitatie van software. Een samenwerkingsverband kan meer middelen beschikbaar maken. Hierdoor kunnen bijvoorbeeld meer experts worden aangetrokken. 
+Zorgorganisaties kunnen zich organiseren in samenwerkingsverbanden voor de inkoop en exploitatie van software. Een samenwerkingsverband heeft als voordeel dat ze meer middelen beschikbaar heeft en daardoor mogelijk meer expertise.
 
 ## Zelf software ontwikkelen
 
-Een organisatie of een samenwerkingsverband kan er ook voor kiezen om zelf de software te ontwikkelen en te implementeren.
+Een organisatie of een samenwerkingsverband kan ook kiezen om zelf de software te ontwikkelen en te implementeren.

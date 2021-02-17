@@ -7,6 +7,7 @@ description: >-
 # Gemeenschappelijke taal
 
 ## Waarom gemeenschappelijke taal?
+
 Een gemeenschappelijke taal is nodig voor het realiseren van interoperabiliteit. Interoperabiliteit van gegevens betekent dat we dezelfde betekenis geven aan gegevens. Dat we bijvoorbeeld genderidentiteit niet verwarren met de registratie van het geslacht in het basisregister personen, dat we herkennen dat het ook iets anders is dan het biologische geslacht. Hierdoor kunnen we gezondheidsrisico's verminderen en kunnen we het juiste gegeven in de juiste keten hergebruiken.
 
 ![Motivatie voor gemeenschappelijke taal](../.gitbook/assets/motivation/commonlanguage.svg)
@@ -17,9 +18,9 @@ Een gemeenschappelijke taal spreken betekent dat je elkaar begrijpt binnen de co
 
 Semantische interoperabiliteit betekent dat mensen de betekenis van gegevens op eenzelfde manier interpreteren. In de digitale wereld hebben we het onszelf moeilijk gemaakt. We praten over de manier van vastlegging en communiceren met attribuutnamen die een machine niet begrijpt. En vervolgens is er een mismatch in de manier van vastlegging waardoor we elkaar niet meer begrijpen. Om dit probleem op te lossen, moeten we de kern van het probleem aanpakken. Mensen praten namelijk niet in attributen, maar gebruiken concepten. 
 
-We begrijpen allemaal wat koffie drinken is, we hebben daar een beeld van. We kunnen in een database gegevens vastleggen hoe we koffie kunnen drinken. De wijze waarop is irrelevant, zolang we maar uitleggen wat het betekent. Zo kun je kiezen voor vastlegging van {Z, ZS, ZM, ZSM} of voor {42, 43, 44, 45}. Ook kun je de vastlegging een andere logica laten volgen, bijvoorbeeld {100=Zwart, 1=Melk, 2=Suiker}. Als mensen begrijpen we dat deze drie manieren hetzelfde zijn. De betekenis is namelijk hetzelfde. Als mensen herkennen we de concepten 'koffie zwart', 'koffie met melk', 'koffie met suiker' en 'koffie met melk en suiker'. Reden waarom we ook in de informatietechnologie moeten communiceren in concepten en niet in gegevens.
+We begrijpen allemaal wat koffie drinken is, we hebben daar een beeld van. We kunnen in een database gegevens vastleggen hoe we koffie kunnen drinken. De wijze waarop is irrelevant, zolang we maar uitleggen wat het betekent. Zo kun je kiezen voor vastlegging van {Z, ZS, ZM, ZSM} of voor {42, 43, 44, 45}. Ook kun je voor de vastlegging een andere logica volgen, bijvoorbeeld {100=Zwart, 1=Melk, 2=Suiker}. Als mensen begrijpen we dat deze drie manieren hetzelfde zijn. De betekenis is namelijk hetzelfde. Als mensen herkennen we de concepten 'koffie zwart', 'koffie met melk', 'koffie met suiker' en 'koffie met melk en suiker'. Reden waarom we ook in de informatietechnologie moeten communiceren in concepten en niet in gegevens. We hebben informatie nodig en geen ruwe data.
 
-Een gemeenschappelijk taal spreek je dan ook pas als we de gegevens op een semantisch consistente manier kunnen interpreteren. Hiervoor is een ontologie nodig waarin de betekenis van een concept is uitgelegd. Machineleesbaar, zodat ook de machine in concepten kan communiceren.
+Een gemeenschappelijk taal spreek je als we de gegevens op een semantisch consistente manier kunnen interpreteren. Hiervoor is een ontologie nodig waarin de betekenis van een concept is uitgelegd. Machineleesbaar, zodat ook de machine in concepten kan communiceren en informatie kan geven.
 
 ### Betekenis is contextueel
 
@@ -75,61 +76,4 @@ Een zorginformatiebouwsteen beschrijft een zorginhoudelijk concept in termen van
 
 #### Weergave op fysiek niveau
 
-Een fysiek model toont de gegevens zoals deze in een bericht, een bestand of in een database zijn opgenomen. Voor berichten en bestanden worden open inernationale standaarden gebruikt, bijvoorbeeld XML of JSON.  Om de verbinding met ontologie te houden moet een formaat gehanteerd worden die dat ondersteund, bijvoorbeeld Turtle (zie onderstaand voorbeeld uit FHIR voor een observatie).
-
-```turtle
-@prefix fhir: <http://hl7.org/fhir/> .
-@prefix loinc: <http://loinc.org/rdf#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-# - resource -------------------------------------------------------------------
-
-<http://hl7.org/fhir/Observation/bmi> a fhir:Observation;
-  fhir:nodeRole fhir:treeRoot;
-  fhir:Resource.id [ fhir:value "bmi"];
-  fhir:Resource.meta [
-     fhir:Meta.profile [
-       fhir:value "http://hl7.org/fhir/StructureDefinition/vitalsigns";
-       fhir:index 0;
-       fhir:link <http://hl7.org/fhir/StructureDefinition/vitalsigns>
-     ]
-  ];
-  fhir:Observation.status [ fhir:value "final"];
-  fhir:Observation.category [
-     fhir:index 0;
-     fhir:CodeableConcept.coding [
-       fhir:index 0;
-       fhir:Coding.system [ fhir:value "http://terminology.hl7.org/CodeSystem/observation-category" ];
-       fhir:Coding.code [ fhir:value "vital-signs" ];
-       fhir:Coding.display [ fhir:value "Vital Signs" ]
-     ];
-     fhir:CodeableConcept.text [ fhir:value "Vital Signs" ]
-  ];
-  fhir:Observation.code [
-     fhir:CodeableConcept.coding [
-       fhir:index 0;
-       a loinc:39156-5;
-       fhir:Coding.system [ fhir:value "http://loinc.org" ];
-       fhir:Coding.code [ fhir:value "39156-5" ];
-       fhir:Coding.display [ fhir:value "Body mass index (BMI) [Ratio]" ]
-     ];
-     fhir:CodeableConcept.text [ fhir:value "BMI" ]
-  ];
-  fhir:Observation.subject [
-     fhir:link <http://hl7.org/fhir/Patient/example>;
-     fhir:Reference.reference [ fhir:value "Patient/example" ]
-  ];
-  fhir:Observation.effectiveDateTime [ fhir:value "1999-07-02"^^xsd:date];
-  fhir:Observation.valueQuantity [
-     fhir:Quantity.value [ fhir:value "16.2"^^xsd:decimal ];
-     fhir:Quantity.unit [ fhir:value "kg/m2" ];
-     fhir:Quantity.system [ fhir:value "http://unitsofmeasure.org" ];
-     fhir:Quantity.code [ fhir:value "kg/m2" ]
-  ] .
-
-<http://hl7.org/fhir/Patient/example> a fhir:Patient .
-
-```
-
+Een fysiek model toont de gegevens zoals deze in een bericht, een bestand of in een database zijn opgenomen. Voor berichten en bestanden worden open internationale standaarden gebruikt, bijvoorbeeld XML of JSON.  Om de verbinding met ontologie te houden moet een formaat gehanteerd worden die dat ondersteund, bijvoorbeeld een standaard uit het W3C Resource Description Framework. 

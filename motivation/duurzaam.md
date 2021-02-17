@@ -19,5 +19,5 @@ Een duurzaam stelsel gaat niet alleen over gegevensuitwisseling en de standaarde
 De ingrediënten: 
 
 - Mensen met kennis en ervaring die continu willen leren, met een passie voor hun vak, voor vakmanschap. 
-- Een optimaal en volwassen voortbrengingsproces van initiatie tot en met implementatie van een stelselstandaard, waarbij we met implementatie ook de integratie bedoelen in de bestaande informatiesystemen.
-- Hoogwaardige technologie waar gedreven en vakkundige mensen mee innoveren en waarmee we de informatievoorziening in processen mee verbeteren en automatiseren. 
+- Een optimaal voortbrengingsproces van een stelselstandaard voor diensten, voor toegang tot de kennis van een organisatie en voor integratie met informatiesystemen.
+- Hoogwaardige technologie waar gedreven en vakkundige mensen mee kunnen innoveren om de informatievoorziening te verbeteren en automatiseren. 

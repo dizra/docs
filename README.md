@@ -42,7 +42,7 @@ Het informatiestelsel is een stelsel van standaarden binnen het zorgstelsel. In 
 
 We onderkennen in het informatiestelsel informatiestandaarden en technische afspraken. Een informatiestandaard beschrijft de functionele behoefte van de deelnemers en de diensten die de deelnemers voorr de invulling van die behoefte met elkaar afspreken. Een technische afspraak is een aanvulling op de informatiestandaard voor de invulling van de technische afspraken.
 
-![Het raamwerk van afspraken](.gitbook/assets/overview.svg)
+![De standaarden in het informatiestelsel](.gitbook/assets/overview.svg)
 
 ## Reactie geven
 

@@ -8,17 +8,17 @@ description: >-
 
 ## Waarom regie op gegevens?
 
-Door het vrije verkeer van persoonlijke gegevens goed te regelen –op een manier die het vertrouwen van mensen in de samenleving vergroot en beschermt– kun je de (dienstverlening in de) digitale samenleving verbeteren. 
+De dienstverlening in de digitale samenleving kun je verbeteren door het vrije verkeer van persoonlijke gegevens goed te regelen – op een manier die het vertrouwen van mensen in de samenleving vergroot en beschermt. Meer en meer zorg is tegenwoordig netwerkzorg, waarbij de enige constante de cliënt is. Er is geen lineair proces waarbij vooraf duidelijk is wie de volgende zorgverlener is. De cliënt als gegevensregisseur is dan noodzakelijk.
 
-![Motivatie voor regie op gezondheidsdata](../.gitbook/assets/motivation/datacontrol.svg)
+![Motivatie voor regie op gezondheidsdata](../.gitbook/assets/motivation/datadirector.svg)
 
 ## Wat is regie op gezondheidsdata?
 
-Regie op gezondheidsdata staat voor het vrije verkeer van persoonlijke gegevens onder regie van mensen zelf. We hanteren voor de zorg de term gezondheidsdata, maar het betreft regie op gegevens in het algemeen. We denken namelijk dat gezondheidsdata niet alleen medische gegevens betreft, maar alle gegevens die binnen de zorg relevant zijn. 
+Regie op gezondheidsdata staat voor gegevensuitwisseling onder regie van de cliënt zelf. We hanteren voor de zorg de term gezondheidsdata, maar het is gelijk aan regie op gegevens in het algemeen. We denken namelijk dat gezondheidsdata niet alleen medische gegevens zijn, maar alle gegevens die binnen de zorg relevant zijn. 
 
-We kijken naar het programma regie op gegevens voor de definitie van regie op gegevens. In het programma regie op gegevens heeft de overheid samen met private en maatschappelijke organisaties uitgewerkt hoe dit plaats moet vinden \(zie: [https://kennisopenbaarbestuur.nl/thema/regie-op-gegevens/](https://kennisopenbaarbestuur.nl/thema/regie-op-gegevens/). 
+Voor de definitie kijken we naar het programma regie op gegevens. In het programma heeft de overheid samen met private en maatschappelijke organisaties uitgewerkt wat regie op gegevens is \(zie: [https://kennisopenbaarbestuur.nl/thema/regie-op-gegevens/](https://kennisopenbaarbestuur.nl/thema/regie-op-gegevens/). 
 
-Regie op gegevens als principe maakt onderdeel uit van het regeerakkoord, de digitalisering-strategie ‘Nederland Digitaal’ en de digitale agenda ‘NLDIGIbeter’.
+Regie op gegevens als principe is onderdeel van het regeerakkoord, de digitaliseringsstrategie ‘Nederland Digitaal’ en de digitale agenda ‘NLDIGIbeter’.
 
 {% hint style="info" %}
 _"Regie op gegevens hanteert als vertrekpunt dat mensen inzage moeten hebben in hun persoonlijke gegevens en het gebruik daarvan door derden, dat zij de mogelijkheid moeten hebben om gegevens te corrigeren of verwijderen en -niet in de laatste plaats- dat zij gegevens moeten kunnen \(her\)gebruiken, zowel binnen de overheid als daarbuiten. Hierdoor verbetert de transparantie, neemt de kwaliteit van gegevens toe en wordt de positie van de burger versterkt. Voor burgers en bedrijven zorgt het voor lastenverlichtingen en het optimaliseren van processen. Persoonlijk datamanagement draagt bij aan transparantie, inzage en correctie, digitale zelfbeschikking, privacy, dataminimalisatie, de kwaliteitsverbetering van gegevens en zelfredzaamheid van mensen. Daarmee is PDM tevens een uitwerking van de beginselen zoals die gehanteerd worden bij ‘privacy by design’ en ‘security by design’."_
@@ -28,15 +28,13 @@ Bron: [Greenpaper Regie op gegevens](https://kennisopenbaarbestuur.nl/media/2558
 Toelichting: PDM staat voor Persoonlijk datamanagement
 {% endhint %}
 
-Vanuit het programma zijn de volgende principes gespecificeerd \(zie [infographic](https://rog.pleio.nl/file/download/57899761/IG-kader-regie-op-gegevens.pdf)\):
+Onderliggend aan regie op gegevens zijn de volgende principes gespecificeerd \(zie [infographic](https://rog.pleio.nl/file/download/57899761/IG-kader-regie-op-gegevens.pdf)\):
 
-* **Inclusiviteit**: Mensen met persoonlijke verschillen in mogelijkheden, omstandigheden en culturen nemen vrijelijk deel aan het \(digitale\) maatschappelijk leven.
-* **Mens centraal**: Mensen krijgen meer grip op het leven door regie op eigen persoonlijke gegevens.
-* **Digitale autonomie**: Personen verstevigen hun positie door vergroten van inzicht in en invloed op persoonlijk gegevensverkeer.
+* **Inclusiviteit**: Cliënten met persoonlijke verschillen in mogelijkheden, omstandigheden en culturen kunnen vrijelijk deelnemen aan het \(digitale\) maatschappelijk leven.
+* **Mens centraal**: Cliënten krijgen meer grip op het leven en hun gezondheid door regie op de eigen persoonlijke gegevens.
+* **Digitale autonomie**: Cliënten verstevigen hun positie doordat zij meer inzicht hebben in en meer invloed op het gegevensverkeer van hun persoonsgegevens.
 
-Om de bovenstaande principes te realiseren is transparantie noodzakelijk. Transparantie over de intenties en het gedrag van personen, aanbieders van data en afnemers. Daarnaast vormen interoperabiliteit, vertrouwen en dataminimalisatie de ingrediënten voor regie op gegevens.
-
-De principes voor regie op gegevens komen overeen met de uitgangspunten voor regie op gegevens die door de community van IT-Architecten zijn geuit en in eerdere publicaties zijn verwoord. 
+Om de bovenstaande principes te realiseren is transparantie het minimaal noodzakelijke. Transparantie over de intenties van gegevensuitwisseling en inzicht in wat organisatie met de verkregen gegevens doen, oftewel het gedrag van aanbieders van data en afnemers. Daarnaast zijn interoperabiliteit, vertrouwen en dataminimalisatie ingrediënten voor een goede regie op gegevens.
 
 ### Vormen van regie
 

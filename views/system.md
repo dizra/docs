@@ -33,18 +33,20 @@ Iedere deelnemer in het ecosysteem biedt de diensten aan die horen bij haar dome
 
 ![Gemeenschappelijke taal vanuit een netwerkperspectief](../.gitbook/assets/system/languagerelations.svg)
 
-Een verpleeghuis en een ziekenhuis willen met elkaar gegevens uitwisselen over een cliënt:
+{% hint style="info" %}
+Een verpleeghuis en een ziekenhuis willen gegevens uitwisselen over een cliënt:
 
-- Het verpleeghuis biedt diensten aan en spreekt de gemeenschappelijke taal van het domein verpleeghuiszorg. De gemeenschappelijke taal is zorgsectorspecifiek en niet ketenspecifiek. We gaan immers uit van een netwerkperspectief om meervoudig gebruik van data te verkrijgen. De taal kunnen we daarom niet koppelen aan een specifieke keten. De zorgsector hebben we in het voorbeeld als domein genomen. 
+- Het verpleeghuis biedt diensten aan en spreekt de gemeenschappelijke taal van het domein verpleeghuiszorg. De gemeenschappelijke taal is zorgsectorspecifiek en niet ketenspecifiek. We gaan immers uit van een netwerkperspectief om meervoudig gebruik van data te verkrijgen. De taal kunnen we daarom niet koppelen aan een specifieke keten. De verpleeghuiszorg hebben we in het voorbeeld als domein genomen. 
 
   Binnen het domein kunnen we nog subdomeinen en contextuele kaders onderkennen om gemeenschappelijke taal af te spreken: taal is immers contextueel. Bijvoorbeeld de context van een specialisme binnen het verpleeghuis of voor de verzorging en verpleging. Een taal wordt dus afgesproken voor een contextueel kader in een domein waarbij ieder domein zelf bepaald wat haar contextuele kaders zijn. 
 
 - Het ziekenhuis spreekt de gemeenschappelijk taal van de ziekenhuiszorg. Ook binnen de ziekenhuiszorg kunnen we nog subdomeinen en contextuele kaders onderkennen.
 
-Voor interoperabiliteit is het noodzakelijk dat het verpleeghuis en het ziekenhuis elkaar begrijpen, dat vocabulaire en betekenis verbonden zijn. Hiervoor hebben beiden de volgend opties:
+Voor interoperabiliteit is het noodzakelijk dat het verpleeghuis en het ziekenhuis elkaar begrijpen, dat vocabulaire en betekenis verbonden zijn. Hiervoor hebben beiden de volgende opties:
 
-1. Deelnemers kunnen kiezen voor een gemeenschappelijke kerntaal. Dit is van toepassing voor een contextueel kader. Verpleegkundigen uit beide domeinen spreken bijvoorbeeld voor een deel al dezelfde taal. Zij kunnen gezamenlijk de kerntaal voor verpleegzorg afspreken die in beide domeinen van toepassing is.
-2. Een deelnemer kan zich conformeren aan de taal van een andere deelnemer. Dit betekent dat zij dezelfde taal gebruiken.
+1. De beide deelnemers kunnen kiezen voor een gemeenschappelijke kerntaal. Dit is van toepassing voor een contextueel kader. Verpleegkundigen uit beide domeinen spreken bijvoorbeeld voor een deel dezelfde taal. Zij kunnen gezamenlijk de kerntaal voor verpleegzorg afspreken die in beide domeinen gebruikt wordt.
+2. Een deelnemer kan zich conformeren aan de taal van een andere deelnemer.
 3. Een deelnemer kan kiezen om de taal van een andere deelnemer te vertalen naar haar eigen taal. Op basis van de betekenis van een concept kan zij de woorden vertalen naar haar eigen vocabulaire.
 
-Randvoorwaarde is dat iedere deelnemer haar taal gepubliceerd heeft en daarmee beschikbaar heeft gesteld aan andere deelnemers.
+Randvoorwaarde is dat iedere deelnemer haar taal gepubliceerd heeft en daarmee toegankelijk heeft gemaakt voor andere deelnemers.
+{% endhint %}

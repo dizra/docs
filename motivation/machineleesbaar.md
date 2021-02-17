@@ -15,5 +15,5 @@ Gegevensanalyse en -wetenschap is noodzakelijk om bijvoorbeeld patiënten en zor
 
 ![De motivatie voor machineleesbaar](../.gitbook/assets/motivation/machinereadability.svg)
 
-
+Het W3C Resource Description Framework is bijvoorbeeld een goede basis voor machineleesbaarheid voor gegevensanalyse en -wetenschap. Deze standaarden worden meestal gebruikt in combinatie met een machineleesbare ontologie, de W3C Web Ontology Language. 
 
