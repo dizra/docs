@@ -5,7 +5,7 @@ description: >-
 
 # De softwareleveranciers van het ecosysteem
 
-## Inkoop en/of exploitatie van software door deelnemers
+## Voorzieningen voor deelnemers
 
 De deelnemers van het ecosysteem hebben technologische voorzieningen nodig om gebruik te kunnen maken van het ecosysteem. Deze voorzieningen worden geleverd door softwareleveranciers. Ze maken software voor diverse toepassingen zoals in onderstaand figuur is weergegeven. 
 
@@ -24,10 +24,8 @@ We noemen de volgende softwareleveranciers als impressie:
 5. Een **leverancier van een informatiesysteem** verwerkt de gegevens uit het ecosysteem en presenteert deze aan de eindgebruikers overeenkomstig de ontologie. Eindgebruikers zoals zorgverleners gebruiken de gegevens via het informatiesysteem en moeten de gegevens correct kunnen interpreteren.
 6. Een **app leverancier** is een leverancier van een mobiele app of internetportaal gerricht op cliënten en/of zorgverleners. Het zijn toepassingen waarmee een cliënt de rol van gegevensregisseur bijvoorbeeld kan uitvoeren.
 
-## Inkoop en/of exploitatie door een samenwerkingsverband van deelnemers
+## Gelijk speelveld voor alle leveranciers
 
-Zorgorganisaties kunnen zich organiseren in samenwerkingsverbanden voor de inkoop en exploitatie van software. Een samenwerkingsverband heeft als voordeel dat ze meer middelen beschikbaar heeft en daardoor mogelijk meer expertise.
+Softwareleveranciers hebben recht op een gelijk speelveld. Met een gemeenschappelijk open source platform, gebaseerd op de standaarden van het informatiestelsel, kun je dat bereiken. En mogelijk ook een gemeenschappelijk open source uitwisselingssysteem. Non-concurrentieel samenwerken aan digitale zorg. Software waar we gemeenschappelijk aan kunnen ontwikkelen.
 
-## Zelf software ontwikkelen
-
-Een organisatie of een samenwerkingsverband kan ook kiezen om zelf de software te ontwikkelen en te implementeren.
+![Voorbeeld van componenten in het platform](../.gitbook/assets/technology/components.svg)
