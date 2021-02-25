@@ -11,9 +11,9 @@ description: >-
 
 Verantwoord beheer en gebruik van data begint met vertrouwen. Vertrouwen in de actoren die gebruik willen maken van data. Daarom is een vertrouwd netwerk van actoren nodig. Om het vertrouwde netwerk te implementeren zijn de vertrouwensdiensten nodig die een netwerkbeheerder levert. 
 
-## Dienst voor verificatie van een attest
+## Dienst voor verificatie van een verklaring
 
-Een netwerkbeheerder stelt een verificateur in staat een attest te verifiëren. Een attest moet namelijk geverifieerd kunnen worden op identiteit, geldigheid \(status\), integriteit \(van attributen\) en herkomst. Uitgevers moeten daarentegen de status van een attest kunnen onderhouden. De netwerkbeheerder zorgt voor de registratie van de data die nodig is voor verificatie.
+Een netwerkbeheerder stelt een verificateur in staat een verklaring te verifiëren. Een verklaring moet namelijk geverifieerd kunnen worden op geldigheid \(status\), integriteit \(van attributen\) en herkomst. Uitgevers moeten de status van een verklaring kunnen onderhouden. De netwerkbeheerder zorgt voor de registratie van de data die nodig is voor verificatie.
 
 ![](../.gitbook/assets/vrdi-netwerkbeheerders.jpg)
 
@@ -21,7 +21,7 @@ De netwerkbeheerders voeren gezamenlijk een register voor verifieerbare data.
 
 #### Register met verifieerbare data
 
-Het register met verifieerbare data legt de data vast die nodig is om identiteit, geldigheid \(status\), integriteit \(van attributen\) en herkomst te verifiëren. De data in het register maakt het mogelijk om een elektronische handtekening \(voor natuurlijke personen\) of een elektronische zegel \(voor rechtspersonen\) te verifiëren. Dat zijn namelijk de middelen die gebruikt worden voor verificatie. 
+Het register met verifieerbare data legt de data vast die nodig is voor geldigheid \(status\), integriteit \(van attributen\) en herkomst te verifiëren. De data in het register maakt het mogelijk om een elektronische handtekening \(voor natuurlijke personen\) of een elektronische zegel \(voor rechtspersonen\) te verifiëren. Dat zijn namelijk de middelen die gebruikt worden voor verificatie. 
 
 De middelen moeten gebruikt kunnen worden overeenkomstig de Europese Verordening \(EU\) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties. 
 
@@ -40,20 +40,18 @@ Een aanname is dat er meerdere registers zijn. Uitgangspunt is dat netwerkactore
 {% hint style="info" %}
 **Vertrouwen en regie op gegevens**
 
-Een netwerkbeheerder levert vertrouwensdiensten. Het is een vertrouwensdienst waarmee de identiteit van een netwerkactor wordt geregistreerd. Maar alleen voor actoren waarvan de identiteit herleid moeten kunnen worden. Publieke actoren noemen we deze, in tegenstelling tot private actoren. Een actor is bijvoorbeeld publiek omdat de herkomst van data geverifieerd moet kunnen worden. Authenticatie dus zegt Ben. Het is inderdaad een vorm van authenticatie zegt Amber. 
+Een netwerkbeheerder levert vertrouwensdiensten. Het is een vertrouwensdienst waarmee een netwerkactor wordt geregistreerd. Maar alleen voor actoren die in het ecosystteem herkend moeten worden. Publieke actoren noemen we deze, in tegenstelling tot private actoren. Een actor is bijvoorbeeld publiek omdat de herkomst van data geverifieerd moet kunnen worden. Authenticatie dus zegt Ben. Het is inderdaad een vorm van authenticatie zegt Amber. 
 
-Met de dienst voor elektronische ondertekening kunnen we bijvoorbeeld regie op gegevens realiseren. Het maakt het mogelijk dat je als persoon een bewering doet \(ik ben 18, ik heb mijn rijbewijs, ik heb een zorgindicatie\) en een bevoegde instantie deze bewering attesteert door de bewering elektronisch te ondertekenen. De bewering is verifieerbaar geworden omdat de bevoegde instantie een geregistreerde netwerkactor is.
+Met de dienst voor elektronische ondertekening kunnen we bijvoorbeeld regie op gegevens realiseren. Het maakt het mogelijk dat je als persoon een bewering doet \(ik ben 18, ik heb mijn rijbewijs, ik heb een zorgindicatie\) en een bevoegde instantie deze bewering betrouwbaar verklaart door de bewering elektronisch te ondertekenen. De bewering is verifieerbaar geworden omdat de bevoegde instantie een geregistreerde netwerkactor is.
 {% endhint %}
 
 ## Richtlijnen voor de netwerkbeheerder
 
 Een netwerkbeheerder levert diensten aan personen. Dit zijn zowel rechtspersonen als natuurlijke personen. De netwerkbeheerder stemt haar diensten af op haar klanten en de vraag van haar klanten.
 
-### A5.1: Het afsprakenstelsel _MOET_ afspraken bevatten voor een dienst voor het registreren van een identiteit.
+### A5.1: Het afsprakenstelsel _MOET_ afspraken bevatten voor een dienst voor het registreren van een netwerkactor.
 
-Een persoon moet in het netwerk een identiteit kunnen verkrijgen. Met persoon bedoelen we zowel rechtspersonen als natuurlijke personen. De persoon is met die identiteit bekend in het netwerk. De identiteit wordt onder andere gebruikt voor het uitgeven van een attest. Een persoon wordt alleen geregistreerd als iemand of iets de betrouwbaarheid van de identiteit van de persoon moet kunnen verifiëren. Hiermee ontstaat een netwerk van vertrouwde deelnemers.
-
-Het verkrijgen van een identiteit in het netwerk kan aan voorwaarden gebonden zijn. Een netwerk kan bijvoorbeeld besloten zijn voor een specifieke groep uitgevers of kan eisen stellen aan de technische infrastructuur van een uitgever.
+Een netwerkactor moet in het netwerk geregistreerd kunnen worden. De netwerkactor is met een identificerend nummer bekend in het netwerk. De identificatie wordt onder andere gebruikt voor het uitgeven van een verklaring. Een netwerkactor wordt alleen geregistreerd als iemand of iets de betrouwbaarheid van de netwerkactor moet kunnen verifiëren. Hiermee ontstaat een netwerk van vertrouwde deelnemers.
 
 {% hint style="info" %}
 **Centrale, federatieve en zelf-soevereine identiteiten**
@@ -68,7 +66,7 @@ We denken dat het stapelen van producten niet houdbaar is en niet duurzaam. We z
 
 We specificeren identificatie en authenticatie omdat het vaak tot verwarring leidt. Met een identiteit doelen we op een \(betekenisloos\) nummer waarmee iemand of iets geïdentificeerd kan worden. Authenticatie is de verificatie dat iemand of iets de controle heeft over de identiteit. Voor het bewijzen is een authenticatiemiddel nodig.
 
-Naast de identiteit zijn er de eigenschappen oftwel attributen. Bijvoorbeeld een klantnummer. Met authenticatie bedoelen we ook het bewijs dat iemand een eigenschap heeft en bijvoorbeeld het klantnummer mag gebruiken. Het is een verificatie van een bewering. Daarom is authenticatie veelal gelijk aan het verifiëren van een attest.
+Naast de identiteit zijn er de eigenschappen oftwel attributen. Bijvoorbeeld een klantnummer. Met authenticatie bedoelen we ook het bewijs dat iemand een eigenschap heeft en bijvoorbeeld het klantnummer mag gebruiken. Het is een verificatie van een bewering. Daarom is authenticatie veelal gelijk aan het verifiëren van een verklaring.
 {% endhint %}
 
 ### A5.2: Het afsprakenstelsel _MOET_ een open internationale standaard hanteren als methode voor de registratie van een identiteit.
@@ -83,11 +81,11 @@ Voor het vaststellen van het identiteitsbetrouwbaarheidsniveau hanteren we de re
 
 ### A5.4: Het afsprakenstelsel _MOET_ een middel afspreken voor het plaatsten van gekwalificeerde elektronische handtekeningen en zegels. 
 
-Door de elektronische handtekening/zegel kan een uitgever van een attest data elektronisch ondertekenen en daarmee de herkomst van de data vastleggen. Een verificateur kan op basis van de elektronische handtekening/zegel de herkomst vaststellen.
+Door de elektronische handtekening/zegel kan een uitgever van een verklaring data elektronisch ondertekenen en daarmee de herkomst van de data vastleggen. Een verificateur kan op basis van de elektronische handtekening/zegel de herkomst vaststellen.
 
 Een gekwalificeerde elektronische handtekening/zegel is een elektronische handtekening/zegel die voldoet aan de eisen van Verordening \(EU\) nr. 910/2014 \(eIDAS Verordening\). Kwalificatie van het middel is optioneel en alleen van toepassing als de herkomst van data onweerlegbaar moet worden bewezen. 
 
-### A5.5: Het afsprakenstelsel _MOET_ een dienst afspreken voor het intrekken en het verifiëren van de geldigheid van een attest.
+### A5.5: Het afsprakenstelsel _MOET_ een dienst afspreken voor het intrekken en het verifiëren van de geldigheid van een verklaring.
 
-Met de verificatie moet een verificateur van een attest  kunnen verifiëren dat data afkomstig is van een vertrouwde uitgever. Een netwerkbeheerder moet daarom registreren welke uitgever vertrouwd wordt voor het uitgeven van welke attesten. De verificateur van het attest moet eveneens kunnen verifiëren dat het attest geldig is, en niet is ingetrokken.
+Met de verificatie moet een verificateur van een verklaring kunnen verifiëren dat data afkomstig is van een vertrouwde uitgever. Een netwerkbeheerder moet daarom registreren welke uitgever vertrouwd wordt voor het uitgeven van welke verklaringen. De verificateur van een verklaring moet eveneens kunnen verifiëren dat de verklaring geldig is, en niet is ingetrokken.
 
