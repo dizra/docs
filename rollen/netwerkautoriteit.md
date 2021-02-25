@@ -9,7 +9,7 @@ description: >-
 
 ## Inleiding
 
-Dit hoofdstuk beschrijft de rol van een netwerkautoriteit. De netwerkautoriteit is een governance autoriteit die afspraken ontwikkelt en beheert voor een netwerk van deelnemers. Deze verzameling aan afspraken noemen we een afsprakenstelsel. Binnen de zorg zijn meerdere domeinen te onderkennen en daarom zullen er ook meerdere afsprakenstelsels zijn. Ieder met haar eigen netwerkautoriteit. 
+Dit hoofdstuk beschrijft de rol van een netwerkautoriteit. De netwerkautoriteit is een governance autoriteit die afspraken ontwikkelt en beheert voor een netwerk van deelnemers. Deze verzameling aan afspraken noemen we een afsprakenstelsel. Binnen de zorg zijn meerdere domeinen te onderkennen en daarom zullen er ook meerdere afsprakenstelsels zijn. Ieder met haar eigen netwerkautoriteit.
 
 In onderstaand figuur is de context van een netwerkautoriteit en een afsprakenstelsel weergegeven.
 
@@ -17,7 +17,7 @@ In onderstaand figuur is de context van een netwerkautoriteit en een afsprakenst
 
 #### Nederlandse normen voor de zorg
 
-De Nederlandse norm voor gegevensuitwisseling in de zorg wordt afgesproken in het informatiestelsel. Het is een norm die begeleid en ontwikkeld wordt door NEN. 
+De Nederlandse norm voor gegevensuitwisseling in de zorg wordt afgesproken in het informatiestelsel. Het is een norm die begeleid en ontwikkeld wordt door NEN.
 
 De normen beschrijven eisen voor gegevensuitwisseling door middel van:
 
@@ -25,13 +25,13 @@ De normen beschrijven eisen voor gegevensuitwisseling door middel van:
 * aspecten van use cases \(zoals toestemming en vindbaarheid van data en diensten\); 
 * of als aanvullende eisen \(zoals identificatie, authenticatie en beveiliging\).
 
-De stelselregisseur geeft opdracht tot het specificeren van een norm. 
+De stelselregisseur geeft opdracht tot het specificeren van een norm.
 
 #### Afspraken realisatie norm
 
 Een norm beschrijft de eisen voor een gegevensuitwisseling in de zorg. Hierin zijn de organisatorische en semantische eisen voor een gegevensuitwisseling beschreven. De realisatie \(het ontwerp\) van de eisen is onderdeel van de afspraken in een afsprakenstelsel. Een afsprakenstelsel beschrijft het koppelvlak voor de uitwisseling van berichten \(request-response\) met een zorgaanbieder.
 
-De rol die we beschrijven in dit hoofdstuk is de netwerkautoriteit. De netwerkautoriteit voert de governance over de afspraken van een afsprakenstelsel en borgt het vertrouwen in het netwerk. 
+De rol die we beschrijven in dit hoofdstuk is de netwerkautoriteit. De netwerkautoriteit voert de governance over de afspraken van een afsprakenstelsel en borgt het vertrouwen in het netwerk.
 
 ## Wat is een netwerk?
 
@@ -39,11 +39,11 @@ DIZRA beschouwt ieder afsprakenstelsel als een netwerk van deelnemers. We hanter
 
 ![Figuur 2: Specifieke en generieke afsprakenstelsels / netwerken](../.gitbook/assets/netwerken.jpg)
 
-De netwerkautoriteit maakt met haar deelnemers afspraken over de netwerken die vertrouwd worden waardoor deze afspraken hergebruikt  worden.
+De netwerkautoriteit maakt met haar deelnemers afspraken over de netwerken die vertrouwd worden waardoor deze afspraken hergebruikt worden.
 
 ## Dienst voor governance op afspraken
 
-De netwerkautoriteit is een rol voor het uitvoeren van de governance op de afspraken in het afsprakenstelsel. Maar wat betekent governance voor jou vraagt Amber aan Ben. Ben en Amber zijn met elkaar in gesprek over de rollen en richtlijnen in DIZRA. Ben is programmamanager voor een afsprakenstelsel en Amber is de IT-Architect van het programma. 
+De netwerkautoriteit is een rol voor het uitvoeren van de governance op de afspraken in het afsprakenstelsel. Maar wat betekent governance voor jou vraagt Amber aan Ben. Ben en Amber zijn met elkaar in gesprek over de rollen en richtlijnen in DIZRA. Ben is programmamanager voor een afsprakenstelsel en Amber is de IT-Architect van het programma.
 
 Er zijn vele definities voor governance in omloop vertelt Ben. Wij beschrrijven governance als het geheel van processen voor het besturen van de afspraken. Het zijn afspraken tussen actoren in een netwerk. Een afspraak is een afspraak over de verantwoordelijkheden van een actor. Governance heeft met name betrekking op de processen van interactie en besluitvorming tussen de netwerkactoren in een afsprakenstelsel. Afspraken worden gemaakt over de volgende onderwerpen \(niet uitputtend\):
 
@@ -67,7 +67,7 @@ Voor de lagen van interoperabiliteit hanteren we de lagen uit het European Inter
 
 #### Registratie van deelnemers
 
-Een deelnemer moet voldoen aan de afspraken en behoren tot de groep waarvoor de afspraken van toepassing zijn. Door middel van een audit kan een netwerkactor dit bewijzen. 
+Een deelnemer moet voldoen aan de afspraken en behoren tot de groep waarvoor de afspraken van toepassing zijn. Door middel van een audit kan een netwerkactor dit bewijzen.
 
 #### Accreditatie van auditors
 
@@ -82,7 +82,7 @@ De netwerkautoriteit is verantwoordelijk voor het verkrijgen en behouden van het
 
 Laten we het concreet maken zegt Amber. Stel dat ik naar mijn huisarts ga. De huisarts doet onderzoek, laat mijn bloed onderzoeken en besluit vervolgens om mij door te verwijzen naar een medisch specialist. Hoe kan een medisch specialist de data van de huisarts vertrouwen? De data van het bloedonderzoek? Hoe weet de medisch specialist dat ik doorverwezen ben door een echte huisarts? De medisch specialist moet de data kunnen vertrouwen.
 
-Door middel van een elektronsche handtekening kunnen we de herkomst van de data vaststellen vertelt Amber. We kunnen achterhalen wie de auteur en de uitgever van de data is. Maar dan weten we nog niet dat de auteur een huisarts is. Daarvoor is een verklaring uit het BIG-register nodig. De medisch specialist kan daardoor zien dat de auteur een BIG-geregistreerde arts is. Het CIBG als uitgever van het BIG-register moet echter vertrouwd worden door de medisch specialist. 
+Door middel van een elektronsche handtekening kunnen we de herkomst van de data vaststellen vertelt Amber. We kunnen achterhalen wie de auteur en de uitgever van de data is. Maar dan weten we nog niet dat de auteur een huisarts is. Daarvoor is een verklaring uit het BIG-register nodig. De medisch specialist kan daardoor zien dat de auteur een BIG-geregistreerde arts is. Het CIBG als uitgever van het BIG-register moet echter vertrouwd worden door de medisch specialist.
 
 Zo kun je nog wel even doorgaan zegt Ben. Digitaal kun je niemand vertrouwen, maar je moet uiteindelijk iemand vertrouwen. Klopt zegt Amber. Daarom is een vertrouwenslijst nodig van uitgevers die in het netwerk vertrouwd worden. Bijvoorbeeld het CIBG. Een verklaring kan vertrouwd worden als deze afkomstig is van een uitgever die geregistreerd is in de vertrouwenslijst. Dat is in het afsprakenstelsel afgesproken.
 {% endhint %}
@@ -95,7 +95,7 @@ De netwerkautoriteit voert het beheer op de vertrouwenslijst van vertrouwde uitg
 
 #### Vertrouwde netwerkbeheerders
 
-Voor het functioneren van het netwerk zijn verschillende vertrouwensdiensten nodig. Met name vertrouwensdiensten voor de identificatie van een persoon \(zowel rechts- als natuurlijk personen\) of ding. Netwerkbeheerders leveren deze diensten en netwerkactoren moeten weten welke netwerkbeheerders door het netwerk vertrouwd worden. De netwerkautoriteit moet daarom een  lijst beheren met vertrouwde netwerkbeheerders.
+Voor het functioneren van het netwerk zijn verschillende vertrouwensdiensten nodig. Met name vertrouwensdiensten voor de identificatie van een persoon \(zowel rechts- als natuurlijk personen\) of ding. Netwerkbeheerders leveren deze diensten en netwerkactoren moeten weten welke netwerkbeheerders door het netwerk vertrouwd worden. De netwerkautoriteit moet daarom een lijst beheren met vertrouwde netwerkbeheerders.
 
 #### Vertrouwde netwerkgids
 

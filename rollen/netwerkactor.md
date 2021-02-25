@@ -32,7 +32,7 @@ Met een datagestuurde aanpak willen we de volgende doelen bereiken:
 
 #### Semantische en technische afspraken maken
 
-We  maken afspraken over het beschikbaar stellen van data vertelt Amber. Data FAIR maken noemen we dat. Hiervoor moeten we afspraken maken over de onderstaande onderwerpen.
+We maken afspraken over het beschikbaar stellen van data vertelt Amber. Data FAIR maken noemen we dat. Hiervoor moeten we afspraken maken over de onderstaande onderwerpen.
 
 De onderwerpen die we onderkennen zijn:
 
@@ -47,13 +47,13 @@ De onderwerpen die we onderkennen zijn:
 {% hint style="info" %}
 **Wat is een ontologie?**
 
-Je gebruikt woorden die ik niet ken klaagt Ben. Wat is bijvoorbeeld een ontologie? Vroeger maakten we gewoon een datamodel. Bedoel je dat? Het lijkt er inderdaad op zegt Amber. Een ontologie is een conceptueel model. Er worden concepten beschreven en de betekenis van die concepten. Uiteraard gebruiken we woorden om het concept te omschrijven. Met een ontologie zorgen we ervoor dat machines onze logica gaan begrijpen. Kun je een voorbeeld noemen vraagt Ben. Ik vind het nogal vaag wat je vertelt. 
+Je gebruikt woorden die ik niet ken klaagt Ben. Wat is bijvoorbeeld een ontologie? Vroeger maakten we gewoon een datamodel. Bedoel je dat? Het lijkt er inderdaad op zegt Amber. Een ontologie is een conceptueel model. Er worden concepten beschreven en de betekenis van die concepten. Uiteraard gebruiken we woorden om het concept te omschrijven. Met een ontologie zorgen we ervoor dat machines onze logica gaan begrijpen. Kun je een voorbeeld noemen vraagt Ben. Ik vind het nogal vaag wat je vertelt.
 
 Als mens weten we wat een patiënt is zegt Amber. Maar een machine weet dat niet. We moeten een machine kunnen uitleggen wat een patiënt is. We moeten de machine uitleggen dat een patiënt een mens is. Maar wat maakt een mens tot een patiënt. Wanneer is een mens een patiënt? We moeten dat specificeren. Dat betekent dat we eerst moeten afspreken wat een concept betekent. De definitie van het concept patiënt moeten we specificeren op een manier die voor mensen en machines te begrijpen is. Dat is een ontologie.
 
 **Afspraken over interoperabiliteit, maar ook over vindbaarheid, toegankelijkheid en herbruikbaarheid**
 
-Voordat we verder gaan wil ik eerst nog even iets weten zegt Ben. Je hebt het nu over het beschikbaar stellen van data. Maar het gaat toch over interoperabiliteit? We moeten dus afspraken maken tussen organisaties op alle lagen van interoperabiliteit. Uiteindelijk moeten we berichten specificeren op basis van de data die een zorgprofessional nodig heeft. 
+Voordat we verder gaan wil ik eerst nog even iets weten zegt Ben. Je hebt het nu over het beschikbaar stellen van data. Maar het gaat toch over interoperabiliteit? We moeten dus afspraken maken tussen organisaties op alle lagen van interoperabiliteit. Uiteindelijk moeten we berichten specificeren op basis van de data die een zorgprofessional nodig heeft.
 
 We moeten inderdaad OOK afspraken maken over interoperabiliteit zegt Amber. Maar ook over vindbaarheid, toegankelijkheid en herbruikbaarheid. We willen data FAIR beschikbaar stellen per informatiecontext. Daarmee willen we niet alleen de informatiebehoefte van een zorgprofessional invullen, maar ook andere vragen kunnen beantwoorden. Meervoudig gebruik van data noemen we dat.
 
@@ -66,9 +66,9 @@ Een uitwisseling van gegevens op basis van een grondslag noemen we een geautoris
 
 ## Dienst voor toegankelijkheid data en services
 
-Een bronhouder publiceert enerzijds data en maakt anderzijds data toegankelijk voor gegevensafnemers. Data kan openbaar toegankelijk zijn als open data of of kan beperkt toegankelijk zijn. Persoonsgegevens zijn beperkt toegankelijk voor gegevensafnemers met een rechtmatige grondslag. Een gegevensafnemer moet met andere woorden geautoriseerd zijn voor de uitwisseling van data. 
+Een bronhouder publiceert enerzijds data en maakt anderzijds data toegankelijk voor gegevensafnemers. Data kan openbaar toegankelijk zijn als open data of of kan beperkt toegankelijk zijn. Persoonsgegevens zijn beperkt toegankelijk voor gegevensafnemers met een rechtmatige grondslag. Een gegevensafnemer moet met andere woorden geautoriseerd zijn voor de uitwisseling van data.
 
-Bronhouders en gegevensafnemers maken afspraken voor het toegankelijk maken van data. De afspraken worden gezamenlijk vastgelegd in een norm waaronder afspraken over juridische en organisatorische interoperabiliteit. Voor iedere uitwisseling worden de processtappen beschreven. Iedere gegevensoverdracht in het proces noemen we een transactie. 
+Bronhouders en gegevensafnemers maken afspraken voor het toegankelijk maken van data. De afspraken worden gezamenlijk vastgelegd in een norm waaronder afspraken over juridische en organisatorische interoperabiliteit. Voor iedere uitwisseling worden de processtappen beschreven. Iedere gegevensoverdracht in het proces noemen we een transactie.
 
 ![Figuur 1: Afspreken geautoriseerde uitwisseling van data](../.gitbook/assets/geautoriseerde-vraag.jpg)
 
@@ -82,11 +82,11 @@ Voor iedere transactie worden minimaal de volgende afspraken gemaakt:
 * Afspraken over de **dataformaten** die ondersteund worden, zoals JSON of XML.
 * Afspraken over de **protocollen** die ondersteund worden, zoals het HTTP-protocol. 
 
-De normen kunnen paralel worden ontwikkeld aan de ontwikkeling van de ontologie en het beschikbaar stellen van data. DIZRA hanteert als uitgangspunt dat een techniekleverancier de techniek levert voor technische afspraken. 
+De normen kunnen paralel worden ontwikkeld aan de ontwikkeling van de ontologie en het beschikbaar stellen van data. DIZRA hanteert als uitgangspunt dat een techniekleverancier de techniek levert voor technische afspraken.
 
 #### Afspraken maken over rentmeesterschap van data
 
-In navolging van Minister Bruins \(Medische Zorg en Sport\) zeggen we dat rentmeesterschap op data nodig is. De rol van rentmeester moet daarom worden afgesproken. Om data te laten werken voor gezondheid is vertrouwen nodig. 
+In navolging van Minister Bruins \(Medische Zorg en Sport\) zeggen we dat rentmeesterschap op data nodig is. De rol van rentmeester moet daarom worden afgesproken. Om data te laten werken voor gezondheid is vertrouwen nodig.
 
 * Een persoon moet erop kunnen vertrouwen dat er zorgvuldig met zijn/haar data wordt omgegaan 
 * De zorgverlener moet erop kunnen vertrouwen dat data-analyses valide resultaten opleveren. 
@@ -95,9 +95,9 @@ Het is de basisgedachte voor het maken van afspraken. Zie het thema [data bij de
 
 #### Afspraken maken over digitale inclusie
 
-Een afsprakenstelsel moet afspraken maken over digitale inclusie. Dit betekent dat geautoriseerde vragen mogelijk ook op een andere manier beantwoord moeten kunnen worden dan digitaal of elektronisch. 
+Een afsprakenstelsel moet afspraken maken over digitale inclusie. Dit betekent dat geautoriseerde vragen mogelijk ook op een andere manier beantwoord moeten kunnen worden dan digitaal of elektronisch.
 
-Zie ook: [https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/toegankelijkheid/digitale-inclusie/](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/toegankelijkheid/digitale-inclusie/) 
+Zie ook: [https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/toegankelijkheid/digitale-inclusie/](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/toegankelijkheid/digitale-inclusie/)
 
 ## Richtlijnen voor de netwerkactor
 
@@ -113,7 +113,7 @@ Voor een afsprakenstelsel moeten afspraken worden gemaakt welke rollen worden on
 
 ### A3.3: Het afsprakenstelsel _MOET_ voldoen aan de NEN-normen voor medische informatica \(NEN-75xx\).
 
-De NEN-normen voor medische informatica stellen de functionele en niet-functionele eisen vast voor interoperabiliteit tussen netwerkactoren.  
+De NEN-normen voor medische informatica stellen de functionele en niet-functionele eisen vast voor interoperabiliteit tussen netwerkactoren.
 
 ### A3.4: Het afsprakenstelsel _MOET_ afspraken maken over digitale inclusie.
 

@@ -9,11 +9,11 @@ description: >-
 
 ## Inleiding
 
-We hebben heel veel leveranciers die iets met techniek doen vertelt Amber. Ben en Amber voeren samen een gesprek over de rollen en richtlijnen. In dit hoofdstuk over de techniekleverancier. Kijk maar hoeveel apparaten en applicaties er zijn in de gezondheidszorg. Maar ook hoeveel diensten voor informatietechnologie er zijn. En al deze dingen en diensten worden geleverd door leveranciers. We noemen ze techniekleveranciers. 
+We hebben heel veel leveranciers die iets met techniek doen vertelt Amber. Ben en Amber voeren samen een gesprek over de rollen en richtlijnen. In dit hoofdstuk over de techniekleverancier. Kijk maar hoeveel apparaten en applicaties er zijn in de gezondheidszorg. Maar ook hoeveel diensten voor informatietechnologie er zijn. En al deze dingen en diensten worden geleverd door leveranciers. We noemen ze techniekleveranciers.
 
-Moeten we met al deze leveranciers van techniek afspraken maken en ze gaan certificeren vraagt Ben. Dat is een gigantische klus en ik ben niet overtuigd dat het nodig is. Dat weten we niet zegt Amber. We weten alleen dat we betrouwbare data nodig hebben uit betrouwbare en vertrouwde techniek. 
+Moeten we met al deze leveranciers van techniek afspraken maken en ze gaan certificeren vraagt Ben. Dat is een gigantische klus en ik ben niet overtuigd dat het nodig is. Dat weten we niet zegt Amber. We weten alleen dat we betrouwbare data nodig hebben uit betrouwbare en vertrouwde techniek.
 
-Betrouwbare data begint bij de bron. Afspraken gaan daarom niet alleen om extramurale communicatie van data vervolgt Amber. We moeten ook kijken naar intramurale communicatie van data. Ben kijkt een beetje beteuterd. Het zal een continue ontdekkingstocht zijn om te leren welke data we nodig hebben verzucht hij. Dat klopt zegt Amber. We moeten leren welke data we kunnen en willen hergebruiken, wat relevant is en welke afspraken nodig zijn. 
+Betrouwbare data begint bij de bron. Afspraken gaan daarom niet alleen om extramurale communicatie van data vervolgt Amber. We moeten ook kijken naar intramurale communicatie van data. Ben kijkt een beetje beteuterd. Het zal een continue ontdekkingstocht zijn om te leren welke data we nodig hebben verzucht hij. Dat klopt zegt Amber. We moeten leren welke data we kunnen en willen hergebruiken, wat relevant is en welke afspraken nodig zijn.
 
 ### Een techniekleverancier en de dienstverlener zorgaanbieder
 
@@ -43,13 +43,13 @@ De onderstaande richtlijnen zijn van toepassing voor de techniekleverancier.
 
 ### A4.1: Het afsprakenstelsel _MOET_ voorzien in afspraken dat producten van techniekleveranciers personen in staat stellen regie te nemen op gegevens.
 
-De producten van een techniekleverancier moeten personen in staat stellen regie te nemen op zijn of haar gegevens. Het product moet daarom functionele ondersteuning geven aan het uitgeven, het houden dan wel het verifiëren van een verklaring. Voor het verifiëren van een verklaring moet het product interoperabel zijn met de diensten van een netwerkbeheerder. 
+De producten van een techniekleverancier moeten personen in staat stellen regie te nemen op zijn of haar gegevens. Het product moet daarom functionele ondersteuning geven aan het uitgeven, het houden dan wel het verifiëren van een verklaring. Voor het verifiëren van een verklaring moet het product interoperabel zijn met de diensten van een netwerkbeheerder.
 
 ### A4.2: Het afsprakenstelsel _MOET_ voorzien in afspraken dat producten van techniekleveranciers gegevenselementen kunnen interpreteren overeenkomstig de ontologie van het domein.
 
 Voor eenheid van taal en interpretatie hanteren bronhouders een gemeenschappelijke ontologie \(zie het thema [gemeenschappelijke taal](../thema/gemeenschappelijke-taal.md)\). Een ontologie wordt afgesproken binnen een informatiecontext in een domein. De data is uitwisselbaar en machineleesbaar doordat de data gepubliceerd is in de ontologie. Een product van een techniekleverancier moet haar gegevenselementen kunnen interpreteren overeenkomstig de ontologie.
 
-### A4.3: Het afsprakenstelsel _MOET_ voorzien in afspraken dat producten van techniekleveranciers data kunnen extraheren en laden overeenkomstig de ontologie van het domein. 
+### A4.3: Het afsprakenstelsel _MOET_ voorzien in afspraken dat producten van techniekleveranciers data kunnen extraheren en laden overeenkomstig de ontologie van het domein.
 
 DIZRA gaat uit van FAIR-data waarbij data hergebruikt kan worden. Eenmalige registratie, meervoudig gebruik is het doel. Hiervoor is het noodzakelijk dat producten open zijn voor het extraheren en laden van data. Zodat we de data kunnen hergebruiken.
 

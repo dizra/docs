@@ -44,3 +44,4 @@ Beeldmateriaal over het manifest toegevoegd. Het beeldmateriaal is te downloaden
 ## 1.1.3 - 2020-12
 
 Versie en wijzigingenbeheer is vanaf nu via GitHub te volgen.
+

@@ -8,16 +8,16 @@ description: >-
 
 ## Wat is regie op gezondheidsdata?
 
-Regie op gezondheidsdata staat voor het vrije verkeer van persoonlijke gegevens onder regie van mensen zelf. We hanteren voor de zorg de term gezondheidsdata, maar het betreft regie op gegevens in het algemeen. We denken namelijk dat gezondheidsdata niet alleen medische gegevens betreft, maar alle gegevens die binnen de zorg relevant zijn. 
+Regie op gezondheidsdata staat voor het vrije verkeer van persoonlijke gegevens onder regie van mensen zelf. We hanteren voor de zorg de term gezondheidsdata, maar het betreft regie op gegevens in het algemeen. We denken namelijk dat gezondheidsdata niet alleen medische gegevens betreft, maar alle gegevens die binnen de zorg relevant zijn.
 
-We kijken naar het programma regie op gegevens voor de definitie van regie op gegevens. In het programma regie op gegevens heeft de overheid samen met private en maatschappelijke organisaties uitgewerkt hoe dit plaats moet vinden \(zie: [https://kennisopenbaarbestuur.nl/thema/regie-op-gegevens/](https://kennisopenbaarbestuur.nl/thema/regie-op-gegevens/). 
+We kijken naar het programma regie op gegevens voor de definitie van regie op gegevens. In het programma regie op gegevens heeft de overheid samen met private en maatschappelijke organisaties uitgewerkt hoe dit plaats moet vinden \(zie: [https://kennisopenbaarbestuur.nl/thema/regie-op-gegevens/](https://kennisopenbaarbestuur.nl/thema/regie-op-gegevens/).
 
 Regie op gegevens als principe maakt onderdeel uit van het regeerakkoord, de digitalisering-strategie ‘Nederland Digitaal’ en de digitale agenda ‘NLDIGIbeter’.
 
 {% hint style="info" %}
 _"Regie op gegevens hanteert als vertrekpunt dat mensen inzage moeten hebben in hun persoonlijke gegevens en het gebruik daarvan door derden, dat zij de mogelijkheid moeten hebben om gegevens te corrigeren of verwijderen en -niet in de laatste plaats- dat zij gegevens moeten kunnen \(her\)gebruiken, zowel binnen de overheid als daarbuiten. Hierdoor verbetert de transparantie, neemt de kwaliteit van gegevens toe en wordt de positie van de burger versterkt. Voor burgers en bedrijven zorgt het voor lastenverlichtingen en het optimaliseren van processen. Persoonlijk datamanagement draagt bij aan transparantie, inzage en correctie, digitale zelfbeschikking, privacy, dataminimalisatie, de kwaliteitsverbetering van gegevens en zelfredzaamheid van mensen. Daarmee is PDM tevens een uitwerking van de beginselen zoals die gehanteerd worden bij ‘privacy by design’ en ‘security by design’."_
 
-Bron: [Greenpaper Regie op gegevens](https://kennisopenbaarbestuur.nl/media/255847/greenpaper-regie-op-gegevens-durf-te-doen.pdf), inleiding 
+Bron: [Greenpaper Regie op gegevens](https://kennisopenbaarbestuur.nl/media/255847/greenpaper-regie-op-gegevens-durf-te-doen.pdf), inleiding
 
 Toelichting: PDM staat voor Persoonlijk datamanagement
 {% endhint %}
@@ -30,7 +30,7 @@ Vanuit het programma zijn de volgende principes gespecificeerd \(zie [infographi
 
 Om de bovenstaande principes te realiseren is transparantie noodzakelijk. Transparantie over de intenties en het gedrag van personen, aanbieders van data en afnemers. Daarnaast vormen interoperabiliteit, vertrouwen en dataminimalisatie de ingrediënten voor regie op gegevens.
 
-De principes voor regie op gegevens komen overeen met de uitgangspunten voor regie op gegevens die door de community van IT-Architecten zijn geuit en in eerdere publicaties zijn verwoord. 
+De principes voor regie op gegevens komen overeen met de uitgangspunten voor regie op gegevens die door de community van IT-Architecten zijn geuit en in eerdere publicaties zijn verwoord.
 
 ### Vormen van regie
 
@@ -47,7 +47,7 @@ In maart 2019 is het [kader voor regie op gegevens](https://rog.pleio.nl/file/do
 DIZRA geeft in de richtlijnen ondersteuning aan regie op gegevens overeenkomstig de visie uit het kader.
 
 {% hint style="info" %}
-**Wat betekent dit voor burgers, patiënten en cliënten?** 
+**Wat betekent dit voor burgers, patiënten en cliënten?**
 
 Alice is gevallen op straat. Ze viel over een randje en kwam op straat lelijk ten val op haar schouder. Een aantal omstanders kwam haar te hulp. Super lief en het gaf haar een warm gevoel ondanks de pijn van haar val. De ambulance is gebeld en even later was ze onderweg naar het ziekenhuis. In het ziekenhuis bleek dat Alice haar schouder uit de kom was. Het werd snel gezet en ze mocht naar huis.
 
