@@ -43,8 +43,8 @@ Voor elke laag zijn de verschillende soorten afspraken hieronder beschreven.
 
 - Vanuit **wet- en regelgeving** zijn eisen gesteld, beschreven in wetten en in algemene maatregelen van bestuur.
 - Samenwerkingsafspraken worden beschreven in convenanten. We plaatsen deze op het niveau van **organisatiebeleid**, maar een convenant is vaak ook een afspraak op proces- en informatieniveau. Die afspraken zien we als stelselstandaard.
-- Kwaliteitsstandaarden zijn afspraken op het niveau van **organisatiebeleid**, **(zorg)proces** en **informatie**. In de informatieparagraaf zijn de processen en informatieobjecten gespecificeerd. Deze proces- en informatieanalyse is de basis voor de afspraken in de stelselstandaarden.
-- Een uitwisselprofiel voor gegevensuitwisseling tussen deelnemers beschrijft de functionele en niet-functionele eisen op het niveau van **informatie** en **applicatie**.
+- Processtandaarden en kwaliteitsstandaarden zijn afspraken op het niveau van **organisatiebeleid**, **(zorg)proces** en **informatie**. In de informatieparagraaf zijn de processen en informatieobjecten gespecificeerd. Deze proces- en informatieanalyse is de basis voor de afspraken in de stelselstandaarden.
+- Een business use case voor gegevensuitwisseling tussen deelnemers beschrijft de functionele en niet-functionele eisen op het niveau van **informatie**. Het wordt daarom een informatiestandaard genoemd.
 - Op de lagen **applicatie** en **infrastructuur** beschrijft een technische afspraak de werking van het ecosysteem met de interactie tussen systeemactoren.
 
 De opgave is om stelselstandaarden vanuit het netwerkperspectief in samenhang te ontwikkelen en niet alleen per keten. In onderstaand figuur is dit ter illustratie weergegeven.
@@ -59,12 +59,5 @@ Portfolio management is het regie voeren en managen van het geheel. Zonder portf
 
 ![Voorbeeld van een kanban voor de ontwikkeling van standaarden](../.gitbook/assets/organization/portfolio.svg)
 
-In het bovenstaande figuur is een voorbeeld weergegeven van een kanban voor de ontwikkeling van standaarden in het informatiestelsel (bron: https://www.scaledagileframework.com/portfolio-kanban/). Het portfolio valt onder de verantwoordelijkheid van de stelselbeheerder. De implementatie zal uitgevoerd moeten worden door een of meerdere standaardisatieorganisaties. 
+In het bovenstaande figuur is een voorbeeld weergegeven van een kanban voor de ontwikkeling van stelselstandaarden in het informatiestelsel (bron: https://www.scaledagileframework.com/portfolio-kanban/). De stelselstandaarden komen tot stand omdat vanuit een business use case (opgenomen in een processtandaard of kwaliteitsstandaard) een informatieuitwisseling is geïdentificeerd. Het portfolio valt onder de verantwoordelijkheid van de stelselbeheerder. De implementatie zal uitgevoerd moeten worden door een of meerdere standaardisatieorganisaties. 
 
-#### Gestandaardiseerde gegevensuitwisseling
-
-Stelselstandaarden beschrijven één of meerdere uitwisselingen in het informatiestelsel. Iedere beschrijving van een uitwisseling noemen we een uitwisselprofiel. Het uitwisselprofiel beschrijft de stappen in de interactie tussen een afnemer van gegevens of services en de aanbieder van de gegevens en services.
-
-![Overzicht van de rol van stelselstandaarden](../.gitbook/assets/organization/exchange.svg)
-
-Hoewel een domeinontologie ook een stelselstandaard is, is in bovenstaand figuur deze separaat benoemd. Stelselstandaarden zijn namelijk veelal gericht op een keten of een enkelvoudige uitwisseling van gegevens. Voor hergebruik is het echter noodzakelijk dat deze standaarden gebruik maken van dezelfde domeinontologieën.

@@ -27,7 +27,15 @@ De deelnemers in het informatiestelsel zijn:
 
 Cliënten zijn deelnemer omdat ze cliënt zijn van een zorgorganisatie. Voor registerhouders, zorgorganisaties en secundaire deelnemers geldt dat ze erkent moeten zijn. Een zorgorganisatie is bijvoorbeeld erkent omdat zij geregistreerd is in het landelijk register van zorgaanbieders (LRZa). Het bewijs van registratie maakt dat een zorgorganisatie deelnemer is. De registerhouder van het LRZa is een bekende en erkende organisatie (een gegevensautoriteit). Zo zal iedere deelnemer erkend moeten zijn als deelnemer: omdat zij bekend is, omdat zij een geregistreerde organisatie is in een bekend register of omdat zij door samenwerkingsafspraken erkend is.
 
-### Gemeenschappelijke taal vanuit een netwerkperspectief
+### Gestandaardiseerde gegevensuitwisseling
+
+Een van de stelselstandaarden is een informatiestandaard. Het beschrijft vanuit een business use case één of meerdere uitwisselingen tussen deelnemers in het ecosysteem. Door middel van informatiestandaarden zijn de gegevensuitwisselingen in het ecosysteem gestandaardiseerd. 
+
+![Overzicht van de rol van stelselstandaarden](../.gitbook/assets/system/exchange.svg)
+
+De domeinontologie is in bovenstaand figuur separaat benoemd. Informatiestandaarden zijn namelijk veelal gericht op een keten of een enkelvoudige uitwisseling van gegevens. Voor hergebruik is het echter noodzakelijk dat deze informatiestandaarden gebruik maken van dezelfde domeinontologieën en deze toepassen voor de keten.
+
+#### Gemeenschappelijke taal vanuit een netwerkperspectief
 
 Iedere deelnemer in het ecosysteem biedt de diensten aan die horen bij haar domein en haar verantwoordelijkheid. Een deelnemer spreekt de taal van haar eigen domein. Deze abstracte woorden beschrijven we hieronder aan de hand van een concreet voorbeeld.
 
