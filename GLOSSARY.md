@@ -4,12 +4,12 @@ description: De begrippen zoals deze in de referentiearchitectuur worden gehante
 
 # Begrippenlijst
 
-We maken hergebruik van bestaande termen en definities. Dit zijn de termen en definities vastgelegd in: 
+We maken hergebruik van bestaande termen en definities. Dit zijn de termen en definities vastgelegd in:
 
 - Wet- en regelgeving;
-- de NORA begrippenlijst (zie: https://www.noraonline.nl/wiki/Begrippenkader);
-- begrippenlijst Afsprakenstelsel Elektronische Toegangsdiensten (zie https://afsprakenstelsel.etoegang.nl/display/as/Begrippenlijst);
-- de door Nictiz verzamelde begrippen (zie: https://www.nictiz.nl/standaardisatie/overzichten/begrippen/)
+- de NORA begrippenlijst (zie: <https://www.noraonline.nl/wiki/Begrippenkader>);
+- begrippenlijst Afsprakenstelsel Elektronische Toegangsdiensten (zie <https://afsprakenstelsel.etoegang.nl/display/as/Begrippenlijst>);
+- de door Nictiz verzamelde begrippen (zie: <https://www.nictiz.nl/standaardisatie/overzichten/begrippen/>)
 
 ## Bronhouder
 

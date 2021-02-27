@@ -6,8 +6,7 @@ description: >-
 
 ## Stelselhouder
 
-De stelselhouder is een organisatie die eindverantwoordelijk is voor het zorgstelsel en daarom ook eindverantwoordelijk voor het informatiestelsel, dat onderdeel is van het zorgstelsel om continuïteit en kwaliteit van zorg te borgen. De stelselhouder is een rol van een rechtspersoon. In het zorgstelsel en daarom ook in het informatiestelsel is het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) de stelselhouder. 
-
+De stelselhouder is een organisatie die eindverantwoordelijk is voor het zorgstelsel en daarom ook eindverantwoordelijk voor het informatiestelsel, dat onderdeel is van het zorgstelsel om continuïteit en kwaliteit van zorg te borgen. De stelselhouder is een rol van een rechtspersoon. In het zorgstelsel en daarom ook in het informatiestelsel is het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) de stelselhouder.
 
 ## Stelselbeheerder
 
@@ -27,7 +26,7 @@ Een standaardisatieorganisatie is verantwoordelijk voor het ontwikkelen en beher
 
 ![De verschillende soorten standaarden in het stelsel](../.gitbook/assets/organization/standorg-onto.svg)
 
-De NEN7522:2020 is de norm voor het ontwikkelen en beheren van standaarden. De norm onderkent individuele standaarden en stelsels van standaarden en beschrijft de eisen aan de processen van ontwikkeling en beheer. De norm beschrijft geen inhoudelijke eisen voor de bouwblokken van een standaard. 
+De NEN7522:2020 is de norm voor het ontwikkelen en beheren van standaarden. De norm onderkent individuele standaarden en stelsels van standaarden en beschrijft de eisen aan de processen van ontwikkeling en beheer. De norm beschrijft geen inhoudelijke eisen voor de bouwblokken van een standaard.
 
 ## Autorisator
 
@@ -43,7 +42,7 @@ De distributeur is verantwoordelijk voor het distribueren van artefacten. De dis
 
 ## Expert
 
-Een expert brengt specifieke noodzakelijke expertise in voor besluitvorming en het bewaken van de samenhang. De expert is een rol van een gremium, de Architectuurboard Zorg. 
+Een expert brengt specifieke noodzakelijke expertise in voor besluitvorming en het bewaken van de samenhang. De expert is een rol van een gremium, de Architectuurboard Zorg.
 
 ## Gebruiker
 
