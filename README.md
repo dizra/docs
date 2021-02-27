@@ -38,7 +38,7 @@ Met een referentiearchitectuur willen we ook het gesprek vereenvoudigen. Door ee
 
 ## Het probleem dat we willen oplossen
 
-In de huidige situatie ontbreekt het aan standaarden op de applicatie en technische laag van het interoperabiliteitsmodel. Het is niet zo dat deze standaarden er niet zijn. Er is geen keuze gemaakt voor een standaard. Iedere keten kiest daarom voor haar eigen standaard en veelal is het dominante product in een keten de standaard. Het informatiestelsel is daarom een stelsel van standaarden vanuit een netwerkperspectief.
+In de huidige situatie ontbreekt het aan standaarden op de applicatie en technische laag van het interoperabiliteitsmodel. Het is niet zo dat deze standaarden er niet zijn. Er is alleen geen keuze gemaakt voor een standaard. Iedere keten kiest daarom voor haar eigen standaard en veelal is het dominante product in een keten de standaard. We willen dit oplossen door in het informatiestelsel te kiezen voor een stelsel van standaarden vanuit een netwerkperspectief.
 
 ![Het probleem van een ketenperspectief en het ontbreken van technische standaarden](.gitbook/assets/problem.svg)
 

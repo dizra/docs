@@ -90,7 +90,9 @@ Een vertrouwensleverancier heeft de volgende verantwoordelijk:
 
 Heronder beschrijven we het vertrouwensmodel voor het ecosysteem en de rol van de vertrouwensleverancier hierin. Vertrouwen is geen automatisme. Mensen en organisaties moeten geloof hebben in het systeem. We kiezen daarom voor een robuust vertrouwensmodel opp basis van cryptografie. De bron van het vertrouwensmodel is [Trust Over IP](https://trustoverip.org) zoals hieronder weergegeven.
 
-![Het vertrouwensmodel en de lagen van Trust Over IP](../.gitbook/assets/ToIP-stack-with-quadrant-labels-2020-05-06.png)In het Trust Over IP vertrouwensmodel zijn 4 lagen onderkend. De lagen zijn van onder naar boven beschreven.
+![Het vertrouwensmodel en de lagen van Trust Over IP](../.gitbook/assets/ToIP-stack-with-quadrant-labels-2020-05-06.png)
+
+In het Trust Over IP vertrouwensmodel zijn 4 lagen onderkend. De lagen zijn van onder naar boven beschreven.
 
 ### 1. Een cryptografische basis
 
