@@ -22,4 +22,6 @@ De [Mededingingswet](https://wetten.overheid.nl/BWBR0008691/2019-01-01#Hoofdstuk
 
 Een eerlijk speelveld tussen leveranciers moet de concurrentie stimuleren en voorkomen dat de macht bij de leverancier komt te liggen. Concurrentie is de prikkel tot doelmatig en doeltreffend werken. Concurrentie moet leveranciers inwisselbaar maken en aanzetten tot nieuwe en betere dienstverlening.
 
+Een eerlijk speelveld moet het informatiestelsel minder kwetsbaar maken voor vertrouwensproblemen, bijvoorbeeld als een leverancier in opspraak is gekomen of als het vertrouwen geschaad is.
+
 Een eerlijk speelveld moet zorgen voor een breed veld van leveranciers die innovatie brengen. Dit is nodig om tot innovatie te komen voor nieuwe en betere dienstverlening. Een monocultuur van leveranciers betekent dat innovatie steeds vanuit dezelfde leveranciers moet komen. We weten dat dit het vermogen tot innoveren verlaagt. Het is namelijk een beperking van kennis en capaciteit. Een monocultuur is daarom niet gewenst.

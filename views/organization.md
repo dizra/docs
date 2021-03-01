@@ -20,7 +20,7 @@ We onderkennen de volgende rollen:
 1. **stelselhouder**: eindverantwoordelijk voor het ontwikkelen en beheren van het informatiestelsel van standaarden. De houder stelt de scope en het doel van het informatiestelsel vast evenals de principes en de uitgangspunten die worden gehanteerd bij ontwikkeling en beheer;
 2. **stelselfinancier**: verantwoordelijk voor de financiering van de ontwikkeling en het beheer van het informatiestelsel;
 3. **stelselautorisator**: keurt een stelselstandaard (waaronder normen en technische afspraken) goed door deze als bouwsteen van het informatiestelsel tet erkennen;
-4. **stelselbeheerder** (in NEN7522 de stelsel functioneel beheerder): verantwoordelijk dat het proces van ontwikkelen en beheren verloopt volgens de gemaakte afspraken;
+4. **stelselbeheerder** (in NEN7522 de stelsel functioneel beheerder): verantwoordelijk dat het proces van ontwikkelen en beheren verloopt volgens de gemaakte afspraken. Hiertoe behoort ook beheer en toezicht op het vertrouwen in het ecosysteem.
 5. **technisch beheerder** is **standaardisatieorganisatie** genoemd in de referentiearchitectuur: verantwoordelijk voor het technisch beheren van individuele standaarden of stelsels van standaarden. Een standaardisatieorganisatie wordt in het informatiestelsel erkend door een stelselhouder en niet noodzakelijk benoemd;
 6. **distributeur**: verantwoordelijk voor het distribueren van informatie over de ontwikkeling en het beheer van het informatiestelsel. Bijvoorbeeld een lijst met erkende standaardisatieorganisaties;
 7. een **stelselexpert** brengt specifieke noodzakelijke kennis in, zoals domeinkennis.
@@ -60,3 +60,21 @@ Portfolio management is het regie voeren en managen van het geheel. Zonder portf
 ![Voorbeeld van een kanban voor de ontwikkeling van standaarden](../.gitbook/assets/organization/portfolio.svg)
 
 In het bovenstaande figuur is een voorbeeld weergegeven van een kanban voor de ontwikkeling van stelselstandaarden in het informatiestelsel (bron: <https://www.scaledagileframework.com/portfolio-kanban/>). De stelselstandaarden komen tot stand omdat vanuit een business use case (opgenomen in een processtandaard of kwaliteitsstandaard) een informatieuitwisseling is geïdentificeerd. Het portfolio valt onder de verantwoordelijkheid van de stelselbeheerder. De implementatie zal uitgevoerd moeten worden door een of meerdere standaardisatieorganisaties.
+
+## Technische afspraken vanuit een netwerkperspectief
+
+Een netwerkperspectief op zorg, een netwerkperspectief op gegevensuitwisseling in de zorg is een perspectief vanuit een deelnemer. Deze deelnemer heeft verschillende systeemrollen in het ecosysteem vanuit een netwerkperspectief. Een zorgorganisatie kan bijvoorbeeld zowel aanbieder als afnemer zijn. Iedere systeemrol heeft in het informatiestelsel haar eigen voorziening waarvoor technische afspraken gemaakt moeten worden.
+
+In onderstaand figuur is de samenhang tussen de standaarden weergegeven en hoe deze uiteindelijk tot technische afspraken leiden.
+
+![Samenhang tussen standaarden](../.gitbook/assets/organization/coherence.svg)
+
+Voor de technische afspraken wordt veelal systeem-use-case-modellering gehanteerd om de functionele en niet-functionele eisen te beschrijven. Overeenkomstig deze modellering zou voor iedere deelnemer de use cases beschreven moeten worden waarvoor zij verantwoordelijk is.
+
+## Verschillen in implementaties
+
+De technische afspraken kunnen op verschillende manieren geïmplementeerd worden in een (gezamenlijke) voorziening. Enerzijds kan gekozen worden voor een softwareleverancier met proprietary software, anderzijds voor open source software van een community van ontwikkelaars. 
+
+Indien op een gemeenschappelijke voorziening publieke sturing nodig is, dan spreken we over een publieke voorziening.
+
+![Keuzes voor de implementatie van voorzieningen](../.gitbook/assets/organization/implementation.svg)
