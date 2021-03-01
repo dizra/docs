@@ -1,28 +1,24 @@
 # Table of contents
 
-* [Wat is DIZRA?](README.md)
-* [Van start gaan](van-start-gaan.md)
+* [Start](README.md)
 * [Manifest](manifest.md)
-* [Begrippenlijst](begrippenlijst.md)
-* [Wijzigingen](wijzigingen.md)
+* [Begrippenlijst](GLOSSARY.md)
 
-## Thema's <a id="thema"></a>
+## Perspectieven
 
-* [Vertrouwensmodel](thema/vertrouwensmodel.md)
-* [Regie op gezondheidsdata](thema/regie-op-gezondheidsdata.md)
-* [Gemeenschappelijke taal](thema/gemeenschappelijke-taal.md)
-* [Data bij de bron](thema/data-bij-de-bron.md)
-* [Gelijk speelveld](thema/gelijk-speelveld.md)
-* [Duurzaam](thema/duurzaam.md)
-* [FAIR-data](thema/fair-data.md)
-* [Open standaarden](thema/open-standaarden.md)
-
-## Rollen
-
-* [A1 Netwerkautoriteit](rollen/netwerkautoriteit.md)
-* [A2 Auditor](rollen/auditor.md)
-* [A3 Netwerkactor](rollen/netwerkactor.md)
-* [A4 Techniekleverancier](rollen/techniekleverancier.md)
-* [A5 Netwerkbeheerder](rollen/netwerkbeheerder.md)
-* [A6 Netwerkgids](rollen/netwerkgids.md)
-
+* [Motivatie](views/motivation.md)
+  * [Regie op gegevens](motivation/regie-op-gezondheidsdata.md)
+  * [Gemeenschappelijke taal](motivation/gemeenschappelijke-taal.md)
+  * [Data bij de bron](motivation/data-bij-de-bron.md)
+  * [Gelijk speelveld](motivation/gelijk-speelveld.md)
+  * [Duurzaam](motivation/duurzaam.md)
+  * [FAIR-data](motivation/fair-data.md)
+  * [Machineleesbaar](motivation/machineleesbaar.md)
+  * [Federatief](motivation/federatief.md)
+  * [Open standaarden](motivation/open-standaarden.md)
+* [Besturing](views/organization.md)
+  * [Rollen](organization/actors.md)
+* [Ecosysteem](views/system.md)
+* [Technologie](views/technology.md)
+  * [Systeemactoren](technology/actors.md)
+  * [Leveranciers](technology/suppliers.md)

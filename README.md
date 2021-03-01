@@ -7,16 +7,18 @@ description: >-
 
 # Wat is DIZRA?
 
-De zorg bouwt aan een duurzaam informatiestelsel. Een stelsel waarin data en services digitaal vindbaar, toegankelijk, uitwisselbaar en herbruikbaar zijn. DIZRA is de referentiearchitectuur voor dit informatiestelsel in de zorg. Het is een product van IT-Architecten voor IT-Architecten. Met DIZRA borgen we de samenhang en de duurzaamheid van het informatiestelsel, we delen kennis en verhogen de kwaliteit van de afspraken. 
+De zorg bouwt aan een duurzaam informatiestelsel. Een stelsel waarin data en services digitaal vindbaar, toegankelijk, uitwisselbaar en herbruikbaar zijn. DIZRA is de referentiearchitectuur voor dit informatiestelsel in de zorg. Het is een product van IT-Architecten voor IT-Architecten. Met DIZRA borgen we de samenhang en de duurzaamheid van het informatiestelsel, we delen kennis en verhogen de kwaliteit.
 
 Dit doen we door het beschrijven van:
 
 1. Een **manifest** met uitgangspunten. Het manifest beschrijft de uitgangspunten voor het maken van architectuurkeuzes. Met dezelfde uitgangspunten verkrijgen we meer samenhang.
-2. Een **begrippenlijst** om de terminologie te verklaren en te definiëren**.** Met de begrippen werken we aan een gemeenschappelijk taalgebruik zodat we elkaar beter begrijpen.
-3. De uitgangspunten zijn uitgewerkt in **thema's.** In een thema is de motivatie en de rationale van een uitgangspunt beschreven**.**
-4. Meer samenhang ontstaat door het raamwerk met **rollen.** De rollen geven structuur aan de afspraken en stimuleert hergebruik van afspraken. Voor iedere rol wordt beschreven wat haar verantwoordelijkheden zijn. Aan de hand van deze verantwoordelijkheden zijn de **richtlijnen** opgesteld. De richtlijnen zijn de implicaties van de gehanteerde uitgangspunten..
+2. Een **begrippenlijst** om de terminologie te verklaren en te definiëren**.** Voor de begrippen maken we hergebruik van bestaande begrippenlijksten om samen aan een gemeenschappelijk taalgebruik te werken zodat we elkaar beter begrijpen.
+3. De **motivatie** voor de uitgangspunten.
+4. Een beschrijving van de **besturing** van het informatiestelsel gebaseerd op NEN7522:2020. Het stelsel zien we als een stelsel van standaarden. In de besturing staat het voortbrengingsproces en de governance van de standaarden beschreven.
+5. De context van het informatiestelsel als **ecosysteem** met haar deelnemers. Het laat zien wie de deelnemers zijn en hoe interoperabiliteit ontstaat tussen deelnemers.
+6. De **technologie** achter het ecosysteem waarbij we inzicht geven in de systeemactoren, de functies van de systeemactoren en de leveranciers van de software in het informatiestelsel.
 
-DIZRA is in opdracht van het Informatieberaad Zorg ontwikkeld. Het informatiestelsel is nodig om de zorg nog beter, betaalbaarder en toegankelijker te maken. Als IT-Architecten in de zorg dragen we bij door het stelsel uitgangspunten, structuur en samenhang te geven. DIZRA is het gezamenlijke resultaat van alle gesprekken en de ingebrachte kennis, kunde en ervaring van IT-Architecten in de zorg. DIZRA is vakinhoudelijk en vereist daarom kennis van informatievoorziening en informatietechnologie. 
+DIZRA is in opdracht van het Informatieberaad Zorg ontwikkeld. Het informatiestelsel is nodig om de zorg nog beter, betaalbaarder en toegankelijker te maken. Als IT-Architecten in de zorg dragen we bij door het stelsel uitgangspunten, structuur en samenhang te geven. DIZRA is het gezamenlijke resultaat van alle gesprekken en de ingebrachte kennis, kunde en ervaring van IT-Architecten in de zorg. DIZRA is vakinhoudelijk en vereist daarom kennis van informatievoorziening en informatietechnologie.
 
 {% hint style="info" %}
 **Status van DIZRA als referentiearchitectuur voor het informatiestelsel in de zorg:**
@@ -28,13 +30,37 @@ Het Informatieberaad Zorg heeft de volgende besluiten genomen:
 * 04-2020: De resultaten van de beproeving zijn teruggemeld aan het informatieberaad. Het informatieberaad heeft op basis hiervan besloten DIZRA vast te stellen.
 {% endhint %}
 
-Van start gaan gaan is de beste manier om de referentiearchitectuur te leren kennen. Je kunt het hoofdstuk van start gaan gebruiken als leeswijzer voor het beginnen met DIZRA.
+## Samen het gesprek voeren
 
-## Normenkader downloaden
+DIZRA is een referentiearchitectuur. Maar wat betekent dat? Kort gezegd kun je zeggen dat het een fundament is waarop anderen kunnen voortbouwen. Een gemeenschappelijke basis dus. Omdat we vanuit een zelfde basis met dezelfde uitgangspunten vertrekken ontstaat er samenhang.
 
-Het normenkader kan gedownload worden als Excel-bestand. Klik hieronder om het bestand te downloaden.
+Met een referentiearchitectuur willen we ook het gesprek vereenvoudigen. Door een structuur te bieden van onderwerpen waarover we met elkaar in gesprek moeten gaan. Maar ook door de begrippen die we gebruiken in deze structuur.  
 
-{% file src=".gitbook/assets/normenkader-v2020-03.xlsx" caption="Normenkader" %}
+## Het probleem dat we willen oplossen
+
+In de huidige situatie ontbreekt het aan standaarden op de applicatie en technische laag van het interoperabiliteitsmodel. Het is niet zo dat deze standaarden er niet zijn. Er is alleen geen keuze gemaakt voor een standaard. Iedere keten kiest daarom voor haar eigen standaard en veelal is het dominante product in een keten de standaard. We willen dit oplossen door in het informatiestelsel te kiezen voor een stelsel van standaarden vanuit een netwerkperspectief.
+
+![Het probleem van een ketenperspectief en het ontbreken van technische standaarden](.gitbook/assets/problem.svg)
+
+Het netwerkperspectief brengt alle ketens samen in een perspectief van de deelnemer naar het informatiestelsel en de andere deelnemers. Een netwerk is een deelnemer met verbindingen naar andere deelnemers. De deelnemer moet meedoen in al deze verbindingen, al deze ketens. De informatievoorziening en deelname aan alle ketens komt samen op de informatie, applicatie en technische laag. Op de informatielaag waar we vanuit domeinen moeten leren denken en op de applicatie- en technische laag waar we zorgbrede standaarden moeten gaan hanteren.
+
+## De uitgangspunten die we hanteren
+
+We hanteren een aantal uitgangspunten, oftewel principes, om het huidige interoperabiliteitsprobleem op te lossen. Deze negen uitgangspunten zijn beschreven in het manifest. Het is het vertrekpunt om naar een oplossing toe te werken. Een belangrijk onderdeel van IT-architectuur is namelijk keuzes maken. Op basis van de uitgangspunten kunnen we deze keuzes maken. De motivatie voor de uitgangspunten is uitgebreid beschreven onder het motivatieperspectief.
+
+## De standaarden in het informatiestelsel
+
+Het informatiestelsel is een stelsel van standaarden binnen het zorgstelsel omdat we willen uitgaan van een eerlijk speelveld voor alle leveranciers. In onderstaand figuur zijn  de verschillende soorten standaarden weergegeven.
+
+We onderkennen in het informatiestelsel informatiestandaarden en technische afspraken. Een informatiestandaard beschrijft de functionele behoefte van de deelnemers en de diensten die de deelnemers voor de invulling van die behoefte met elkaar afspreken. Een technische afspraak is een aanvulling op de informatiestandaard voor de invulling van de technische afspraken.
+
+![De standaarden in het informatiestelsel](.gitbook/assets/overview.svg)
+
+De deelnemers aan het informatiestelsel zijn beschreven in het perspectief van het ecosysteem. De systeemrollen oftewel actoren in het technische perspectief. De actoren zijn de bouwstenen van het informatiestelsel omdat de actoren gezamenlijk een werkend informatiestelsel maken.
+
+## De besturing van het informatiestelsel
+
+Het informatiestelsel is een stelsel van standaarden. Om tot al deze standaarden te komen is sturing en besturing nodig. De besturing van het informatiestelsel is beschreven in het besturingsperspectief. Het is gebaseerd op de norm NEN7522:2020.
 
 ## Reactie geven
 
@@ -49,4 +75,3 @@ Reacties die we graag ontvangen gaan bijvoorbeeld over:
 * vragen of twijfels hoe je iets moet uitleggen of toepassen.
 
 Je kunt reageren door een mail te sturen naar: [architectuurcommunityzorg@zinl.nl](mailto:architectuurcommunityzorg@zinl.nl)
-
