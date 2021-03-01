@@ -15,7 +15,7 @@ Met data bij de bron geven we invulling aan een decentrale informatiehuishouding
 
 ## Wat is data bij de bron?
 
-Data bij de bron betekent dat we data bij de bron ophalen en niet doorkopiëren. Soms is een kopie noodzakelijk vanuit wettelijke verplichtingen, maar het principe is dat we zo weinig mogelijk kopiëren en zoveel mogelijk data direct bij de bron ophalen. Data bij de bron betekent dat we dezelfde databron hebben voor meerdere ketens. Hierdoor ontstaat een netwerk van data en services. Iedere deelnemer in het netwerk kan zowel afnemer als aanbieder van data en services zijn. Data kan hergebruikt en meervoudig gebruikt worden omdat de betekenis van data formeel en machineleesbaar is beschreven. Iedere keten kan op basis van de betekenis bepalen wat zij nodig heeft in haar keten. Een zelfde databron heeft daardoor vele afnemers in vele ketens.
+Data bij de bron betekent dat we gegevens bij de bron ophalen en niet doorkopiëren. Soms is een kopie noodzakelijk vanuit wettelijke verplichtingen, maar het principe is dat we zo weinig mogelijk kopiëren en zoveel mogelijk gegevens direct bij de bron ophalen. Data bij de bron betekent dat we dezelfde databron hebben voor meerdere ketens. Hierdoor ontstaat een netwerk van data en services. Iedere deelnemer in het netwerk kan zowel afnemer als aanbieder van data en services zijn. Gegevens kunnen hergebruikt en meervoudig gebruikt worden omdat de betekenis van data formeel en machineleesbaar is beschreven. Iedere keten kan op basis van de betekenis bepalen wat zij nodig heeft in haar keten. Een zelfde databron heeft daardoor vele afnemers in vele ketens.
 
 ![Data vanuit de bron](../.gitbook/assets/motivation/datastation.svg)
 

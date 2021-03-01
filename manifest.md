@@ -4,11 +4,11 @@ description: Het manifest beschrijft de principes voor het informatiestelsel in 
 
 # Manifest
 
-We werken samen aan een duurzaam informatiestelsel. Dit is een stelsel waarin we afspraken maken over regie en hergebruik van data zodat de zorg doeltreffender en doelmatiger is. Door middel van principes maken we onze uitgangspunten bekend.
+We werken samen aan een duurzaam informatiestelsel. Het is een stelsel van standaarden waarmee we afspraken maken over regie en hergebruik van data zodat de zorg doeltreffender en doelmatiger is. Door middel van principes maken we onze uitgangspunten bekend.
 
-1. In het informatiestelsel hebben burgers **regie op hun eigen gezondheidsdata** en kunnen deze data meenemen en delen in hun reis door het zorglandschap en in het netwerk van zorgverleners en ondersteuners dat zich rondom hen vormt.
+1. In het informatiestelsel hebben cliënten **regie op hun eigen gezondheidsgegevens** en kunnen deze gegevens meenemen en delen in hun reis door het zorglandschap en in het netwerk van zorgverleners en ondersteuners dat zich rondom hen vormt.
 2. In het informatiestelsel **spreken we een gemeenschappelijke taal** en hanteren gemeenschappelijke terminologie, waarbij we de contextuele verschillen omarmen.
-3. De **data** blijft **bij de bron**, onder de verantwoordelijkheid van de bronhouder, voor een veilig en vertrouwd informatiestelsel waarin het voor burgers transparant is welke bronhouders welke gezondheidsgegevens registreren en wie het raadpleegt.
+3. De **data** blijft **bij de bron**, onder de verantwoordelijkheid van de bronhouder, voor een veilig en vertrouwd informatiestelsel waarin het voor cliënten transparant is welke bronhouders welke gezondheidsgegevens registreren en wie het raadpleegt.
 4. Het informatiestelsel hanteert een **gelijk speelveld voor alle leveranciers**. Afspraken worden gemaakt over het gebruik van standaarden, niet over het gebruik van een product of dienst. Iedere organisatie kiest haar eigen leveranciers voor het implementeren van de standaarden.
 5. Het informatiestelsel is **duurzaam** doordat het relevant is en blijft. Het omarmt voor nu en in de toekomst de complexiteit van meerdere standaarden in een stelsel waarin verandering en innovatie welkom is.
 6. Data wordt enkelvoudig geregistreerd bij de bron en vervolgens beschikbaar gesteld voor meervoudig gebruik in verschillende toepassingen. Hiervoor hanteert het informatiestelsel de **FAIR-data** principes.

@@ -4,17 +4,17 @@ description: >-
   burgers. In dit hoofdstuk beschrijven we de motivatie voor dit principe.
 ---
 
-# Regie op gezondheidsdata
+# Regie op gezondheidsgegevens
 
 ## Waarom regie op gegevens?
 
 De dienstverlening in de digitale samenleving kun je verbeteren door het vrije verkeer van persoonlijke gegevens goed te regelen – op een manier die het vertrouwen van mensen in de samenleving vergroot en beschermt. Meer en meer zorg is tegenwoordig netwerkzorg, waarbij de enige constante de cliënt is. Er is geen lineair proces waarbij vooraf duidelijk is wie de volgende zorgverlener is. De cliënt als gegevensregisseur is dan noodzakelijk.
 
-![Motivatie voor regie op gezondheidsdata](../.gitbook/assets/motivation/datadirector.svg)
+![Motivatie voor regie op gezondheidsgegevens](../.gitbook/assets/motivation/datadirector.svg)
 
-## Wat is regie op gezondheidsdata?
+## Wat is regie op gezondheidsgegevens?
 
-Regie op gezondheidsdata staat voor gegevensuitwisseling onder regie van de cliënt zelf. We hanteren voor de zorg de term gezondheidsdata, maar het is gelijk aan regie op gegevens in het algemeen. We denken namelijk dat gezondheidsdata niet alleen medische gegevens zijn, maar alle gegevens die binnen de zorg relevant zijn.
+Regie op gezondheidsgegevens staat voor gegevensuitwisseling onder regie van de cliënt zelf. We hanteren voor de zorg de term gezondheidsgegevens, maar het is gelijk aan regie op gegevens in het algemeen. We denken namelijk dat gezondheidsgegevens niet alleen medische gegevens zijn, maar alle gegevens die binnen de zorg relevant zijn.
 
 Voor de definitie kijken we naar het programma regie op gegevens. In het programma heeft de overheid samen met private en maatschappelijke organisaties uitgewerkt wat regie op gegevens is \(zie: [https://kennisopenbaarbestuur.nl/thema/regie-op-gegevens/](https://kennisopenbaarbestuur.nl/thema/regie-op-gegevens/).
 

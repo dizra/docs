@@ -18,7 +18,11 @@ Een gemeenschappelijke taal spreken betekent dat je elkaar begrijpt binnen de co
 
 Semantische interoperabiliteit betekent dat mensen de betekenis van gegevens op eenzelfde manier interpreteren. In de digitale wereld hebben we het onszelf moeilijk gemaakt. We praten over de manier van vastlegging en communiceren met attribuutnamen die een machine niet begrijpt. En vervolgens is er een mismatch in de manier van vastlegging waardoor we elkaar niet meer begrijpen. Om dit probleem op te lossen, moeten we de kern van het probleem aanpakken. Mensen praten namelijk niet in attributen, maar gebruiken concepten.
 
+{% hint style="info" %}
+**Communiceren in concepten**
+
 We begrijpen allemaal wat koffie drinken is, we hebben daar een beeld van. We kunnen in een database gegevens vastleggen hoe we koffie kunnen drinken. De wijze waarop is irrelevant, zolang we maar uitleggen wat het betekent. Zo kun je kiezen voor vastlegging van {Z, ZS, ZM, ZSM} of voor {42, 43, 44, 45}. Ook kun je voor de vastlegging een andere logica volgen, bijvoorbeeld {100=Zwart, 1=Melk, 2=Suiker}. Als mensen begrijpen we dat deze drie manieren hetzelfde zijn. De betekenis is namelijk hetzelfde. Als mensen herkennen we de concepten 'koffie zwart', 'koffie met melk', 'koffie met suiker' en 'koffie met melk en suiker'. Reden waarom we ook in de informatietechnologie moeten communiceren in concepten en niet in gegevens. We hebben informatie nodig en geen ruwe data.
+{% endhint %}
 
 Een gemeenschappelijk taal spreek je als we de gegevens op een semantisch consistente manier kunnen interpreteren. Hiervoor is een ontologie nodig waarin de betekenis van een concept is uitgelegd. Machineleesbaar, zodat ook de machine in concepten kan communiceren en informatie kan geven.
 
@@ -76,4 +80,4 @@ Een zorginformatiebouwsteen beschrijft een zorginhoudelijk concept in termen van
 
 #### Weergave op fysiek niveau
 
-Een fysiek model toont de gegevens zoals deze in een bericht, een bestand of in een database zijn opgenomen. Voor berichten en bestanden worden open internationale standaarden gebruikt, bijvoorbeeld XML of JSON.  Om de verbinding met ontologie te houden moet een formaat gehanteerd worden die dat ondersteund, bijvoorbeeld een standaard uit het W3C Resource Description Framework.
+Een fysiek model toont de gegevens zoals deze zijn opgenomen in een bericht, een bestand of in een database. Voor berichten en bestanden worden open internationale standaarden gebruikt, bijvoorbeeld XML of JSON. Om de verbinding met ontologie te houden moet een formaat gebruikt zijn die dat ondersteund, bijvoorbeeld een standaard uit het W3C Resource Description Framework.

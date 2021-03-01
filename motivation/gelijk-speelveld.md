@@ -16,7 +16,7 @@ Een keuze voor een product of dienst van een leverancier als afspraak belemmert 
 
 ### Waarom is een gelijk speelveld belangrijk?
 
-De [Mededingingswet](https://wetten.overheid.nl/BWBR0008691/2019-01-01#Hoofdstuk3) verbiedt afspraken waardoor de mededinging op de Nederlandse markt of een deel daarvan wordt verhinderd, beperkt of vervalst. Een keuze voor een leverancier in een stelsel van afspraken mag daarom niet. Naast dat het niet mag willen we het ook niet. We herkennen de situaties dat de macht bij de leveranciers ligt maar al te goed. We weten welke gevolgen dat heeft.
+De [Mededingingswet](https://wetten.overheid.nl/BWBR0008691/2019-01-01#Hoofdstuk3) verbiedt afspraken waardoor de mededinging op de Nederlandse markt of een deel daarvan wordt verhinderd, beperkt of vervalst. Een keuze voor een leverancier in een stelsel van afspraken mag daarom niet als daar geen wettelijke grondslag voor is. Naast dat het niet mag willen we het ook niet. We herkennen de situaties dat de macht bij de leveranciers ligt maar al te goed. We weten welke gevolgen dat heeft.
 
 ![Gelijk speelveld](../.gitbook/assets/motivation/levelplayingfield.svg)
 

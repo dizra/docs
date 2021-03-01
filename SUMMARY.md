@@ -7,7 +7,7 @@
 ## Perspectieven
 
 * [Motivatie](views/motivation.md)
-  * [Regie op gezondheidsdata](motivation/regie-op-gezondheidsdata.md)
+  * [Regie op gegevens](motivation/regie-op-gezondheidsdata.md)
   * [Gemeenschappelijke taal](motivation/gemeenschappelijke-taal.md)
   * [Data bij de bron](motivation/data-bij-de-bron.md)
   * [Gelijk speelveld](motivation/gelijk-speelveld.md)

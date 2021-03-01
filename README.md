@@ -44,13 +44,23 @@ In de huidige situatie ontbreekt het aan standaarden op de applicatie en technis
 
 Het netwerkperspectief brengt alle ketens samen in een perspectief van de deelnemer naar het informatiestelsel en de andere deelnemers. Een netwerk is een deelnemer met verbindingen naar andere deelnemers. De deelnemer moet meedoen in al deze verbindingen, al deze ketens. De informatievoorziening en deelname aan alle ketens komt samen op de informatie, applicatie en technische laag. Op de informatielaag waar we vanuit domeinen moeten leren denken en op de applicatie- en technische laag waar we zorgbrede standaarden moeten gaan hanteren.
 
+## De uitgangspunten die we hanteren
+
+We hanteren een aantal uitgangspunten, oftewel principes, om het huidige interoperabiliteitsprobleem op te lossen. Deze negen uitgangspunten zijn beschreven in het manifest. Het is het vertrekpunt om naar een oplossing toe te werken. Een belangrijk onderdeel van IT-architectuur is namelijk keuzes maken. Op basis van de uitgangspunten kunnen we deze keuzes maken. De motivatie voor de uitgangspunten is uitgebreid beschreven onder het motivatieperspectief.
+
 ## De standaarden in het informatiestelsel
 
-Het informatiestelsel is een stelsel van standaarden binnen het zorgstelsel omdat we willen uitgaan van een eerlijk speelveld voor alle leveranciers. In onderstaand figuur zijn  de verschillende standaarden weergegeven.
+Het informatiestelsel is een stelsel van standaarden binnen het zorgstelsel omdat we willen uitgaan van een eerlijk speelveld voor alle leveranciers. In onderstaand figuur zijn  de verschillende soorten standaarden weergegeven.
 
 We onderkennen in het informatiestelsel informatiestandaarden en technische afspraken. Een informatiestandaard beschrijft de functionele behoefte van de deelnemers en de diensten die de deelnemers voor de invulling van die behoefte met elkaar afspreken. Een technische afspraak is een aanvulling op de informatiestandaard voor de invulling van de technische afspraken.
 
 ![De standaarden in het informatiestelsel](.gitbook/assets/overview.svg)
+
+De deelnemers aan het informatiestelsel zijn beschreven in het perspectief van het ecosysteem. De systeemrollen oftewel actoren in het technische perspectief. De actoren zijn de bouwstenen van het informatiestelsel omdat de actoren gezamenlijk een werkend informatiestelsel maken.
+
+## De besturing van het informatiestelsel
+
+Het informatiestelsel is een stelsel van standaarden. Om tot al deze standaarden te komen is sturing en besturing nodig. De besturing van het informatiestelsel is beschreven in het besturingsperspectief. Het is gebaseerd op de norm NEN7522:2020.
 
 ## Reactie geven
 
