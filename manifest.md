@@ -21,3 +21,4 @@ Bovenstaande uitgangspunten worden gehanteerd naast de vigerende wet- en regelge
 ## Beeldmateriaal voor communicatie van het manifest
 
 {% file src=".gitbook/assets/beeldmateriaal.zip" caption="Beeldmateriaal - Iconen van de principes" %}
+

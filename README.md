@@ -5,7 +5,7 @@ description: >-
   praktische richtlijnen.
 ---
 
-# Wat is DIZRA?
+# Start
 
 De zorg bouwt aan een duurzaam informatiestelsel. Een stelsel waarin data en services digitaal vindbaar, toegankelijk, uitwisselbaar en herbruikbaar zijn. DIZRA is de referentiearchitectuur voor dit informatiestelsel in de zorg. Het is een product van IT-Architecten voor IT-Architecten. Met DIZRA borgen we de samenhang en de duurzaamheid van het informatiestelsel, we delen kennis en verhogen de kwaliteit.
 
@@ -34,7 +34,7 @@ Het Informatieberaad Zorg heeft de volgende besluiten genomen:
 
 DIZRA is een referentiearchitectuur. Maar wat betekent dat? Kort gezegd kun je zeggen dat het een fundament is waarop anderen kunnen voortbouwen. Een gemeenschappelijke basis dus. Omdat we vanuit een zelfde basis met dezelfde uitgangspunten vertrekken ontstaat er samenhang.
 
-Met een referentiearchitectuur willen we ook het gesprek vereenvoudigen. Door een structuur te bieden van onderwerpen waarover we met elkaar in gesprek moeten gaan. Maar ook door de begrippen die we gebruiken in deze structuur.  
+Met een referentiearchitectuur willen we ook het gesprek vereenvoudigen. Door een structuur te bieden van onderwerpen waarover we met elkaar in gesprek moeten gaan. Maar ook door de begrippen die we gebruiken in deze structuur.
 
 ## Het probleem dat we willen oplossen
 
@@ -50,7 +50,7 @@ We hanteren een aantal uitgangspunten, oftewel principes, om het huidige interop
 
 ## De standaarden in het informatiestelsel
 
-Het informatiestelsel is een stelsel van standaarden binnen het zorgstelsel omdat we willen uitgaan van een eerlijk speelveld voor alle leveranciers. In onderstaand figuur zijn  de verschillende soorten standaarden weergegeven.
+Het informatiestelsel is een stelsel van standaarden binnen het zorgstelsel omdat we willen uitgaan van een eerlijk speelveld voor alle leveranciers. In onderstaand figuur zijn de verschillende soorten standaarden weergegeven.
 
 We onderkennen in het informatiestelsel informatiestandaarden en technische afspraken. Een informatiestandaard beschrijft de functionele behoefte van de deelnemers en de diensten die de deelnemers voor de invulling van die behoefte met elkaar afspreken. Een technische afspraak is een aanvulling op de informatiestandaard voor de invulling van de technische afspraken.
 
@@ -75,3 +75,4 @@ Reacties die we graag ontvangen gaan bijvoorbeeld over:
 * vragen of twijfels hoe je iets moet uitleggen of toepassen.
 
 Je kunt reageren door een mail te sturen naar: [architectuurcommunityzorg@zinl.nl](mailto:architectuurcommunityzorg@zinl.nl)
+
