@@ -63,7 +63,7 @@ In het bovenstaande figuur is een voorbeeld weergegeven van een kanban voor de o
 
 ## Technische afspraken vanuit een netwerkperspectief
 
-Een netwerkperspectief op zorg, een netwerkperspectief op gegevensuitwisseling in de zorg is een perspectief vanuit een deelnemer. Deze deelnemer heeft verschillende systeemrollen in het ecosysteem vanuit een netwerkperspectief. Een zorgorganisatie kan bijvoorbeeld zowel aanbieder als afnemer zijn. Iedere systeemrol heeft in het informatiestelsel haar eigen voorziening waarvoor technische afspraken gemaakt moeten worden.
+Een netwerkperspectief op zorg, een netwerkperspectief op gegevensuitwisseling in de zorg is een perspectief vanuit een deelnemer. Deze deelnemer heeft verschillende systeemrollen in het ecosysteem vanuit een netwerkperspectief. Een zorgorganisatie kan bijvoorbeeld zowel bronhouder als afnemer zijn. Iedere systeemrol heeft in het informatiestelsel haar eigen voorziening waarvoor technische afspraken gemaakt moeten worden.
 
 In onderstaand figuur is de samenhang tussen de standaarden weergegeven en hoe deze uiteindelijk tot technische afspraken leiden.
 

@@ -1,11 +1,11 @@
 ---
 description: >-
-  In dit hoofdstuk beschrijven we de primaire gebruikers van het ecosysteem, een systeem dat met de standaarden van het informatiestelsel wordt geïmplementeerd.
+  In dit hoofdstuk beschrijven we de gebruikers van het ecosysteem op organisatorisch niveau. Een ecosysteem dat met de standaarden van het informatiestelsel wordt geïmplementeerd.
 ---
 
 # Het informatiestelsel als ecosysteem
 
-De informatiestandaarden beschrijven de diensten in het het informatiestelsel waarbij het informatiestelsel een ecosysteem is. Het is een ecosysteem omdat het als systeem moet kunnen functioneren zodat het voor de zorgverleners en cliënten als één systeem voelt waarin ze kunnen samenwerken en gegevens kunnen uitwisselen. De diensten worden aangeboden door de deelnemers.
+De informatiestandaarden beschrijven de diensten in het informatiestelsel. Het informatiestelsel noemen we een ecosysteem. Het imoet voor de zorgverleners en cliënten als één informatiesysteem voelen waarin ze kunnen samenwerken en gegevens kunnen uitwisselen. De diensten worden aangeboden door de deelnemers.
 
 In onderstaande paragraaf zijn de deelnemers van het ecosysteem beschreven.  
 
@@ -17,7 +17,7 @@ In onderstaand figuur zijn de deelnemers weergegeven zoals we die onderkennen in
 
 De deelnemers in het informatiestelsel zijn:
 
-1. Een **zorgorganisatie** is een aanbieder of afnemer van gegevens en services. De gegevens en services worden primair gebruikt in het zorgproces en worden secundair gebruikt voor bijvoorbeeld onderzoek en kwaliteitsbewaking. We gebruiken hier de generieke term van een zorgorganisatie. In een informatiestandaard worden de specifieke rollen beschreven van de zorgorganisaties die betrokken zijn in een keten, bijvoorbeeld een verpleeghuis, huisarts, apotheker etc.
+1. Een **zorgorganisatie** is een bronhouder of afnemer van gegevens en services. De gegevens en services worden primair gebruikt in het zorgproces en worden secundair gebruikt voor bijvoorbeeld onderzoek en kwaliteitsbewaking. We gebruiken hier de generieke term van een zorgorganisatie. In een informatiestandaard worden de specifieke rollen beschreven van de zorgorganisaties die betrokken zijn in een keten, bijvoorbeeld een verpleeghuis, huisarts, apotheker etc.
 2. **Zorgverleners** maken gebruik van het ecosysteem via de informatiesystemen van een van de deelnemende zorgorganisatie.
 3. Een **registerhouder** is een houder van een registratie van gegevens waarin gegevens over een onderwerp zijn verzameld. We onderkennen basisregisters (zoals Basisregister Personen),  sectorale registers (zoals LRZa en AGB), beroepsregisters (zoals BIG), patiëntenregistraties (zoals de ZonMw registraties) en kwaliteitsregistraties (zoals de HIPEC-registratie).
 4. Een **cliënt** is een persoon die gebruik maakt van het ecosysteem voor regie op zijn of haar gezondheid dan wel voor regie op zijn of haar gegevens.

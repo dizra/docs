@@ -5,65 +5,65 @@ description: >-
 
 # Systeemactoren en haar systeemfuncties
 
-Iedere deelnemer kan één of meerdere systeemrollen in het ecosysteem vervullen. Wat de deelnemer is bepaalt "wat" voor data en services zij aanbiedt. Het "hoe" wordt bepaalt door de systeemrol die zij heeft. We onderkennen primaire systeemrollen en ondersteunende systeemrollen. De primaire systeemrollen zijn de rollen van deelnemers. De ondersteunende systeemrollen zijn rollen die nodig zijn om het systeem te laten werken, zodat bijvoorbeeld een afnemer een aanbieder van data kan vinden of kan vertrouwen. In het figuur hieronder zijn de systeemrollen en hun samenhang weergegeven.
+Iedere deelnemer kan één of meerdere systeemrollen in het ecosysteem vervullen. Wat de deelnemer is bepaalt "wat" voor data en services zij aanbiedt. Het "hoe" wordt bepaalt door de systeemrol die zij heeft. We onderkennen primaire systeemrollen en ondersteunende systeemrollen. De primaire systeemrollen zijn de rollen van deelnemers. De ondersteunende systeemrollen zijn rollen die nodig zijn om het systeem te laten werken, zodat bijvoorbeeld een afnemer een bronhouder van data kan vinden of kan vertrouwen. In het figuur hieronder zijn de systeemrollen en hun samenhang weergegeven.
 
 ![Samenhang tussen systeemactoren](../.gitbook/assets/technology/actorcoherence.svg)
 
 Op deze pagina beschrijven we de systeemrollen en de functies waarvoor een systeemrol verantwoordelijk is.
 
-## Aanbieder
+## Bronhouder
 
-Een **aanbieder** van data en services is een rol van een deelnemende organisatie die data en services in het ecosysteem vindbaar, interoperabel en toegankelijk maakt voor hergebruik. Cliënten hebben niet de rol van aanbieder, zij zijn gegevensregisseur en/of gezondheidsregisseur.
+Een **bronhouder** is een rol van een deelnemende organisatie die data en services in het ecosysteem vindbaar, interoperabel en toegankelijk maakt voor hergebruik. Cliënten hebben niet de rol van bronhouder, zij zijn gegevensregisseur en/of gezondheidsregisseur.
 
 ![Data vanuit de bron](../.gitbook/assets/motivation/datastation.svg)
 
 Een afnemer heeft de volgende verantwoordelijkheid:
 
-- **Publicatie van datacatalogus**; een aanbieder moet haar datacatalogus publiceren voor vindbaarheid.
-- **Authenticatie**; een aanbieder moet een actor in het ecosysteem kunnen authenticeren.
-- **Autorisatie**; een aanbieder moet een actor in het ecosysteem kunnen autoriseren.
-- **Veilige communicatie** tussen actoren en aanbieder.
-- **Publicatie van data en services** aan de geautoriseerde actoren in het ecosysteem overeenkomstig de ontologie van het domein van de deelnemer die de rol van aanbieder heeft.
-- **Beantwoording in de taal van het domein**; een aanbieder moet de beantwoording doen in de ontologie van het domein.
+- **Publicatie van datacatalogus**; een bronhouder moet haar datacatalogus publiceren voor vindbaarheid.
+- **Authenticatie**; een bronhouder moet een actor in het ecosysteem kunnen authenticeren.
+- **Autorisatie**; een bronhouder moet een actor in het ecosysteem kunnen autoriseren.
+- **Veilige communicatie** tussen actoren en bronhouder.
+- **Publicatie van data en services** aan de geautoriseerde actoren in het ecosysteem overeenkomstig de ontologie van het domein van de deelnemer die de rol van bronhouder heeft.
+- **Beantwoording in de taal van het domein**; een bronhouder moet de beantwoording doen in de ontologie van het domein.
 - **Verificatie van de geldigheid van een bewijs** die verkregen is van een actor in het ecosysteem.
-- **Verantwoording** over de toegang, uitwisseling van data met, en gebruik van services door het ecosysteem; een aanbieder moet al haar activiteiten loggen.
+- **Verantwoording** over de toegang, uitwisseling van data met, en gebruik van services door het ecosysteem; een bronhouder moet al haar activiteiten loggen.
 
 ## Auditor
 
-Een auditor is een rol uit de besturing van het informatiestelsel. Voor het ecosysteem voert zij audits uit en geeft derdenverklaringen uit. We hebben de rol in deze pagina opgenomen om een volledig beeld te geven van alle partijen die betrokken zijn in het vertrouwen. Een auditor kan een gegevensautoriteit zijn voor de derdenverklaring in het ecosysteem.
+Een auditor is een rol uit de besturing van het informatiestelsel. Voor het ecosysteem voert zij audits uit en geeft derdenverklaringen uit. We hebben de rol in deze pagina opgenomen om een volledig beeld te geven van alle partijen die betrokken zijn in het vertrouwen. Een auditor kan een bevoegde uitgever zijn voor de derdenverklaring in het ecosysteem.
 
 ## Afnemer
 
-Een afnemer is een rol van een deelnemende organisatie die data en services afneemt van een aanbieder. Cliënten hebben niet de rol van afnemer, zij zijn gegevensregisseur en/of gezondheidsregisseur.
+Een afnemer is een rol van een deelnemende organisatie die data en services afneemt van een bronhouder. Cliënten hebben niet de rol van afnemer, zij zijn gegevensregisseur en/of gezondheidsregisseur.
 
 Een afnemer heeft de volgende verantwoordelijkheid:
 
 - **Bewijslast identiteit**; een afnemer moet tegenover een andere deelnemer haar identiteit kunnen bewijzen. Een identiteit kan in deze zowel een identificerend nummer zijn als een ander attribuut gerelateerd aan de identiteit, bijvoorbeeld de naam van de organisatie.
-- **Bewijslast rechtmatigheid verwerking persoonsgegevens**; een afnemer moet tegenover een aanbieder kunnen bewijzen dat gegevensuitwisseling van persoonsgegevens rechtmatig is. Een aanbieder kan op basis van het bewijs een afnemer toegang geven.
+- **Bewijslast rechtmatigheid verwerking persoonsgegevens**; een afnemer moet tegenover een bronhouder kunnen bewijzen dat gegevensuitwisseling van persoonsgegevens rechtmatig is. Een bronhouder kan op basis van het bewijs een afnemer toegang geven.
 - **Bewijslast deelnemer aan het informatiestelsel**; een afnemer moet kunnen bewijzen dat zij een rechtmatige deelnemer is aan het informatiestelsel, waaronder het bewijs dat zij aan alle voorwaarden voldoet.
 - **Vindbaar voor berichten**; een afnemer moet vindbaar zijn voor berichten zoals notificaties.
 - **Vraagstelling in de taal van het domein**; een afnemer moet de vraagstelling doen in de ontologie van het domein.
 - **Verantwoording** over het gebruik van data en services in het ecosysteem; een afnemer moet al haar activiteiten loggen.
 
-## Gegevensautoriteit
+## Bevoegde uitgever van verklaringen
 
-Een gegevensautoriteit is een rol van een organisatie of persoon. Het is een erkenning dat zij geautoriseerd is voor het uitgeven van een verklaring, bijvoorbeeld een identificatie of een kwalificatie.
+Een bevoegde uitgever is een rol van een organisatie of persoon. Het is een erkenning dat zij bevoegd is voor het uitgeven van een verklaring, bijvoorbeeld een identificatie of een kwalificatie.
 
-Een gegevensautoriteit heeft de volgende verantwoordelijkheid:
+Een bevoegde uitgever heeft de volgende verantwoordelijkheid:
 
 - **Uitgifte van een verklaring** zoals een bewijs van registratie of identiteit.
-- **Veilige opslag van de private sleutel** waarmee de gegevensautoriteit een verklaring elektronisch ondertekent.
-- **Publicatie van de publieke sleutels** van de gegevensautoriteit zodat de elektronische handtekening van een gegevensautoriteit kan worden geverifieerd. De publieke sleutel wordt bij een vertrouwensleverancier geregistreerd en via de voorziening van deze leverancier gepubliceerd.
+- **Veilige opslag van de private sleutel** waarmee de bevoegde uitgever een verklaring elektronisch ondertekent.
+- **Publicatie van de publieke sleutels** van de bevoegde uitgever zodat de elektronische handtekening van de bevoegde uitgever kan worden geverifieerd. De publieke sleutel wordt bij een vertrouwensleverancier geregistreerd en via de voorziening van deze leverancier gepubliceerd.
 - **Registratie en publicatie van het schema met attributen in de verklaring** voor controle op volledigheid van de verklaring.
 - **Registratie en publicatie van de status van een verklaring** voor verificatie van geldigheid van een verklaring.
 
 ## Gegevensgids
 
-Een gegevensgids is een leverancier van een doorzoekbare index van datacatalogussen voor de vindbaarheid van data en services. Samen met andere gegevensgidsen maakt zij afspraken over de standaarden voor het vinden van data en services. Een aanbieder van het ecosysteem moet haar datacatalogus laten indexeren om vindbaar te zijn.
+Een gegevensgids is een leverancier van een doorzoekbare index van datacatalogussen voor de vindbaarheid van data en services. Samen met andere gegevensgidsen maakt zij afspraken over de standaarden voor het vinden van data en services. Een bronhouder in het ecosysteem moet haar datacatalogus laten indexeren om vindbaar te zijn.
 
 Een gegevensgids heeft de volgende verantwoordelijkheid:
 
-- **Indexeren van datacatalogussen**; een gegevensgids moet de datacatalogussen indexeren van alle aanbieders in het ecosysteem (of van alle aanbieders in een domein).
+- **Indexeren van datacatalogussen**; een gegevensgids moet de datacatalogussen indexeren van alle bronhouders in het ecosysteem (of van alle bronhouders in een domein).
 - **Doorzoekbaar maken van de index**; een gegevensgids moet de indexering van datacatalogussen doorzoekbaar maken voor de deelnemers in het ecosysteem.
 
 ## Gegevensregisseur
@@ -92,7 +92,7 @@ Een ledenadministratie registreert de leden in het ecosysteem. Het zijn zowel de
 
 Een ledenadministratie heeft de volgende verantwoordelijkheid:
 
-- **Registratie en publicatie van leden**. Ieder lid van het ecosysteem kan door de registratie een ander lid herkennen. Een ledenadministratie kan een gegevensautoriteit zijn in het ecosysteem voor een bewijs van registratie.
+- **Registratie en publicatie van leden**. Ieder lid van het ecosysteem kan door de registratie een ander lid herkennen. Een ledenadministratie kan een bevoegde uitgever zijn in het ecosysteem voor een bewijs van registratie.
 
 ## Operationeel ketenbeheerder
 
@@ -120,7 +120,7 @@ Een vertrouwensleverancier levert samen met andere vertrouwensdienstverleners ee
 
 Een vertrouwensleverancier heeft de volgende verantwoordelijkheid:
 
-- **Registratie van publieke sleutels** en de identificatie horende bij de publieke sleutel. Met de publieke sleutel kan een ontvanger van de verklaring verifiëren dat de verklaring afkomstig is van een gegevensautoriteit.
+- **Registratie van publieke sleutels** en de identificatie horende bij de publieke sleutel. Met de publieke sleutel kan een ontvanger van de verklaring verifiëren dat de verklaring afkomstig is van een bevoegde uitgever.
 
 ## Verzekeraar betrouwbaarheid
 
@@ -128,4 +128,4 @@ Een verzekeraar moet inzichtelijk maken welke verklaringen uitgegeven mogen word
 
 De **verzekeraar** is verantwoordelijk voor:
 
-- **Registratie en publicatie van gegevensautoriteiten**. Hierdoor weet een actor in het ecosysteem dat een gegevensautoriteit geautoriseerd is voor het uitgeven van een verklaring.
+- **Registratie en publicatie van bevoegde uitgevers**. Hierdoor weet een actor in het ecosysteem dat een uitgever bevoegd is voor het uitgeven van een verklaring.

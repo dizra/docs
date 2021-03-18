@@ -34,7 +34,7 @@ Onderliggend aan regie op gegevens zijn de volgende principes gespecificeerd \(z
 * **Mens centraal**: Cliënten krijgen meer grip op het leven en hun gezondheid door regie op de eigen persoonlijke gegevens.
 * **Digitale autonomie**: Cliënten verstevigen hun positie doordat zij meer inzicht hebben in en meer invloed op het gegevensverkeer van hun persoonsgegevens.
 
-Om de bovenstaande principes te realiseren is transparantie het minimaal noodzakelijke. Transparantie over de intenties van gegevensuitwisseling en inzicht in wat organisatie met de verkregen gegevens doen, oftewel het gedrag van aanbieders van data en afnemers. Daarnaast zijn interoperabiliteit, vertrouwen en dataminimalisatie ingrediënten voor een goede regie op gegevens.
+Om de bovenstaande principes te realiseren is transparantie het minimaal noodzakelijke. Transparantie over de intenties van gegevensuitwisseling en inzicht in wat organisatie met de verkregen gegevens doen, oftewel het gedrag van bronhouders van data en afnemers. Daarnaast zijn interoperabiliteit, vertrouwen en dataminimalisatie ingrediënten voor een goede regie op gegevens.
 
 ### Vormen van regie
 
