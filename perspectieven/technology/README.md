@@ -46,13 +46,12 @@ De **stelselbeheerder** is verantwoordelijk voor het aanwijzen van de ledenadmin
 
 We onderkennen de volgende actoren in het ecosysteem voor de deelnemers:
 
-1. Een **aanbieder** van data en services is een rol van een deelnemende organisatie die data en services in het ecosysteem vindbaar, interoperabel en toegankelijk maakt voor hergebruik. Cliënten hebben niet de rol van aanbieder, zij zijn gegevensregisseur.
-2. Een **afnemer** is een rol van een deelnemende organisatie die data en services afneemt van een aanbieder. Cliënten hebben niet de rol van afnemer, zij zijn gegevensregisseur of gezondheidsregisseur.
+1. Een **bronhouder** is een rol van een deelnemende organisatie die data en services in het ecosysteem vindbaar, interoperabel en toegankelijk maakt voor hergebruik. Cliënten hebben niet de rol van bronhouder, zij zijn gegevensregisseur.
+2. Een **afnemer** is een rol van een deelnemende organisatie die data en services afneemt van een bronhouder. Cliënten hebben niet de rol van afnemer, zij zijn gegevensregisseur of gezondheidsregisseur.
 3. De **gegevensregisseur** is een rol van een cliënt. De locatie van de gegevens van een persoon, veelal weergegeven in een tijdlijn, worden via de cliënt toegankelijk gemaakt. Toegang kan verkregen zijn door gegevensuitwisseling via de cliënt of door gegevensuitwisseling met toestemming van de cliënt. Een gegevensregisseur moet ook de mogelijkheid hebben om vooraf gegevens klaar te zetten in het geval van spoedeisende hulp.
 4. De **gezondheidsregisseur** is eveneens een rol van een cliënt. De nadruk bij de gezondheidsregisseur ligt op het gebruik van gegevens voor je persoonlijke gezondheid \(regie op gezondheid\) terwijl de nadruk van een gegevensregisseur ligt op regie op gegevens.
 
 Daarnaast onderkennen we de volgende ondersteunende systeemrollen \(voor gemeenschappelijke voorzieningen\):
 
-1. Een **gegevensgids** is een leverancier van een index van datacatalogussen voor de vindbaarheid van gegevens en services. Samen met andere leveranciers van indexen maakt zij afspraken over de standaarden voor het vinden van data en services. Een aanbieder van het ecosysteem moet haar datacatalogus laten indexeren om vindbaar te zijn.
+1. Een **gegevensgids** is een leverancier van een index van datacatalogussen voor de vindbaarheid van gegevens en services. Samen met andere leveranciers van indexen maakt zij afspraken over de standaarden voor het vinden van data en services. Een bronhouder van het ecosysteem moet haar datacatalogus laten indexeren om vindbaar te zijn.
 2. De **operationeel ketenbeheerder** bewaakt een keten in het ecosysteem. Een operationeel ketenbeheerder kan ook een gezamenlijke helpdesk vormen. De operationeel ketenbeheerder kan voor een keten of samenwerkingsverband worden ingericht indien daar behoefte en een business case voor is.
-
