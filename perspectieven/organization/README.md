@@ -38,7 +38,7 @@ Het beheren van de catalogus omvat de stelselstandaarden en deze referentiearchi
 
 Het beheren van de catalogus omvat de stelselstandaarden voor het toepassingsgebied van het informatiestelsel zoals in onderstaand figuur is weergegeven.
 
-![De lagen en afspraken in het informatiestelsel](../../.gitbook/assets/standards%20%281%29.svg)
+![De lagen en afspraken in het informatiestelsel](../../.gitbook/assets/standards.svg)
 
 Voor elke laag zijn de verschillende soorten afspraken hieronder beschreven.
 
