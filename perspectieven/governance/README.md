@@ -38,7 +38,7 @@ Het beheren van de catalogus omvat de stelselstandaarden en deze referentiearchi
 
 Het beheren van de catalogus omvat de stelselstandaarden voor het toepassingsgebied van het informatiestelsel zoals in onderstaand figuur is weergegeven.
 
-![De lagen en afspraken in het informatiestelsel](../../.gitbook/assets/standards%20%281%29.svg)
+![De lagen en afspraken in het informatiestelsel](../../.gitbook/assets/standards.svg)
 
 Voor elke laag zijn de verschillende soorten afspraken hieronder beschreven.
 
@@ -68,7 +68,7 @@ Een netwerkperspectief op zorg, een netwerkperspectief op gegevensuitwisseling i
 
 In onderstaand figuur is de samenhang tussen de standaarden weergegeven en hoe deze uiteindelijk tot technische afspraken leiden.
 
-![Samenhang tussen standaarden](../../.gitbook/assets/coherence%20%281%29.svg)
+![Samenhang tussen standaarden](../../.gitbook/assets/coherence.svg)
 
 Voor de technische afspraken wordt veelal systeem-use-case-modellering gehanteerd om de functionele en niet-functionele eisen te beschrijven. Overeenkomstig deze modellering zou voor iedere deelnemer de use cases beschreven moeten worden waarvoor zij verantwoordelijk is.
 
