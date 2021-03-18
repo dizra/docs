@@ -45,5 +45,5 @@ Een bronhouder mag zich rentmeester noemen als zij voldoet aan de volgende regel
 9. De rentmeester zorgt ervoor dat een persoon altijd toegang heeft tot zijn of haar data. Uitgangspunt is en blijft dat waar data ter beschikking wordt gesteld, dit onder regie en zeggenschap van de betrokken persoon zelf gebeurd.
 {% endhint %}
 
-Zoals de minister in zijn [brief](https://www.rijksoverheid.nl/documenten/kamerstukken/2018/11/15/kamerbrief-over-data-laten-werken-voor-gezondheid) heeft aangegeven is voor het gebruik van data [vertrouwen](https://github.com/dizra/docs/tree/aa7bddd196082bd8f85197a77ef0078b532e79fb/motivation/vertrouwensinfrastructuur.md) nodig en [regie op gegevens](regie-op-gezondheidsdata.md) door de persoon. Het vertrouwen dat door het proces rentmeesterschap en de rol van rentmeester wordt bewaakt.
+Zoals de minister in zijn [brief](https://www.rijksoverheid.nl/documenten/kamerstukken/2018/11/15/kamerbrief-over-data-laten-werken-voor-gezondheid) heeft aangegeven is voor het gebruik van data vertrouwen nodig en regie op gegevens door de persoon. Het vertrouwen dat door het proces rentmeesterschap en de rol van rentmeester wordt bewaakt.
 

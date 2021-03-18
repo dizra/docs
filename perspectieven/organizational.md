@@ -33,7 +33,7 @@ Cliënten zijn deelnemer omdat ze cliënt zijn van een zorgorganisatie. Voor reg
 
 Een van de stelselstandaarden is een informatiestandaard. Het beschrijft vanuit een business use case één of meerdere uitwisselingen tussen deelnemers in het ecosysteem. Door middel van informatiestandaarden zijn de gegevensuitwisselingen in het ecosysteem gestandaardiseerd.
 
-![Overzicht van de rol van stelselstandaarden](../.gitbook/assets/exchange%20%281%29.svg)
+![Overzicht van de rol van stelselstandaarden](../.gitbook/assets/exchange.svg)
 
 De domeinontologie is in bovenstaand figuur separaat benoemd. Informatiestandaarden zijn namelijk veelal gericht op een keten of een enkelvoudige uitwisseling van gegevens. Voor hergebruik is het echter noodzakelijk dat deze informatiestandaarden gebruik maken van dezelfde domeinontologieën en deze toepassen voor de keten.
 
