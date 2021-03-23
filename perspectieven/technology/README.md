@@ -5,7 +5,7 @@ description: >-
   ecosysteem.
 ---
 
-# Technologie
+# Technologisch
 
 Het informatiestelsel is een stelsel van standaarden omdat we kiezen voor een gelijk speelveld tussen alle leveranciers. De technische standaarden beschrijven de generieke en specifieke functies van het ecosysteem. Het zijn functies die geïmplementeerd zijn in een van de diensten van een deelnemer aan het ecosysteem. De diensten worden gebruikt door de andere deelnemers van het ecosysteem.
 

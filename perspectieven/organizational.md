@@ -3,7 +3,7 @@ description: >-
   In dit hoofdstuk beschrijven we de gebruikers van het ecosysteem op organisatorisch niveau. Een ecosysteem dat met de standaarden van het informatiestelsel wordt geïmplementeerd.
 ---
 
-# Het informatiestelsel als ecosysteem
+# Organisatorisch
 
 De informatiestandaarden beschrijven de diensten in het informatiestelsel. Het informatiestelsel noemen we een ecosysteem. Het imoet voor de zorgverleners en cliënten als één informatiesysteem voelen waarin ze kunnen samenwerken en gegevens kunnen uitwisselen. De diensten worden aangeboden door de deelnemers.
 
