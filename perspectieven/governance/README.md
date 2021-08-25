@@ -68,7 +68,7 @@ Een netwerkperspectief op zorg, een netwerkperspectief op gegevensuitwisseling i
 
 In onderstaand figuur is de samenhang tussen de standaarden weergegeven en hoe deze uiteindelijk tot technische afspraken leiden.
 
-![Samenhang tussen standaarden](../../.gitbook/assets/coherence%20%281%29.svg)
+![Samenhang tussen standaarden](../../.gitbook/assets/coherence.svg)
 
 Voor de technische afspraken wordt veelal systeem-use-case-modellering gehanteerd om de functionele en niet-functionele eisen te beschrijven. Overeenkomstig deze modellering zou voor iedere deelnemer de use cases beschreven moeten worden waarvoor zij verantwoordelijk is.
 

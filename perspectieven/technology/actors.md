@@ -1,9 +1,8 @@
 ---
-description: >-
-  Deze pagina beschrijft de systeemactoren en de functies van iedere actor.
+description: Deze pagina beschrijft de systeemactoren en de functies van iedere actor.
 ---
 
-# Systeemactoren en haar systeemfuncties
+# Systeemactoren
 
 Iedere deelnemer kan één of meerdere systeemrollen in het ecosysteem vervullen. Wat de deelnemer is bepaalt "wat" voor data en services zij aanbiedt. Het "hoe" wordt bepaalt door de systeemrol die zij heeft. We onderkennen primaire systeemrollen en ondersteunende systeemrollen. De primaire systeemrollen zijn de rollen van deelnemers. De ondersteunende systeemrollen zijn rollen die nodig zijn om het systeem te laten werken, zodat bijvoorbeeld een afnemer een bronhouder van data kan vinden of kan vertrouwen. In het figuur hieronder zijn de systeemrollen en hun samenhang weergegeven.
 
@@ -19,14 +18,14 @@ Een **bronhouder** is een rol van een deelnemende organisatie die data en servic
 
 Een afnemer heeft de volgende verantwoordelijkheid:
 
-- **Publicatie van datacatalogus**; een bronhouder moet haar datacatalogus publiceren voor vindbaarheid.
-- **Authenticatie**; een bronhouder moet een actor in het ecosysteem kunnen authenticeren.
-- **Autorisatie**; een bronhouder moet een actor in het ecosysteem kunnen autoriseren.
-- **Veilige communicatie** tussen actoren en bronhouder.
-- **Publicatie van data en services** aan de actoren in het ecosysteem overeenkomstig de ontologie van het domein.
-- **Beantwoording in de taal van het domein**; een bronhouder moet de beantwoording doen in de ontologie van het domein.
-- **Verificatie van de geldigheid van een bewijs** die verkregen is van een actor in het ecosysteem.
-- **Verantwoording** over de toegang, uitwisseling van data met, en gebruik van services door het ecosysteem; een bronhouder moet al haar activiteiten loggen.
+* **Publicatie van datacatalogus**; een bronhouder moet haar datacatalogus publiceren voor vindbaarheid.
+* **Authenticatie**; een bronhouder moet een actor in het ecosysteem kunnen authenticeren.
+* **Autorisatie**; een bronhouder moet een actor in het ecosysteem kunnen autoriseren.
+* **Veilige communicatie** tussen actoren en bronhouder.
+* **Publicatie van data en services** aan de actoren in het ecosysteem overeenkomstig de ontologie van het domein.
+* **Beantwoording in de taal van het domein**; een bronhouder moet de beantwoording doen in de ontologie van het domein.
+* **Verificatie van de geldigheid van een bewijs** die verkregen is van een actor in het ecosysteem.
+* **Verantwoording** over de toegang, uitwisseling van data met, en gebruik van services door het ecosysteem; een bronhouder moet al haar activiteiten loggen.
 
 ## Auditor
 
@@ -38,12 +37,12 @@ Een afnemer is een rol van een deelnemende organisatie die data en services afne
 
 Een afnemer heeft de volgende verantwoordelijkheid:
 
-- **Bewijslast identiteit**; een afnemer moet tegenover een andere deelnemer haar identiteit kunnen bewijzen. Een identiteit kan in deze zowel een identificerend nummer zijn als een ander attribuut gerelateerd aan de identiteit, bijvoorbeeld de naam van de organisatie.
-- **Bewijslast rechtmatigheid verwerking persoonsgegevens**; een afnemer moet tegenover een bronhouder kunnen bewijzen dat gegevensuitwisseling van persoonsgegevens rechtmatig is. Een bronhouder kan op basis van het bewijs een afnemer toegang geven.
-- **Bewijslast deelnemer aan het informatiestelsel**; een afnemer moet kunnen bewijzen dat zij een rechtmatige deelnemer is aan het informatiestelsel, waaronder het bewijs dat zij aan alle voorwaarden voldoet.
-- **Vindbaar voor berichten**; een afnemer moet vindbaar zijn voor berichten zoals notificaties.
-- **Vraagstelling in de taal van het domein**; een afnemer moet de vraagstelling doen in de ontologie van het domein.
-- **Verantwoording** over het gebruik van data en services in het ecosysteem; een afnemer moet al haar activiteiten loggen.
+* **Bewijslast identiteit**; een afnemer moet tegenover een andere deelnemer haar identiteit kunnen bewijzen. Een identiteit kan in deze zowel een identificerend nummer zijn als een ander attribuut gerelateerd aan de identiteit, bijvoorbeeld de naam van de organisatie.
+* **Bewijslast rechtmatigheid verwerking persoonsgegevens**; een afnemer moet tegenover een bronhouder kunnen bewijzen dat gegevensuitwisseling van persoonsgegevens rechtmatig is. Een bronhouder kan op basis van het bewijs een afnemer toegang geven.
+* **Bewijslast deelnemer aan het informatiestelsel**; een afnemer moet kunnen bewijzen dat zij een rechtmatige deelnemer is aan het informatiestelsel, waaronder het bewijs dat zij aan alle voorwaarden voldoet.
+* **Vindbaar voor berichten**; een afnemer moet vindbaar zijn voor berichten zoals notificaties.
+* **Vraagstelling in de taal van het domein**; een afnemer moet de vraagstelling doen in de ontologie van het domein.
+* **Verantwoording** over het gebruik van data en services in het ecosysteem; een afnemer moet al haar activiteiten loggen.
 
 ## Bevoegde uitgever van verklaringen
 
@@ -51,11 +50,11 @@ Een bevoegde uitgever is een rol van een organisatie of persoon. Het is een erke
 
 Een bevoegde uitgever heeft de volgende verantwoordelijkheid:
 
-- **Uitgifte van een verklaring** zoals een bewijs van registratie of identiteit.
-- **Veilige opslag van de private sleutel** waarmee de bevoegde uitgever een verklaring elektronisch ondertekent.
-- **Publicatie van de publieke sleutels** van de bevoegde uitgever zodat de elektronische handtekening van de bevoegde uitgever kan worden geverifieerd. De publieke sleutel wordt bij een vertrouwensleverancier geregistreerd en via de voorziening van deze leverancier gepubliceerd.
-- **Registratie en publicatie van het schema met attributen in de verklaring** voor controle op volledigheid van de verklaring.
-- **Registratie en publicatie van de status van een verklaring** voor verificatie van geldigheid van een verklaring.
+* **Uitgifte van een verklaring** zoals een bewijs van registratie of identiteit.
+* **Veilige opslag van de private sleutel** waarmee de bevoegde uitgever een verklaring elektronisch ondertekent.
+* **Publicatie van de publieke sleutels** van de bevoegde uitgever zodat de elektronische handtekening van de bevoegde uitgever kan worden geverifieerd. De publieke sleutel wordt bij een vertrouwensleverancier geregistreerd en via de voorziening van deze leverancier gepubliceerd.
+* **Registratie en publicatie van het schema met attributen in de verklaring** voor controle op volledigheid van de verklaring.
+* **Registratie en publicatie van de status van een verklaring** voor verificatie van geldigheid van een verklaring.
 
 ## Gegevensgids
 
@@ -63,8 +62,8 @@ Een gegevensgids is een leverancier van een doorzoekbare index van datacatalogus
 
 Een gegevensgids heeft de volgende verantwoordelijkheid:
 
-- **Indexeren van datacatalogussen**; een gegevensgids moet de datacatalogussen indexeren van alle bronhouders in het ecosysteem \(of van alle bronhouders in een domein\).
-- **Doorzoekbaar maken van de index**; een gegevensgids moet de indexering van datacatalogussen doorzoekbaar maken voor de deelnemers in het ecosysteem.
+* **Indexeren van datacatalogussen**; een gegevensgids moet de datacatalogussen indexeren van alle bronhouders in het ecosysteem \(of van alle bronhouders in een domein\).
+* **Doorzoekbaar maken van de index**; een gegevensgids moet de indexering van datacatalogussen doorzoekbaar maken voor de deelnemers in het ecosysteem.
 
 ## Gegevensregisseur
 
@@ -74,9 +73,9 @@ De gegevensregisseur is een rol van een cliënt. De locatie van de gegevens van 
 
 Een gegevensregisseur kan de volgende verantwoordelijkheid invullen:
 
-- **Toestemming verlenen** voor een gegevensuitwisseling tussen deelnemers aan het informatiestelsel.
-- **Verklaringen ontvangen, veilig houden en presenteren**. Hiermee kan een cliënt gegevens meenemen en zelf verstrekken aan een deelnemer in het ecosysteem.
-- **Weergave van een tijdlijn** van gebeurtenissen in de zorg en ondersteuning. De tijdlijn is een verzameling referenties naar gebeurtenissen in de zorg en ondersteuning. Met alle ontvangen verklaringen kan de tijdlijn worden gerealiseerd.
+* **Toestemming verlenen** voor een gegevensuitwisseling tussen deelnemers aan het informatiestelsel.
+* **Verklaringen ontvangen, veilig houden en presenteren**. Hiermee kan een cliënt gegevens meenemen en zelf verstrekken aan een deelnemer in het ecosysteem.
+* **Weergave van een tijdlijn** van gebeurtenissen in de zorg en ondersteuning. De tijdlijn is een verzameling referenties naar gebeurtenissen in de zorg en ondersteuning. Met alle ontvangen verklaringen kan de tijdlijn worden gerealiseerd.
 
 ## Gezondheidsregisseur
 
@@ -84,7 +83,7 @@ De gezondheidsregisseur is eveneens een rol van een cliënt. De nadruk bij de ge
 
 Een gezondheidsregisseur kan de volgende verantwoordelijkheid invullen:
 
-- **Regie op gezondheid** overeenkomstig de functies van een persoonlijke gezondheidsomgeving.
+* **Regie op gezondheid** overeenkomstig de functies van een persoonlijke gezondheidsomgeving.
 
 ## Ledenadministratie
 
@@ -92,7 +91,7 @@ Een ledenadministratie registreert de leden in het ecosysteem. Het zijn zowel de
 
 Een ledenadministratie heeft de volgende verantwoordelijkheid:
 
-- **Registratie en publicatie van leden**. Ieder lid van het ecosysteem kan door de registratie een ander lid herkennen. Een ledenadministratie kan een bevoegde uitgever zijn in het ecosysteem voor een bewijs van registratie.
+* **Registratie en publicatie van leden**. Ieder lid van het ecosysteem kan door de registratie een ander lid herkennen. Een ledenadministratie kan een bevoegde uitgever zijn in het ecosysteem voor een bewijs van registratie.
 
 ## Operationeel ketenbeheerder
 
@@ -100,8 +99,8 @@ De operationeel ketenbeheerder bewaakt een keten in het ecosysteem. Een operatio
 
 Een operationeel ketenbeheerder heeft minimaal de volgende verantwoordelijkheid:
 
-- Een **gemeenschappelijke helpdesk**.
-- **Monitoring** van berichten.
+* Een **gemeenschappelijke helpdesk**.
+* **Monitoring** van berichten.
 
 ## Stelselbeheerder
 
@@ -109,10 +108,10 @@ De stelselbeheerder is een rol binnen de besturing van het informatiestelsel. Na
 
 De **stelselbeheerder** is verantwoordelijk voor:
 
-- Het **publiceren van een vertrouwenslijst** van vertrouwensleveranciers.
-- **Registratie en publicatie van derdenverklaringen** over producten van softwareleveranciers. Met de derdenverklaring verklaart een auditor dat het product voldoet aan de afspraken en gebruikt kan worden voor de implementatie van een \(gemeenschappelijke\) voorziening.
-- Het **aanwijzen van de ledenadministratie** voor de deelnemers en de leveranciers van gemeenschappelijke voorzieningen.
-- Het **aanwijzen van de verzekeraar betrouwbaarheid** voor de verklaringen.
+* Het **publiceren van een vertrouwenslijst** van vertrouwensleveranciers.
+* **Registratie en publicatie van derdenverklaringen** over producten van softwareleveranciers. Met de derdenverklaring verklaart een auditor dat het product voldoet aan de afspraken en gebruikt kan worden voor de implementatie van een \(gemeenschappelijke\) voorziening.
+* Het **aanwijzen van de ledenadministratie** voor de deelnemers en de leveranciers van gemeenschappelijke voorzieningen.
+* Het **aanwijzen van de verzekeraar betrouwbaarheid** voor de verklaringen.
 
 ## Vertrouwensleverancier
 
@@ -120,7 +119,7 @@ Een vertrouwensleverancier levert samen met andere vertrouwensdienstverleners ee
 
 Een vertrouwensleverancier heeft de volgende verantwoordelijkheid:
 
-- **Registratie van publieke sleutels** en de identificatie horende bij de publieke sleutel. Met de publieke sleutel kan een ontvanger van de verklaring verifiëren dat de verklaring afkomstig is van een bevoegde uitgever.
+* **Registratie van publieke sleutels** en de identificatie horende bij de publieke sleutel. Met de publieke sleutel kan een ontvanger van de verklaring verifiëren dat de verklaring afkomstig is van een bevoegde uitgever.
 
 ## Verzekeraar betrouwbaarheid
 
@@ -128,4 +127,5 @@ Een verzekeraar moet inzichtelijk maken welke verklaringen uitgegeven mogen word
 
 De **verzekeraar** is verantwoordelijk voor:
 
-- **Registratie en publicatie van bevoegde uitgevers**. Hierdoor weet een actor in het ecosysteem dat een uitgever bevoegd is voor het uitgeven van een verklaring.
+* **Registratie en publicatie van bevoegde uitgevers**. Hierdoor weet een actor in het ecosysteem dat een uitgever bevoegd is voor het uitgeven van een verklaring.
+

@@ -55,3 +55,4 @@ Daarnaast onderkennen we de volgende ondersteunende systeemrollen \(voor gemeens
 
 1. Een **gegevensgids** is een leverancier van een index van datacatalogussen voor de vindbaarheid van gegevens en services. Samen met andere leveranciers van indexen maakt zij afspraken over de standaarden voor het vinden van data en services. Een bronhouder van het ecosysteem moet haar datacatalogus laten indexeren om vindbaar te zijn.
 2. De **operationeel ketenbeheerder** bewaakt een keten in het ecosysteem. Een operationeel ketenbeheerder kan ook een gezamenlijke helpdesk vormen. De operationeel ketenbeheerder kan voor een keten of samenwerkingsverband worden ingericht indien daar behoefte en een business case voor is.
+

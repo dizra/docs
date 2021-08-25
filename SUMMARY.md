@@ -2,7 +2,7 @@
 
 * [Start](README.md)
 * [Manifest](manifest.md)
-* [Begrippenlijst](GLOSSARY.md)
+* [Begrippenlijst](begrippenlijst.md)
 
 ## Perspectieven
 
@@ -22,3 +22,4 @@
 * [Technologisch](perspectieven/technology/README.md)
   * [Systeemactoren](perspectieven/technology/actors.md)
   * [Leveranciers](perspectieven/technology/suppliers.md)
+
