@@ -6,9 +6,9 @@ description: >-
 
 # Leveranciers
 
-## Voorzieningen voor deelnemers
+## Generieke functies voor deelnemers
 
-De deelnemers van het ecosysteem hebben technologische voorzieningen nodig om gebruik te kunnen maken van het ecosysteem. Deze voorzieningen worden geleverd door softwareleveranciers. Ze maken software voor diverse toepassingen zoals in onderstaand figuur is weergegeven.
+De deelnemers van het ecosysteem hebben technologische functies nodig om gebruik te kunnen maken van het ecosysteem. Deze functies worden geleverd door softwareleveranciers. Ze maken software voor diverse toepassingen zoals in onderstaand figuur is weergegeven.
 
 ![De softwareleveranciers in het stelsel](../../.gitbook/assets/suppliers.svg)
 

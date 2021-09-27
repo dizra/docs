@@ -1,13 +1,13 @@
 ---
 description: >-
-  In dit hoofdstuk beschrijven we de gebruikers van het ecosysteem op
+  In dit hoofdstuk beschrijven we de deelnemers aan het ecosysteem op
   organisatorisch niveau. Een ecosysteem dat met de standaarden van het
-  informatiestelsel wordt geïmplementeerd.
+  informatiestelsel is geïmplementeerd.
 ---
 
 # Organisatorisch
 
-De informatiestandaarden beschrijven de diensten in het informatiestelsel. Het informatiestelsel noemen we een ecosysteem. Het imoet voor de zorgverleners en cliënten als één informatiesysteem voelen waarin ze kunnen samenwerken en gegevens kunnen uitwisselen. De diensten worden aangeboden door de deelnemers.
+De informatiestandaarden beschrijven de services in het informatiestelsel. Het informatiestelsel noemen we een ecosysteem. Het imoet voor de zorgverleners en cliënten als één informatiesysteem voelen waarin ze kunnen samenwerken en gegevens kunnen uitwisselen. De services worden aangeboden door de deelnemers.
 
 In onderstaande paragraaf zijn de deelnemers van het ecosysteem beschreven.
 
@@ -39,14 +39,14 @@ De domeinontologie is in bovenstaand figuur separaat benoemd. Informatiestandaar
 
 #### Gemeenschappelijke taal vanuit een netwerkperspectief
 
-Iedere deelnemer in het ecosysteem biedt de diensten aan die horen bij haar domein en haar verantwoordelijkheid. Een deelnemer spreekt de taal van haar eigen domein. Deze abstracte woorden beschrijven we hieronder aan de hand van een concreet voorbeeld.
+Iedere deelnemer in het ecosysteem biedt de services aan die horen bij haar domein en haar verantwoordelijkheid. Een deelnemer spreekt de taal van haar eigen domein. Deze abstracte woorden beschrijven we hieronder aan de hand van een concreet voorbeeld.
 
 ![Gemeenschappelijke taal vanuit een netwerkperspectief](../.gitbook/assets/languagerelations.svg)
 
 {% hint style="info" %}
 Een verpleeghuis en een ziekenhuis willen gegevens uitwisselen over een cliënt:
 
-* Het verpleeghuis biedt diensten aan en spreekt de gemeenschappelijke taal van het domein verpleeghuiszorg. De gemeenschappelijke taal is zorgsectorspecifiek en niet ketenspecifiek. We gaan immers uit van een netwerkperspectief om meervoudig gebruik van data te verkrijgen. De taal kunnen we daarom niet koppelen aan een specifieke keten. De verpleeghuiszorg hebben we in het voorbeeld als domein genomen.
+* Het verpleeghuis biedt services aan en spreekt de gemeenschappelijke taal van het domein verpleeghuiszorg. De gemeenschappelijke taal is zorgsectorspecifiek en niet ketenspecifiek. We gaan immers uit van een netwerkperspectief om meervoudig gebruik van data te verkrijgen. De taal kunnen we daarom niet koppelen aan een specifieke keten. De verpleeghuiszorg hebben we in het voorbeeld als domein genomen.
 
   Binnen het domein kunnen we nog subdomeinen en contextuele kaders onderkennen om gemeenschappelijke taal af te spreken: taal is immers contextueel. Bijvoorbeeld de context van een specialisme binnen het verpleeghuis of voor de verzorging en verpleging. Een taal wordt dus afgesproken voor een contextueel kader in een domein waarbij ieder domein zelf bepaald wat haar contextuele kaders zijn.
 

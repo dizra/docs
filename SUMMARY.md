@@ -17,7 +17,6 @@
   * [Federatief](perspectieven/motivation/federatief.md)
   * [Open standaarden](perspectieven/motivation/open-standaarden.md)
 * [Besturing](perspectieven/governance/README.md)
-  * [Rollen](perspectieven/governance/actors.md)
 * [Organisatorisch](perspectieven/organizational.md)
 * [Technologisch](perspectieven/technology/README.md)
   * [Systeemactoren](perspectieven/technology/actors.md)

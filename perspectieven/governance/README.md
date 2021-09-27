@@ -1,18 +1,18 @@
 ---
 description: >-
-  De organisatie van het informatiestelsel beschrijft de rollen en processen in
+  De organisatie van het informatiestelsel beschrijft de rollen en verantwoordelijkheden voor de besturing van 
   het informatiestelsel.
 ---
 
 # Besturing
 
-Het Informatiestelsel Zorg \(hierna informatiestelsel\) is een stelsel van standaarden. Iedere gegevensuitwisseling in de zorg is gebaseerd op een standaard. Hierdoor kunnen we een gelijk speelveld bieden aan alle voorzieningenleveranciers \(zie manifest\). De softwareproducten die deze standaarden implementeren vormen samen het ecosysteem voor gegevensuitwisseling in de zorg. Standaarden die voor het informatiestelsel zijn ontwikkeld noemen we stelselstandaarden.
+Deze pagina beschrijft in de terminologie van het Europese Interoperabiliteitsraamwerk (EIF) de governance van de innteroperabiliteit. Het Informatiestelsel Zorg \(hierna informatiestelsel\) is een stelsel van standaarden voor interoperabiliteit. Iedere gegevensuitwisseling in de zorg wordt uitgevoerd op basis van een standaard. Hierdoor is er een gelijk speelveld voor alle softwareleveranciers en voorzieningenleveranciers \(zie manifest\). De softwareproducten, die deze standaarden hebben geïmplementeerd, vormen samen het ecosysteem voor gegevensuitwisseling in de zorg. Standaarden die voor het informatiestelsel zijn ontwikkeld noemen we stelselstandaarden.
 
-In deze pagina beschrijven we de werkwijze om te komen tot standaardisatie van het informatiestelsel. Deze werkwijze is gebaseerd op NEN7522:2020, de Nederlandse norm voor het ontwikkelen en beheren van standaarden en stelsels van standaarden. We zien het informatiestelsel in de terminologie van NEN7522 als een stelsel van standaarden.
+In deze pagina beschrijven we kort de besturing van het informatiestelsel. Deze besturing is vastgelegd in NEN7522:2021, de Nederlandse norm voor het ontwikkelen en beheren van standaarden en stelsels van standaarden. Het informatiestelsel is in de terminologie van NEN7522  een stelsel van standaarden. Voor meer informatie, zie [NEN7522:2021](https://www.nen.nl/nen-7522-2021-nl-283706). 
 
 ## Rollen voor de governance
 
-De rollen zijn gebaseerd op de rollen beschreven in NEN7522:2020 en toegepast voor het informatiestelsel. Hieronder zijn deze rollen weergegeven en beschreven. Voor de eisen aan de rollen verwijzen we naar NEN7522:2020.
+De rollen zijn overeenkomstig de rollen in NEN7522:2021 en toegepast voor het informatiestelsel. Voor de verantwoordelijkheden van de rollen verwijzen we naar NEN7522:2021.
 
 ![Voorbeeld van een organigram](../../.gitbook/assets/organigram.svg)
 
@@ -25,12 +25,12 @@ We onderkennen de volgende rollen:
 5. **technisch beheerder** is **standaardisatieorganisatie** genoemd in de referentiearchitectuur: verantwoordelijk voor het technisch beheren van individuele standaarden of stelsels van standaarden. Een standaardisatieorganisatie wordt in het informatiestelsel erkend door een stelselhouder en niet noodzakelijk benoemd;
 6. **distributeur**: verantwoordelijk voor het distribueren van informatie over de ontwikkeling en het beheer van het informatiestelsel. Bijvoorbeeld een lijst met erkende standaardisatieorganisaties;
 7. een **stelselexpert** brengt specifieke noodzakelijke kennis in, zoals domeinkennis.
-8. in het informatiestelsel zijn **gebruikers** onderverdeeld in directe en indirecte gebruikers. Softwareleveranciers zijn directe gebruikers: zij moeten een stelselstandaard implementeren en zich conformeren aan de afspraken. Cliënten en zorgverleners zijn voorbeelden van indirecte gebruikers: zij ervaren de waarde van het informatiestelsel. De indirecte gebruikers worden als domeinexpert betrokken in het standaardisatieproces.
-9. De rol van **auditor** is een aanvulling op de bovenstaande rollen: deze rol draagt zorg voor het kwalificeren en certificeren van softwareproducten, zowel voor applicaties als infrastructuur.
+8. in het informatiestelsel zijn **gebruikers** onderverdeeld in directe en indirecte gebruikers. Softwareleveranciers zijn directe gebruikers: zij moeten een stelselstandaard implementeren en zich conformeren aan de afspraken. Cliënten en zorgverleners zijn voorbeelden van indirecte gebruikers: zij ervaren de waarde van het informatiestelsel. De indirecte gebruikers zijn als domeinexpert betrokken in het standaardisatieproces.
+9. De rol van **auditor** is een aanvulling op de bovenstaande rollen: deze rol zorgt voor het kwalificeren en certificeren van softwareproducten, zowel voor applicaties als infrastructuur.
 
 ## Governance processen
 
-Overeenkomstig NEN7522:2020 moet voor het informatiestelsel stelselmanagement worden uitgevoerd. Stelselmanagement omvat de processen 'beheren portfolio' en 'beheren catalogus van stelselstandaarden'. Deze processen beschrijven we hieronder kort.
+Overeenkomstig NEN7522:2021 moet voor het informatiestelsel stelselmanagement worden uitgevoerd. Stelselmanagement omvat de processen 'beheren portfolio' en 'beheren catalogus van stelselstandaarden'. Deze processen beschrijven we hieronder kort.
 
 ### Beheren catalogus van stelselstandaarden
 
@@ -74,9 +74,9 @@ Voor de technische afspraken wordt veelal systeem-use-case-modellering gehanteer
 
 ## Verschillen in implementaties
 
-De technische afspraken kunnen op verschillende manieren geïmplementeerd worden in een \(gezamenlijke\) voorziening. Enerzijds kan gekozen worden voor een softwareleverancier met proprietary software, anderzijds voor open source software van een community van ontwikkelaars.
+De technische afspraken kunnen op verschillende manieren geïmplementeerd worden in een \(generieke\) functie. Enerzijds kan gekozen worden voor een softwareleverancier met proprietary software, anderzijds voor open source software van een community van ontwikkelaars.
 
-Indien op een gemeenschappelijke voorziening publieke sturing nodig is, dan spreken we over een publieke voorziening.
+Indien op een generieke functie publieke sturing nodig is, dan spreken we over een publieke functie.
 
 ![Keuzes voor de implementatie van voorzieningen](../../.gitbook/assets/implementation.svg)
 

@@ -52,7 +52,7 @@ We hanteren een aantal uitgangspunten, oftewel principes, om het huidige interop
 
 Het informatiestelsel is een stelsel van standaarden binnen het zorgstelsel omdat we willen uitgaan van een eerlijk speelveld voor alle leveranciers. In onderstaand figuur zijn de verschillende soorten standaarden weergegeven.
 
-We onderkennen in het informatiestelsel informatiestandaarden en technische afspraken. Een informatiestandaard beschrijft de functionele behoefte van de deelnemers en de diensten die de deelnemers voor de invulling van die behoefte met elkaar afspreken. Een technische afspraak is een aanvulling op de informatiestandaard voor de invulling van de technische afspraken.
+We onderkennen in het informatiestelsel informatiestandaarden en technische afspraken. Een informatiestandaard beschrijft de functionele behoefte van de deelnemers en de logische services die de deelnemers voor de invulling van die behoefte met elkaar afspreken. Een technische afspraak is een aanvulling op de informatiestandaard voor de invulling van de technische afspraken.
 
 ![De standaarden in het informatiestelsel](.gitbook/assets/overview.svg)
 

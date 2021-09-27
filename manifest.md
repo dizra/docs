@@ -13,7 +13,7 @@ We werken samen aan een duurzaam informatiestelsel. Het is een stelsel van stand
 5. Het informatiestelsel is **duurzaam** doordat het relevant is en blijft. Het omarmt voor nu en in de toekomst de complexiteit van meerdere standaarden in een stelsel waarin verandering en innovatie welkom is.
 6. Data wordt enkelvoudig geregistreerd bij de bron en vervolgens beschikbaar gesteld voor meervoudig gebruik in verschillende toepassingen. Hiervoor hanteert het informatiestelsel de **FAIR-data** principes.
 7. Data is **machineleesbaar**, machines begrijpen de data, zonder daarbij de leesbaarheid van deze data voor mensen uit het oog te verliezen. Dit opent de mogelijkheden van data-analyse en data-science.
-8. In het informatiestelsel wordt **federatief** samengewerkt aan afspraken voor data en voor diensten. Iedereen implementeert deze afspraken en is aanspreekbaar op het nakomen van de afspraken en de kwaliteit van de implementatie.
+8. In het informatiestelsel wordt **federatief** samengewerkt aan afspraken voor data en voor services. Iedereen implementeert deze afspraken en is aanspreekbaar op het nakomen van de afspraken en de kwaliteit van de implementatie.
 9. Semantische en technische interoperabiliteit wordt in het informatiestelsel gerealiseerd door te kiezen voor **open internationale standaarden**. Iedere deelnemer aan het stelsel moet voldoen aan de standaarden die zijn afgesproken.
 
 Bovenstaande uitgangspunten worden gehanteerd naast de vigerende wet- en regelgeving waaraan iedere rechtspersoon moet voldoen. Wet- en regelgeving zoals gegevensbescherming door ontwerp en standaardinstellingen. Wet- en regelgeving is dus niet als principe opgenomen. De uitgangspunten zijn in de thema's en de richtlijnen verder uitgewerkt en gemotiveerd.

@@ -7,7 +7,7 @@ description: >-
 
 # Technologisch
 
-Het informatiestelsel is een stelsel van standaarden omdat we kiezen voor een gelijk speelveld tussen alle leveranciers. De technische standaarden beschrijven de generieke en specifieke functies van het ecosysteem. Het zijn functies die geïmplementeerd zijn in een van de diensten van een deelnemer aan het ecosysteem. De diensten worden gebruikt door de andere deelnemers van het ecosysteem.
+Het informatiestelsel is een stelsel van standaarden omdat we kiezen voor een gelijk speelveld tussen alle leveranciers. De technische standaarden beschrijven de generieke en specifieke functies van het ecosysteem. Het zijn functies die geïmplementeerd zijn in een van de services van een deelnemer aan het ecosysteem. De services worden gebruikt door de andere deelnemers van het ecosysteem.
 
 Voor de werking van het ecosysteem zijn verschillende actoren \(organisaties of personen in een systeemrol\) te onderkennen. Naast de deelnemers zijn er ook actoren voor bijvoorbeeld registraties. Het zijn registraties die noodzakelijk zijn voor het vertrouwen in het ecosysteem. In onderstaande paragrafen beschrijven we de actoren om het ecosysteem als geheel te kunnen laten functioneren.
 
@@ -38,9 +38,9 @@ De autorisatie voor het uitgeven van een verklaring kan overigens ook gebaseerd 
 
 ## De deelnemers aan het ecosysteem
 
-De deelnemers spelen in het ecosysteem een systeemrol. We onderkennen twee systeemrollen voor organisaties die deelnemer zijn en twee systeemrollen voor cliënten. Daarnaast zijn gemeenschappelijke voorzieningen nodig die een ondersteunende systeemrol spelen, bijvoorbeeld voor de vindbaarheid van data en services. Cliënten zijn deelnemer omdat ze geregistreerd zijn bij een organisatie. Voor registerhouders, zorgorganisaties en secundaire deelnemers geldt dat ze erkend moeten zijn. Dit is eveneens van toepassing voor de actoren die gemeenschappelijke voorzieningen leveren. Ze moeten allen erkend zijn als lid van het ecosysteem in een **ledenadministratie**.
+De deelnemers spelen in het ecosysteem een systeemrol. We onderkennen twee systeemrollen voor organisaties die deelnemer zijn en twee systeemrollen voor cliënten. Daarnaast zijn generieke functies nodig die een ondersteunende systeemrol spelen, bijvoorbeeld voor de vindbaarheid van data en services. Cliënten zijn deelnemer omdat ze geregistreerd zijn bij een organisatie. Voor registerhouders, zorgorganisaties en secundaire deelnemers geldt dat ze erkend moeten zijn. Dit is eveneens van toepassing voor de actoren die generieke functies leveren. Ze moeten allen erkend zijn als lid van het ecosysteem in een **ledenadministratie**.
 
-De **stelselbeheerder** is verantwoordelijk voor het aanwijzen van de ledenadministratie voor de deelnemers en de leveranciers van gemeenschappelijke voorzieningen. Reeds bestaande registers kunnen hierbij aangewezen worden als **ledenadministratie**, bijvoorbeeld het Landelijk Register Zorgaanbieders \(LRZa\) voor de ledenadministratie van zorgorganisaties.
+De **stelselbeheerder** is verantwoordelijk voor het aanwijzen van de ledenadministratie voor de deelnemers en de leveranciers van generieke functies. Reeds bestaande registers kunnen hierbij aangewezen worden als **ledenadministratie**, bijvoorbeeld het Landelijk Register Zorgaanbieders \(LRZa\) voor de ledenadministratie van zorgorganisaties.
 
 ![De actoren in het ecosysteem](../../.gitbook/assets/actors.svg)
 
@@ -51,7 +51,7 @@ We onderkennen de volgende actoren in het ecosysteem voor de deelnemers:
 3. De **gegevensregisseur** is een rol van een cliënt. De locatie van de gegevens van een persoon, veelal weergegeven in een tijdlijn, worden via de cliënt toegankelijk gemaakt. Toegang kan verkregen zijn door gegevensuitwisseling via de cliënt of door gegevensuitwisseling met toestemming van de cliënt. Een gegevensregisseur moet ook de mogelijkheid hebben om vooraf gegevens klaar te zetten in het geval van spoedeisende hulp.
 4. De **gezondheidsregisseur** is eveneens een rol van een cliënt. De nadruk bij de gezondheidsregisseur ligt op het gebruik van gegevens voor je persoonlijke gezondheid \(regie op gezondheid\) terwijl de nadruk van een gegevensregisseur ligt op regie op gegevens.
 
-Daarnaast onderkennen we de volgende ondersteunende systeemrollen \(voor gemeenschappelijke voorzieningen\):
+Daarnaast onderkennen we de volgende ondersteunende systeemrollen \(voor generieke functies\):
 
 1. Een **gegevensgids** is een leverancier van een index van datacatalogussen voor de vindbaarheid van gegevens en services. Samen met andere leveranciers van indexen maakt zij afspraken over de standaarden voor het vinden van data en services. Een bronhouder van het ecosysteem moet haar datacatalogus laten indexeren om vindbaar te zijn.
 2. De **operationeel ketenbeheerder** bewaakt een keten in het ecosysteem. Een operationeel ketenbeheerder kan ook een gezamenlijke helpdesk vormen. De operationeel ketenbeheerder kan voor een keten of samenwerkingsverband worden ingericht indien daar behoefte en een business case voor is.

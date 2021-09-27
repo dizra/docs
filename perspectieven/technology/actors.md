@@ -87,7 +87,7 @@ Een gezondheidsregisseur kan de volgende verantwoordelijkheid invullen:
 
 ## Ledenadministratie
 
-Een ledenadministratie registreert de leden in het ecosysteem. Het zijn zowel de deelnemers aan het ecosysteem als de actoren die een gemeenschappelijke voorziening leveren voor de werking van het ecosysteem. In het ecosysteem kunnen meerdere ledenadministraties zijn zoals een ledenadministratie voor zorgaanbieders, een ledenadministratie voor secundaire deelnemers, etc.
+Een ledenadministratie registreert de leden in het ecosysteem. Het zijn zowel de deelnemers aan het ecosysteem als de actoren die een generieke functie leveren voor de werking van het ecosysteem. In het ecosysteem kunnen meerdere ledenadministraties zijn zoals een ledenadministratie voor zorgaanbieders, een ledenadministratie voor secundaire deelnemers, etc.
 
 Een ledenadministratie heeft de volgende verantwoordelijkheid:
 
@@ -109,8 +109,8 @@ De stelselbeheerder is een rol binnen de besturing van het informatiestelsel. Na
 De **stelselbeheerder** is verantwoordelijk voor:
 
 * Het **publiceren van een vertrouwenslijst** van vertrouwensleveranciers.
-* **Registratie en publicatie van derdenverklaringen** over producten van softwareleveranciers. Met de derdenverklaring verklaart een auditor dat het product voldoet aan de afspraken en gebruikt kan worden voor de implementatie van een \(gemeenschappelijke\) voorziening.
-* Het **aanwijzen van de ledenadministratie** voor de deelnemers en de leveranciers van gemeenschappelijke voorzieningen.
+* **Registratie en publicatie van derdenverklaringen** over producten van softwareleveranciers. Met de derdenverklaring verklaart een auditor dat het product voldoet aan de afspraken en gebruikt kan worden voor de implementatie van een \(generieke\) functie.
+* Het **aanwijzen van de ledenadministratie** voor de deelnemers en de leveranciers van generieke functies.
 * Het **aanwijzen van de verzekeraar betrouwbaarheid** voor de verklaringen.
 
 ## Vertrouwensleverancier
