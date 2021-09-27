@@ -45,7 +45,7 @@ Voor elke laag zijn de verschillende soorten afspraken hieronder beschreven.
 * Vanuit **wet- en regelgeving** zijn eisen gesteld, beschreven in wetten en in algemene maatregelen van bestuur.
 * Samenwerkingsafspraken worden beschreven in convenanten. We plaatsen deze op het niveau van **organisatiebeleid**, maar een convenant is vaak ook een afspraak op proces- en informatieniveau. Die afspraken zien we als stelselstandaard.
 * Processtandaarden en kwaliteitsstandaarden zijn afspraken op het niveau van **organisatiebeleid**, **\(zorg\)proces** en **informatie**. In de informatieparagraaf zijn de processen en informatieobjecten gespecificeerd. Deze proces- en informatieanalyse is de basis voor de afspraken in de stelselstandaarden.
-* Een business use case voor gegevensuitwisseling tussen deelnemers beschrijft de functionele en niet-functionele eisen op het niveau van **informatie**. Het wordt daarom een informatiestandaard genoemd.
+* Een system use case voor gegevensuitwisseling tussen deelnemers beschrijft de functionele en niet-functionele eisen op het niveau van **informatie**. De systtem use cases worden beschreven in een NEN-norm.
 * Op de lagen **applicatie** en **infrastructuur** beschrijft een technische afspraak de werking van het ecosysteem met de interactie tussen systeemactoren.
 
 De opgave is om stelselstandaarden vanuit het netwerkperspectief in samenhang te ontwikkelen en niet alleen per keten. In onderstaand figuur is dit ter illustratie weergegeven.

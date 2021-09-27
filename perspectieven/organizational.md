@@ -7,7 +7,7 @@ description: >-
 
 # Organisatorisch
 
-De informatiestandaarden beschrijven de services in het informatiestelsel. Het informatiestelsel noemen we een ecosysteem. Het imoet voor de zorgverleners en cliënten als één informatiesysteem voelen waarin ze kunnen samenwerken en gegevens beschikbaar kunnen stellen. De services worden aangeboden door de deelnemers.
+Het informatiestelsel noemen we een ecosysteem. Het moet voor de zorgverleners en cliënten als één informatiesysteem voelen waarin ze kunnen samenwerken en data beschikbaar kunnen stellen. De data en services worden beschikbaar gesteld door de bronhouders.
 
 In onderstaande paragraaf zijn de deelnemers van het ecosysteem beschreven.
 
@@ -19,11 +19,11 @@ In onderstaand figuur zijn de deelnemers weergegeven zoals we die onderkennen in
 
 De deelnemers in het informatiestelsel zijn:
 
-1. Een **zorgorganisatie** is een bronhouder of afnemer van gegevens en services. De gegevens en services worden primair gebruikt in het zorgproces en worden secundair gebruikt voor bijvoorbeeld onderzoek en kwaliteitsbewaking. We gebruiken hier de generieke term van een zorgorganisatie. In een informatiestandaard worden de specifieke rollen beschreven van de zorgorganisaties die betrokken zijn in een keten, bijvoorbeeld een verpleeghuis, huisarts, apotheker etc.
+1. Een **zorgorganisatie** is een bronhouder of afnemer van gegevens en services. De gegevens en services worden primair gebruikt in het zorgproces en worden secundair gebruikt voor bijvoorbeeld onderzoek en kwaliteitsbewaking. We gebruiken hier de generieke term van een zorgorganisatie. In een NEN-norm worden de specifieke rollen beschreven van de zorgorganisaties die betrokken zijn in een keten, bijvoorbeeld een verpleeghuis, huisarts, apotheker etc.
 2. **Zorgverleners** maken gebruik van het ecosysteem via de informatiesystemen van een van de deelnemende zorgorganisatie.
 3. Een **registerhouder** is een houder van een registratie van gegevens waarin gegevens over een onderwerp zijn verzameld. We onderkennen basisregisters \(zoals Basisregister Personen\),  sectorale registers \(zoals LRZa en AGB\), beroepsregisters \(zoals BIG\), patiëntenregistraties \(zoals de ZonMw registraties\) en kwaliteitsregistraties \(zoals de HIPEC-registratie\).
 4. Een **cliënt** is een persoon die gebruik maakt van het ecosysteem voor regie op zijn of haar gezondheid dan wel voor regie op zijn of haar gegevens.
-5. Een **secundaire deelnemer** is een organisatie betrokken in een administratieve keten, een afnemer van kwaliteitsinformatie of een overige afnemer van data voor secundair gebruik. In de informatiestandaarden worden de rollen van deze organisaties specifiek beschreven.
+5. Een **secundaire deelnemer** is een organisatie betrokken in een administratieve keten, een afnemer van kwaliteitsinformatie of een overige afnemer van data voor secundair gebruik. In de NEN-normen worden de rollen van deze organisaties specifiek beschreven.
 
 ### Wanneer is een persoon of organisatie deelnemer van het ecosysteem?
 
