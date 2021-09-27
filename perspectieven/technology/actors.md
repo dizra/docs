@@ -16,7 +16,7 @@ Een **bronhouder** is een rol van een deelnemende organisatie die data en servic
 
 ![Data vanuit de bron](../../.gitbook/assets/datastation.svg)
 
-Een afnemer heeft de volgende verantwoordelijkheid:
+Een bronhouder heeft de volgende verantwoordelijkheid:
 
 * **Publicatie van datacatalogus**; een bronhouder moet haar datacatalogus publiceren voor vindbaarheid.
 * **Authenticatie**; een bronhouder moet een actor in het ecosysteem kunnen authenticeren.

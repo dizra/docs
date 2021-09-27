@@ -7,7 +7,7 @@ description: >-
 
 # Organisatorisch
 
-De informatiestandaarden beschrijven de services in het informatiestelsel. Het informatiestelsel noemen we een ecosysteem. Het imoet voor de zorgverleners en cliënten als één informatiesysteem voelen waarin ze kunnen samenwerken en gegevens kunnen uitwisselen. De services worden aangeboden door de deelnemers.
+De informatiestandaarden beschrijven de services in het informatiestelsel. Het informatiestelsel noemen we een ecosysteem. Het imoet voor de zorgverleners en cliënten als één informatiesysteem voelen waarin ze kunnen samenwerken en gegevens beschikbaar kunnen stellen. De services worden aangeboden door de deelnemers.
 
 In onderstaande paragraaf zijn de deelnemers van het ecosysteem beschreven.
 
@@ -27,15 +27,20 @@ De deelnemers in het informatiestelsel zijn:
 
 ### Wanneer is een persoon of organisatie deelnemer van het ecosysteem?
 
-Cliënten zijn deelnemer omdat ze cliënt zijn van een zorgorganisatie. Voor registerhouders, zorgorganisaties en secundaire deelnemers geldt dat ze erkend moeten zijn. Een zorgorganisatie is bijvoorbeeld erkend omdat zij geregistreerd is in het landelijk register van zorgaanbieders \(LRZa\). Het bewijs van registratie maakt dat een zorgorganisatie deelnemer is. De registerhouder van het LRZa is een bekende en erkende organisatie \(een gegevensautoriteit\). Zo zal iedere deelnemer erkend moeten zijn als deelnemer: omdat zij bekend is, omdat zij een geregistreerde organisatie is in een bekend register of omdat zij door samenwerkingsafspraken erkend is.
+Cliënten zijn deelnemer omdat ze cliënt zijn van een zorgorganisatie. Registerhouders, zorgorganisaties en secundaire deelnemers moeten erkend zijn door een autoriteit, een instantie die bevoegd is. Een zorgorganisatie is bijvoorbeeld erkend omdat zij geregistreerd is in het landelijk register van zorgaanbieders \(LRZa\). Het bewijs van registratie maakt dat een zorgorganisatie erkend is als deelnemer. De registerhouder van het LRZa is een bekende en erkende organisatie \(een gegevensautoriteit\). Zo zal iedere deelnemer erkend moeten zijn als deelnemer: omdat zij bekend is, omdat zij een geregistreerde organisatie is in een bekend register of omdat zij door samenwerkingsafspraken erkend is.
 
-### Gestandaardiseerde gegevensuitwisseling
+### Gestandaardiseerd gegevens beschikbaar stellen
 
-Een van de stelselstandaarden is een informatiestandaard. Het beschrijft vanuit een business use case één of meerdere uitwisselingen tussen deelnemers in het ecosysteem. Door middel van informatiestandaarden zijn de gegevensuitwisselingen in het ecosysteem gestandaardiseerd.
+Bronhouders stellen data en services beschikbaar in het ecosysteem. Een bronhouder gebruikt hiervoor:
+
+1. Technische afspraken over zorgbrede standaarden en protocollen voor het koppelvlak;
+2. Een domeinontologie. Iedere bronhouder stelt haar data beschikbaar in de ontologie van het domein \(of de domeinen\) waarin zij werkzaam is.  
+
+De technische afspraken en de domeinontologie vormen samen een technisch raamwerk. Het technische raamwerk moet gebruikt worden voor alle uitwisselingen. Dit moet voorkomen dat per keten andere technieken worden gehanteerd. 
 
 ![Overzicht van de rol van stelselstandaarden](../.gitbook/assets/exchange.svg)
 
-De domeinontologie is in bovenstaand figuur separaat benoemd. Informatiestandaarden zijn namelijk veelal gericht op een keten of een enkelvoudige uitwisseling van gegevens. Voor hergebruik is het echter noodzakelijk dat deze informatiestandaarden gebruik maken van dezelfde domeinontologieën en deze toepassen voor de keten.
+Een ontologie is de basis voor een uitwisseling in een informatiedomein. We willen in een norm de koppeling leggen tussen de technische afspraken, de domeinontologie en de specifieke informatiebehoefte van een afnemer. Een kwaliteitsstandaard vormt de grondslag voor de gegevensuitwisseling. In de kwaliteitsstandaard is beschreven waarom de gegevensuitwisseling noodzakelijk is om goede zorg te kunnen bieden.
 
 #### Gemeenschappelijke taal vanuit een netwerkperspectief
 
