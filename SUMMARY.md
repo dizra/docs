@@ -3,6 +3,7 @@
 * [Start](README.md)
 * [Manifest](manifest.md)
 * [Begrippenlijst](begrippenlijst.md)
+* [Bibliotheek](bibliotheek.md)
 
 ## Perspectieven
 
