@@ -17,8 +17,3 @@ We werken samen aan een duurzaam informatiestelsel. Het is een stelsel van stand
 9. Semantische en technische interoperabiliteit wordt in het informatiestelsel gerealiseerd door te kiezen voor **open internationale standaarden**. Iedere deelnemer aan het stelsel moet voldoen aan de standaarden die zijn afgesproken.
 
 Bovenstaande uitgangspunten worden gehanteerd naast de vigerende wet- en regelgeving waaraan iedere rechtspersoon moet voldoen. Wet- en regelgeving zoals gegevensbescherming door ontwerp en standaardinstellingen. Wet- en regelgeving is dus niet als principe opgenomen. De uitgangspunten zijn in de thema's en de richtlijnen verder uitgewerkt en gemotiveerd.
-
-## Beeldmateriaal voor communicatie van het manifest
-
-{% file src=".gitbook/assets/beeldmateriaal.zip" caption="Beeldmateriaal - Iconen van de principes" %}
-
