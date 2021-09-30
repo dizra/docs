@@ -10,7 +10,7 @@ description: >-
 
 Volgens de Autoriteit Consument en Markt is een eerlijk speelveld een speelveld waarin de kansen en keuzes van consumenten en andere bedrijven niet worden belemmerd. Een gelijk speelveld zien we ook als een marktsituatie \(een speelveld\) waar dezelfde regels gelden voor alle leveranciers, waardoor zij een gelijke uitgangspositie hebben om met elkaar te concurreren. Een gelijk speelveld waarin ook voor nieuwe toetreders kansen bestaan om te concurreren.
 
-DIZRA hanteert de richtlijn dat er alleen afspraken mogen worden gemaakt over het gebruik van open \(internationale\) standaarden, maar niet over het gebruik van producten of diensten van een leverancier. We bedoelen hier de standaarden, producten en diensten die in de technische zorginfrastructuur afgesproken worden.
+DIZRA hanteert de richtlijn dat alleen afspraken mogen worden gemaakt over het gebruik van open \(internationale\) standaarden, maar niet over het gebruik van producten of diensten van een leverancier. We bedoelen hier de standaarden, producten en diensten van organisaties die in de technische zorginfrastructuur met elkaar afgesproken worden.
 
 Een keuze voor een product of dienst van een leverancier als afspraak belemmert de vrijheid van keuze van natuurlijke personen en rechtspersonen binnen de gezondheidszorg. In de afspraken mogen geen belemmeringen worden opgelegd. Een zorgaanbieder moet een vrije keuze hebben voor een leverancier en geen gedwongen keuze.
 
