@@ -17,9 +17,8 @@
   * [Machineleesbaar](perspectieven/motivation/machineleesbaar.md)
   * [Federatief](perspectieven/motivation/federatief.md)
   * [Open standaarden](perspectieven/motivation/open-standaarden.md)
-* [Besturing](perspectieven/governance/README.md)
+* [Besturing](perspectieven/governance.md)
 * [Organisatorisch](perspectieven/organizational.md)
 * [Technologisch](perspectieven/technology/README.md)
   * [Systeemactoren](perspectieven/technology/actors.md)
   * [Leveranciers](perspectieven/technology/suppliers.md)
-

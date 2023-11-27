@@ -12,7 +12,7 @@ De zorg bouwt aan een duurzaam informatiestelsel. Een stelsel waarin data en ser
 Dit doen we door het beschrijven van:
 
 1. Een **manifest** met uitgangspunten. Het manifest beschrijft de uitgangspunten voor het maken van architectuurkeuzes. Met dezelfde uitgangspunten verkrijgen we meer samenhang.
-2. Een **begrippenlijst** om de terminologie te verklaren en te definiëren**.** Voor de begrippen maken we hergebruik van bestaande begrippenlijksten om samen aan een gemeenschappelijk taalgebruik te werken zodat we elkaar beter begrijpen.
+2. Een **begrippenlijst** om de terminologie te verklaren en te definiëren**.** Voor de begrippen maken we hergebruik van bestaande begrippenlijsten om samen aan een gemeenschappelijk taalgebruik te werken zodat we elkaar beter begrijpen.
 3. De **motivatie** voor de uitgangspunten.
 4. Een beschrijving van de **besturing** van het informatiestelsel gebaseerd op NEN7522:2020. Het stelsel zien we als een stelsel van standaarden. In de besturing staat het voortbrengingsproces en de governance van de standaarden beschreven.
 5. De context van het informatiestelsel als **ecosysteem** met haar deelnemers. Het laat zien wie de deelnemers zijn en hoe interoperabiliteit ontstaat tussen deelnemers.
@@ -75,4 +75,3 @@ Reacties die we graag ontvangen gaan bijvoorbeeld over:
 * vragen of twijfels hoe je iets moet uitleggen of toepassen.
 
 Je kunt reageren door een mail te sturen naar: [architectuurcommunityzorg@zinl.nl](mailto:architectuurcommunityzorg@zinl.nl)
-
